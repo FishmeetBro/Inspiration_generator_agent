@@ -631,7 +631,104 @@ python "C:\Users\Administrator\Documents\Codex\2026-06-10\files-mentioned-by-the
 - 只让最终终审和报告输出走 GPT-4o
 
 ---
+### 场景 5.1：想切换某个 Agent 使用的模型 / API
 
+这是很常见的需求。
+
+比如你可能会想：
+
+- 有时候让中枢 Agent 用 GPT
+- 有时候让特征迁移 Agent 用 DeepSeek
+- 有时候让场景拆解 Agent 用 Groq
+
+这类修改，主要看 3 个地方：
+
+- `.env`
+- `api_clients.py`
+- `main.py`
+
+它们的职责分别是：
+
+- `.env`：控制默认 key 和默认模型名
+- `api_clients.py`：控制怎么调用不同供应商的 API
+- `main.py`：控制每个 Agent 实际走哪家模型
+
+#### 最简单的理解
+
+- 想改“默认模型名”，优先改 `.env`
+- 想改“调用方式”，改 `api_clients.py`
+- 想改“哪个 Agent 用哪个模型”，改 `main.py`
+
+#### 当前项目里最关键的切换入口
+
+在 `main.py` 里，最关键的是这几个函数：
+
+- `call_batch_llm(...)`
+- `call_reasoning_llm(...)`
+- `clean_market_results(...)`
+- `run_feature_transfer(...)`
+- `run_scenario_validation(...)`
+- `run_ip_guard(...)`
+- `render_markdown_report(...)`
+
+你可以这样理解：
+
+- `call_batch_llm(...)`
+  负责批量处理任务默认走谁
+  现在默认是：DeepSeek 优先，Groq 兜底
+
+- `call_reasoning_llm(...)`
+  负责核心推理任务默认走谁
+  现在默认是：OpenAI / GPT-4o
+
+#### 如果你想“全部改成 GPT”
+
+优先改 `main.py`：
+
+- 把 `call_batch_llm(...)` 里的调用改成 `call_openai_chat(...)`
+- 或者把 `safe_llm_json(..., provider="deepseek")` 这类地方改成 `provider="openai"`
+
+适合场景：
+
+- 你更看重质量
+- 不那么在意成本
+
+#### 如果你想“全部改成 DeepSeek”
+
+优先改：
+
+- `call_reasoning_llm(...)`
+
+把它从：
+
+- 调用 `call_openai_chat(...)`
+
+改成：
+
+- 调用 `call_deepseek_chat(...)`
+
+这样中枢、终审、报告都可以切过去。
+
+适合场景：
+
+- 你想明显压缩成本
+- 接受部分推理稳定性下降
+
+#### 如果你想“只改某个 Agent”
+
+这是最推荐的方式。
+
+例如：
+
+- 想让爆款清洗 Agent 用 DeepSeek：
+  改 `clean_market_results(...)`
+
+- 想让场景拆解 Agent 用 GPT：
+  改 `run_scenario_validation(...)`
+
+- 想让特征迁移 Agent 用 DeepSeek：
+  改 `run_feature_transfer(...)`
+  
 ### 场景 6：想调成本 / 物流规则
 
 改这里：
