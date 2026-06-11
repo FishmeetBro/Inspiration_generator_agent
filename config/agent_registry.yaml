@@ -1,0 +1,108 @@
+system_name: "Codex爆款产品灵感生成系统"
+version: "1.0"
+
+main_agent:
+  name: "中枢调度主Agent"
+  prompt_file: "prompts/00_中枢调度主Agent_SystemPrompt.md"
+  responsibilities:
+    - "识别工作流类型"
+    - "调度子Agent"
+    - "合并结果"
+    - "执行终审"
+    - "输出最终方案"
+
+sub_agents:
+  - id: "agent_trend"
+    name: "全网爆款溯源挖掘Agent"
+    prompt_file: "prompts/01_全网爆款溯源挖掘Agent.md"
+    trigger_when:
+      - "用户要做爆款微创新"
+      - "需要查同赛道增长逻辑"
+      - "需要从现有爆款提炼差评和结构特征"
+    output_keys:
+      - "market_signals"
+
+  - id: "agent_new_domain"
+    name: "社会新领域空白需求探测Agent"
+    prompt_file: "prompts/02_社会新领域空白需求探测Agent.md"
+    trigger_when:
+      - "用户要找蓝海机会"
+      - "需要寻找早期商业化圈层"
+      - "需要从行为变化挖掘新品机会"
+    output_keys:
+      - "opportunities"
+
+  - id: "agent_feature_transfer"
+    name: "全域特征库提取与跨域迁移Agent"
+    prompt_file: "prompts/03_全域特征库提取与跨域迁移Agent.md"
+    trigger_when:
+      - "需要从爆款或新领域中抽取底层特征"
+      - "需要把特征迁移到新产品"
+      - "需要生成候选产品定义"
+    output_keys:
+      - "feature_matches"
+
+  - id: "agent_scenario"
+    name: "用户全场景拆解Agent"
+    prompt_file: "prompts/04_用户全场景拆解Agent.md"
+    trigger_when:
+      - "需要验证真实使用链路"
+      - "需要筛掉场景错位方案"
+      - "需要补齐隐性痛点和环境约束"
+    output_keys:
+      - "scenario_reviews"
+
+  - id: "agent_ip_guard"
+    name: "专利竞品前置预警Agent"
+    prompt_file: "prompts/05_专利竞品前置预警Agent.md"
+    trigger_when:
+      - "需要早期排查侵权和竞品近似"
+      - "需要判断平台合规风险"
+      - "需要输出专利布局建议"
+    output_keys:
+      - "risk_reviews"
+
+  - id: "agent_doc_beautifier"
+    name: "文档美化Agent"
+    prompt_file: "prompts/06_文档美化Agent.md"
+    trigger_when:
+      - "需要把最终灵感结果整理成可读报告"
+      - "需要生成 Markdown 产品灵感报告"
+      - "需要对外展示或团队内部汇报"
+    output_keys:
+      - "markdown_report"
+
+routing_rules:
+  workflow_1:
+    order:
+      - "agent_trend"
+      - "agent_feature_transfer"
+      - "agent_scenario"
+      - "agent_ip_guard"
+      - "main_agent_final_review"
+      - "agent_doc_beautifier"
+  workflow_2:
+    order:
+      - "agent_new_domain"
+      - "agent_scenario"
+      - "agent_trend"
+      - "agent_feature_transfer"
+      - "agent_ip_guard"
+      - "main_agent_final_review"
+      - "agent_doc_beautifier"
+  workflow_3:
+    order:
+      - "agent_feature_transfer"
+      - "agent_scenario"
+      - "agent_ip_guard"
+      - "main_agent_final_review"
+      - "agent_doc_beautifier"
+  hybrid:
+    order:
+      - "agent_new_domain"
+      - "agent_trend"
+      - "agent_feature_transfer"
+      - "agent_scenario"
+      - "agent_ip_guard"
+      - "main_agent_final_review"
+      - "agent_doc_beautifier"

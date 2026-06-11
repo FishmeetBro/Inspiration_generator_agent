@@ -1,0 +1,200 @@
+version: "1.0"
+package_name: "codex-product-idea-multi-agent"
+
+enums:
+  workflow_type:
+    - workflow_1
+    - workflow_2
+    - workflow_3
+    - hybrid
+  market:
+    - douyin_cn
+    - amazon_global
+  verdict:
+    - ship
+    - revise
+    - drop
+  check_status:
+    - pass
+    - risk
+    - fail
+  validation_status:
+    - pass
+    - revise
+    - fail
+  risk_level:
+    - low
+    - medium
+    - high
+
+objects:
+  task_brief:
+    required:
+      - request_id
+      - user_goal
+      - target_market
+      - workflow_hint
+    fields:
+      request_id: string
+      user_goal: string
+      target_market:
+        type: array
+        items: market
+      workflow_hint: workflow_type
+      constraints:
+        type: object
+        fields:
+          categories:
+            type: array
+            items: string
+          exclude_categories:
+            type: array
+            items: string
+          max_material_delta_pct: number
+          min_margin_cn: number
+          min_margin_global: number
+          small_parcel_only: boolean
+          avoid_electronics: boolean
+          avoid_patent_dense_shapes: boolean
+      seed_keywords:
+        type: array
+        items: string
+
+  candidate_concept:
+    required:
+      - concept_name
+      - product_definition
+      - target_users
+      - pain_points
+    fields:
+      concept_name: string
+      product_definition: string
+      target_users:
+        type: array
+        items: string
+      pain_points:
+        type: array
+        items: string
+      scenarios:
+        type: array
+        items: string
+      migrated_features:
+        type: array
+        items: string
+      structural_points:
+        type: array
+        items: string
+      accessory_matrix_options:
+        type: array
+        items: string
+      cost_risk_notes:
+        type: array
+        items: string
+      compliance_risk_notes:
+        type: array
+        items: string
+
+  final_idea_spec:
+    required:
+      - idea_id
+      - idea_name
+      - opportunity_source
+      - target_users
+      - core_pain_points
+      - product_definition
+      - final_verdict
+    fields:
+      idea_id: string
+      idea_name: string
+      opportunity_source:
+        type: object
+        fields:
+          source_type: string
+          summary: string
+      target_users:
+        type: array
+        items: string
+      core_pain_points:
+        type: array
+        items: string
+      scenarios:
+        type: array
+        items: string
+      migrated_features:
+        type: array
+        items: string
+      product_definition: string
+      differentiation: string
+      cost_assessment:
+        type: object
+        fields:
+          material_delta_pct: number
+          margin_cn_est: number
+          margin_global_est: number
+          status: check_status
+      logistics_assessment:
+        type: object
+        fields:
+          small_parcel_friendly: boolean
+          stackable: boolean
+          risk_notes:
+            type: array
+            items: string
+      ip_compliance_assessment:
+        type: object
+        fields:
+          risk_level: risk_level
+          risk_reason:
+            type: array
+            items: string
+          design_patent_direction:
+            type: array
+            items: string
+          accessory_matrix_direction:
+            type: array
+            items: string
+      recommended_platforms:
+        type: array
+        items: market
+      validation_next_steps:
+        type: array
+        items: string
+      final_verdict: verdict
+
+contracts:
+  main_agent_input:
+    object: task_brief
+  main_agent_output:
+    type: object
+    fields:
+      request_id: string
+      workflow_type: workflow_type
+      market:
+        type: array
+        items: market
+      top_candidates:
+        type: array
+        items: final_idea_spec
+      dropped_candidates:
+        type: array
+        items:
+          type: object
+          fields:
+            idea_name: string
+            drop_reason:
+              type: array
+              items: string
+      orchestration_notes:
+        type: array
+        items: string
+
+rules:
+  hard_constraints:
+    - "新增特征物料成本增幅不超过 15%"
+    - "跨境候选需优先满足轻小件和 FBA 友好"
+    - "高侵权风险或高合规风险方案不能进入 top_candidates"
+    - "所有候选必须能解释付费理由和使用场景"
+  soft_preferences:
+    - "优先小众高增长赛道"
+    - "优先可做配件矩阵的主体"
+    - "优先低复杂度结构"
