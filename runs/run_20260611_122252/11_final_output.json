@@ -1,0 +1,27 @@
+{
+  "request_id": "REQ-20260611-122252",
+  "workflow_type": "workflow_1",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [],
+  "dropped_candidates": [
+    {
+      "idea_name": "Modular Clamp-On Desk Organizer",
+      "drop_reason": []
+    }
+  ],
+  "orchestration_notes": [
+    "专利预警阶段未能成功，需要进一步进行专利检索和设计优化。",
+    "产品设计符合市场需求，但需注意专利风险和设计优化以确保合规性。",
+    "Loaded prompts: 7",
+    "Route: agent_trend -> agent_feature_transfer -> agent_scenario -> agent_ip_guard -> main_agent_final_review -> agent_doc_beautifier",
+    "OpenAI model: gpt-4o",
+    "Batch cleaner: DeepSeek primary, Groq fallback",
+    "Search layer: SERPAPI if configured, otherwise SERPER fallback",
+    "Post-generation validation added: patent risk screen",
+    "Post-generation validation added: cost and logistics screen"
+  ],
+  "report_output_path": "C:\\Users\\Administrator\\Desktop\\产品调研\\爆款灵感生成器\\Codex爆款产品灵感智能体资产包\\outputs\\灵感报告_20260611.md"
+}

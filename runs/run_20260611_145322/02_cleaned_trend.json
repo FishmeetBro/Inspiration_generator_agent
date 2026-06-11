@@ -1,0 +1,125 @@
+{
+  "agent": "trend_reverse_engineering",
+  "market_signals": [
+    {
+      "signal_id": "signal_001",
+      "product_name": "Away 旅行收纳包组",
+      "platform": "amazon_global",
+      "category": "travel_organizer",
+      "growth_window": "30d",
+      "growth_reason_type": "brand_differentiation",
+      "target_users": [
+        "商务旅客",
+        "时尚旅行者"
+      ],
+      "user_pain_points": [
+        "收纳杂乱",
+        "行李空间利用不足"
+      ],
+      "review_complaints": [],
+      "premium_drivers": [
+        "品牌知名度",
+        "设计感",
+        "材质质感"
+      ],
+      "structure_highlights": [
+        "多层分隔",
+        "可组合套装"
+      ],
+      "appearance_highlights": [
+        "海军蓝色",
+        "极简风格"
+      ],
+      "extractable_features": [
+        "轻量化",
+        "防水面料"
+      ],
+      "risks": [
+        "价格较高",
+        "卷收卡扣结构不明确"
+      ]
+    },
+    {
+      "signal_id": "signal_002",
+      "product_name": "Samsonite 真空压缩收纳袋（15件套）",
+      "platform": "amazon_global",
+      "category": "travel_organizer",
+      "growth_window": "30d",
+      "growth_reason_type": "functional_innovation",
+      "target_users": [
+        "长途旅行者",
+        "家庭出游者",
+        "极简打包者"
+      ],
+      "user_pain_points": [
+        "行李箱空间不足",
+        "衣物压缩费力"
+      ],
+      "review_complaints": [],
+      "premium_drivers": [
+        "大品牌背书",
+        "无线电动泵便利性",
+        "15件套完整方案"
+      ],
+      "structure_highlights": [
+        "密封夹条",
+        "气阀设计"
+      ],
+      "appearance_highlights": [
+        "黑色",
+        "袋体透明可见内容物"
+      ],
+      "extractable_features": [
+        "电动充气/抽气",
+        "节省空间",
+        "密封防潮"
+      ],
+      "risks": [
+        "需电源/充电",
+        "密封性耐用性存疑"
+      ]
+    },
+    {
+      "signal_id": "signal_003",
+      "product_name": "Wessleco 卷式刀袋（结构参考）",
+      "platform": "amazon_global",
+      "category": "travel_organizer",
+      "growth_window": "30d",
+      "growth_reason_type": "structure_transfer",
+      "target_users": [
+        "工具携带者",
+        "专业旅行者"
+      ],
+      "user_pain_points": [
+        "小物品杂乱",
+        "卷收结构不普及"
+      ],
+      "review_complaints": [],
+      "premium_drivers": [
+        "卷收结构独特性",
+        "多插槽分隔"
+      ],
+      "structure_highlights": [
+        "卷式收纳",
+        "弹性绑带"
+      ],
+      "appearance_highlights": [
+        "灰色",
+        "紧凑圆柱形"
+      ],
+      "extractable_features": [
+        "可扩展插槽",
+        "耐磨尼龙"
+      ],
+      "risks": [
+        "非旅行收纳专用",
+        "卡扣机制缺失"
+      ]
+    }
+  ],
+  "summary": [
+    "当前旅行收纳市场主要聚焦品牌化套装与空间压缩功能，卷收结构在刀具收纳中有成熟应用但未广泛迁移至衣物收纳，卡扣机制表现不突出。建议关注真空压缩与卷式组合的创新机会。",
+    "批量清洗失败，已跳过该批",
+    "批量清洗失败，已跳过该批"
+  ]
+}

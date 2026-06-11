@@ -1,0 +1,113 @@
+{
+  "request_id": "REQ-20260611-150105",
+  "workflow_type": "workflow_1",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "折叠式沥水夹扣架",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "厨房台面空间不足，水槽周边台面潮湿，厨具沥水后积水"
+      },
+      "target_users": [
+        "家庭主妇",
+        "小厨房用户",
+        "租房者"
+      ],
+      "core_pain_points": [
+        "厨房台面空间不足，水槽周边台面潮湿，厨具沥水后积水"
+      ],
+      "scenarios": [
+        "单人使用",
+        "居家收纳",
+        "小型厨房"
+      ],
+      "migrated_features": [
+        "沥水功能",
+        "夹扣固定",
+        "可折叠结构"
+      ],
+      "product_definition": "一种轻巧的折叠式沥水架，采用夹扣固定方式，适用于厨房边角和水槽周边，帮助快速沥水并节省台面空间。",
+      "differentiation": "结合公开榜单信号、场景校验和结构迁移得到的差异化轻小件方案",
+      "cost_assessment": {
+        "material_delta_pct": 9,
+        "margin_cn_est": 32,
+        "margin_global_est": 46,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "建议控制为轻小件扁平包装"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "折叠式设计和夹扣固定方式在市场上已有类似产品，存在外观和结构专利重叠的风险。",
+          "沥水功能和倾斜面设计可能与现有专利产品相似。",
+          "夹扣设计需特别注意与现有产品的差异化，以避免侵权。"
+        ],
+        "design_patent_direction": [
+          "在设计上增加独特的纹理或装饰元素，以增强外观专利的独特性。",
+          "申请实用新型专利，保护创新的夹扣和折叠机制。"
+        ],
+        "accessory_matrix_direction": [
+          "可替换夹扣",
+          "不同尺寸的沥水面板"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "人工复核前 10 个竞品页面",
+        "补一版 BOM 和包装测算",
+        "进一步确认平台合规词和侵权关键词"
+      ],
+      "final_verdict": "revise"
+    }
+  ],
+  "dropped_candidates": [],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "kitchen_micro_tools",
+    "search_modifiers": [
+      "kitchen gadget",
+      "countertop",
+      "prep station"
+    ],
+    "exploration_focus": [
+      "高频备餐动作",
+      "台面效率",
+      "低学习成本"
+    ],
+    "negative_anchors": [
+      "常规保鲜盒",
+      "大件锅架",
+      "标准调味罐"
+    ]
+  },
+  "orchestration_notes": [
+    "任务识别为 workflow_1，目标是围绕厨房边角和高频备餐动作进行存量爆款微创新。",
+    "调用了全网爆款溯源挖掘 Agent、全域特征库提取与跨域迁移 Agent、用户全场景拆解 Agent 和专利竞品前置预警 Agent。",
+    "终审标准包括去重、场景合理性、成本与物流约束、平台合规和专利风险评估。",
+    "折叠式沥水夹扣架在多方面未能通过终审，建议在夹扣设计和倾斜面上进行差异化创新，并考虑多功能性以增强市场竞争力。",
+    "Loaded prompts: 7",
+    "Route: agent_trend -> agent_feature_transfer -> agent_scenario -> agent_ip_guard -> main_agent_final_review -> agent_doc_beautifier",
+    "OpenAI model: gpt-4o",
+    "Batch cleaner: DeepSeek primary, Groq fallback",
+    "Search layer: SERPAPI if configured, otherwise SERPER fallback",
+    "Auto diversification: kitchen_micro_tools"
+  ]
+}

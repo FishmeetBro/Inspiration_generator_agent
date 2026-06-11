@@ -1,0 +1,23 @@
+{
+  "patent_validations": [
+    {
+      "idea_name": "磁吸模块化U型桌面收纳架",
+      "public_search_url": "https://patents.google.com/?q=%E7%A3%81%E5%90%B8%E6%A8%A1%E5%9D%97%E5%8C%96U%E5%9E%8B%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E6%9E%B6+%E7%A3%81%E5%90%B8%E5%9B%BA%E5%AE%9A+%E5%8F%AF%E6%8B%86%E5%8D%B8%E6%A8%A1%E5%9D%97%E5%8C%96+U%E5%9E%8B%E6%9E%B6%E7%A9%BA%E8%AE%BE%E8%AE%A1+design+patent",
+      "infringement_risk_level": "low",
+      "validation_status": "pass",
+      "top_similarity_score": 0.0,
+      "similar_patent_signals": [],
+      "patent_gap_analysis": [
+        "当前公开检索结果中对特征 `磁吸固定` 的直接覆盖较少，可优先从该结构差异切入。",
+        "当前公开检索结果中对特征 `可拆卸模块化` 的直接覆盖较少，可优先从该结构差异切入。",
+        "当前公开检索结果中对特征 `U型架空设计` 的直接覆盖较少，可优先从该结构差异切入。"
+      ],
+      "avoidance_suggestions": [
+        "避免直接复用热门主体轮廓和开孔布局。",
+        "优先修改接口位置、模块拼接关系和配件连接方式。",
+        "优先将专利布局放在主体外观 + 可拆分配件矩阵上。"
+      ],
+      "notes": "本结果仅为公开检索初筛，不构成法律意见。"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "workflow_type": "workflow_2",
+  "route": [
+    "agent_new_domain",
+    "agent_scenario",
+    "agent_feature_transfer",
+    "agent_ip_guard",
+    "main_agent_final_review"
+  ],
+  "selection_reason": [
+    "用户目标明确为新领域原生创新，适合选择 workflow_2",
+    "目标市场包括抖音和亚马逊，需考虑全球用户需求",
+    "用户需求聚焦于手作、DIY 和兴趣工作台，需探索新领域空白需求"
+  ],
+  "filter_strategy": [
+    "排除带电产品、大件家具和危险品",
+    "确保物料成本增幅不超过 15%",
+    "优先选择小件、可堆叠、适配 FBA 的产品",
+    "避免专利密集的形状和设计"
+  ],
+  "top_focus_signals": [
+    {
+      "signal_id": "diy_fittings_douyin_202506",
+      "product_name": "手作DIY配件",
+      "platform": "douyin_cn",
+      "category": "DIY配件",
+      "growth_window": "30d",
+      "growth_reason_type": "新品趋势/场景化",
+      "target_users": [
+        "手工爱好者",
+        "年轻女性",
+        "Z世代",
+        "小镇青年"
+      ],
+      "user_pain_points": [
+        "现有配件缺乏创意",
+        "个性化不足",
+        "品质参差不齐"
+      ],
+      "premium_drivers": [
+        "创意设计",
+        "易用性",
+        "颜值高",
+        "模块化组合"
+      ],
+      "structure_highlights": [
+        "模块化插槽设计",
+        "标签化分类"
+      ],
+      "appearance_highlights": [
+        "高颜值",
+        "色彩丰富",
+        "ins风格"
+      ],
+      "extractable_features": [
+        "DIY组合套装",
+        "可定制标签",
+        "适配多种工具"
+      ],
+      "risks": [
+        "竞争激烈",
+        "低价内卷",
+        "仿品风险"
+      ]
+    },
+    {
+      "signal_id": "SIG-20250328-002",
+      "product_name": "Tt Core P3 壁挂式机箱（全模块化架构）",
+      "platform": "douyin_cn",
+      "category": "DIY硬件/模块化机箱",
+      "growth_window": "7d",
+      "growth_reason_type": "抖音热榜讨论度上升，高端DIY玩家关注模块化、壁挂式设计",
+      "target_users": [
+        "高端DIY装机玩家",
+        "PC硬件爱好者",
+        "追求个性化展示的用户"
+      ],
+      "user_pain_points": [
+        "传统机箱空间利用率低",
+        "硬件展示效果差",
+        "升级维护不便"
+      ],
+      "premium_drivers": [
+        "全模块化DMD架构",
+        "壁挂节省桌面空间",
+        "支持多硬件配置"
+      ],
+      "structure_highlights": [
+        "可拆卸侧板与支架",
+        "多插槽设计",
+        "3.5英寸与2.5英寸硬盘仓位分离"
+      ],
+      "appearance_highlights": [
+        "壁挂式设计",
+        "开放式布局便于展示硬件"
+      ],
+      "extractable_features": [
+        "支持多种主板规格",
+        "显卡竖装",
+        "水冷安装"
+      ],
+      "risks": [
+        "市场接受度有限",
+        "对安装空间有要求"
+      ]
+    }
+  ]
+}

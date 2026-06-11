@@ -1,0 +1,60 @@
+{
+  "agent": "ip_risk_guard",
+  "risk_reviews": [
+    {
+      "risk_id": "IPR-001",
+      "concept_name": "磁吸模块化桌面收纳系统",
+      "appearance_risk": "medium",
+      "structure_risk": "medium",
+      "platform_compliance_risk": "medium",
+      "competitor_overlap_risk": "medium",
+      "risk_reasons": [
+        "磁吸模块化设计在市场上较为常见，存在专利重叠风险。",
+        "透明面板和可拆卸隔板可能与现有产品外观相似。",
+        "亚马逊平台对磁吸产品的合规性要求较高，需确保磁吸强度和安全性。"
+      ],
+      "safe_zones": [
+        "非专利密集区域的磁吸设计",
+        "使用通用的透明面板设计"
+      ],
+      "redesign_directions": [
+        "探索非磁吸的模块化连接方式，如卡扣或滑动连接。",
+        "增加独特的外观元素以避免与现有产品相似。"
+      ],
+      "patent_layout_suggestions": [
+        "申请模块化连接结构的实用新型专利。",
+        "设计独特的外观专利以保护整体视觉设计。"
+      ],
+      "final_risk_status": "revise"
+    },
+    {
+      "risk_id": "IPR-002",
+      "concept_name": "滑轨磁吸小物收纳盒",
+      "appearance_risk": "low",
+      "structure_risk": "medium",
+      "platform_compliance_risk": "medium",
+      "competitor_overlap_risk": "medium",
+      "risk_reasons": [
+        "滑轨和磁吸结合的设计在市场上有一定的专利布局。",
+        "磁吸底座的强度和安全性需符合平台标准。",
+        "可能与现有的滑轨收纳产品存在结构相似性。"
+      ],
+      "safe_zones": [
+        "使用非专利密集的滑轨设计",
+        "确保磁吸强度符合国际安全标准"
+      ],
+      "redesign_directions": [
+        "考虑使用其他固定方式，如吸盘或粘贴。",
+        "优化滑轨设计以增加独特性和功能性。"
+      ],
+      "patent_layout_suggestions": [
+        "申请滑轨设计的实用新型专利。",
+        "开发独特的外观设计以申请外观专利。"
+      ],
+      "final_risk_status": "revise"
+    }
+  ],
+  "summary": [
+    "两款产品概念均存在中等程度的结构和平台合规风险，建议在设计上进行调整以规避潜在的专利和合规问题。"
+  ]
+}

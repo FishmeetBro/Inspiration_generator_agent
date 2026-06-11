@@ -1,0 +1,23 @@
+{
+  "patent_validations": [
+    {
+      "idea_name": "RollFlex 便携收纳卷",
+      "public_search_url": "https://patents.google.com/?q=RollFlex+%E4%BE%BF%E6%90%BA%E6%94%B6%E7%BA%B3%E5%8D%B7+%E8%BD%BB%E9%87%8F%E5%8C%96+%E5%8D%B7%E5%BC%8F%E6%94%B6%E7%BA%B3+%E5%BC%B9%E6%80%A7%E7%BB%91%E5%B8%A6+design+patent",
+      "infringement_risk_level": "low",
+      "validation_status": "pass",
+      "top_similarity_score": 0.0,
+      "similar_patent_signals": [],
+      "patent_gap_analysis": [
+        "当前公开检索结果中对特征 `轻量化` 的直接覆盖较少，可优先从该结构差异切入。",
+        "当前公开检索结果中对特征 `卷式收纳` 的直接覆盖较少，可优先从该结构差异切入。",
+        "当前公开检索结果中对特征 `弹性绑带` 的直接覆盖较少，可优先从该结构差异切入。"
+      ],
+      "avoidance_suggestions": [
+        "避免直接复用热门主体轮廓和开孔布局。",
+        "优先修改接口位置、模块拼接关系和配件连接方式。",
+        "优先将专利布局放在主体外观 + 可拆分配件矩阵上。"
+      ],
+      "notes": "本结果仅为公开检索初筛，不构成法律意见。"
+    }
+  ]
+}

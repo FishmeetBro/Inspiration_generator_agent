@@ -1,0 +1,113 @@
+{
+  "request_id": "REQ-20260611-144824",
+  "workflow_type": "workflow_3",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "宠物毛发防缠绕清洁套装",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "宠物家庭清洁过程中，宠物毛发缠绕、清洁工具难以存储和使用不便的问题。"
+      },
+      "target_users": [
+        "宠物家庭",
+        "宠物主人"
+      ],
+      "core_pain_points": [
+        "宠物家庭清洁过程中，宠物毛发缠绕、清洁工具难以存储和使用不便的问题。"
+      ],
+      "scenarios": [
+        "单人使用",
+        "居家收纳"
+      ],
+      "migrated_features": [
+        "防缠绕",
+        "快拆",
+        "壁挂"
+      ],
+      "product_definition": "一套专为宠物家庭设计的清洁工具，包含防缠绕刷头和快拆式手柄，配有壁挂收纳架。",
+      "differentiation": "结合公开榜单信号、场景校验和结构迁移得到的差异化轻小件方案",
+      "cost_assessment": {
+        "material_delta_pct": 9,
+        "margin_cn_est": 32,
+        "margin_global_est": 46,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "建议控制为轻小件扁平包装"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "防缠绕刷头设计可能与现有专利设计相似",
+          "快拆式手柄与磁吸连接存在专利重合风险",
+          "壁挂收纳架设计较为常见，可能与现有产品重合"
+        ],
+        "design_patent_direction": [
+          "申请防缠绕刷头的外观专利",
+          "开发独特的手柄连接机制并申请专利"
+        ],
+        "accessory_matrix_direction": [
+          "多种刷头选择",
+          "可扩展手柄长度",
+          "附加清洁液瓶"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "人工复核前 10 个竞品页面",
+        "补一版 BOM 和包装测算",
+        "进一步确认平台合规词和侵权关键词"
+      ],
+      "final_verdict": "revise"
+    }
+  ],
+  "dropped_candidates": [],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "pet_and_cleaning",
+    "search_modifiers": [
+      "pet owner",
+      "grooming",
+      "cleaning station"
+    ],
+    "exploration_focus": [
+      "宠物家庭痛点",
+      "清洁链路整合",
+      "配件矩阵"
+    ],
+    "negative_anchors": [
+      "纯桌面办公收纳",
+      "普通垃圾袋盒",
+      "传统扫把挂架"
+    ]
+  },
+  "orchestration_notes": [
+    "当前两个候选产品在专利风险评估中均存在中等结构风险和竞品重合风险。",
+    "建议在连接机制和模块化设计上进行创新以规避专利重合。",
+    "需探索不同于磁吸的连接方式，如卡扣或旋转锁定。",
+    "设计独特的刷头形状以避免专利重合。",
+    "开发独特的模块化连接方式和壁挂安装机制。",
+    "Loaded prompts: 7",
+    "Route: agent_feature_transfer -> agent_scenario -> agent_ip_guard -> main_agent_final_review -> agent_doc_beautifier",
+    "OpenAI model: gpt-4o",
+    "Batch cleaner: DeepSeek primary, Groq fallback",
+    "Search layer: SERPAPI if configured, otherwise SERPER fallback",
+    "Auto diversification: pet_and_cleaning"
+  ]
+}

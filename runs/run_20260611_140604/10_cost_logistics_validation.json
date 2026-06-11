@@ -1,0 +1,36 @@
+{
+  "cost_logistics_validations": [
+    {
+      "idea_name": "磁吸模块化U型桌面收纳架",
+      "product_profile_estimate": {
+        "length_in": 12.0,
+        "width_in": 8.0,
+        "height_in": 1.2,
+        "weight_lb": 1.1,
+        "target_sale_price_usd": 21.99,
+        "base_product_cost_usd": 3.8000000000000003,
+        "confidence": "estimated"
+      },
+      "fba_cost_estimate": {
+        "size_tier": "large_standard",
+        "chargeable_weight_kg": 0.499,
+        "headhaul_est_usd": 3.24,
+        "tail_fulfillment_est_usd": 4.94,
+        "monthly_storage_est_usd": 0.08,
+        "referral_fee_est_usd": 3.3,
+        "base_product_cost_usd": 3.8,
+        "target_sale_price_usd": 21.99,
+        "gross_margin_rate": 0.3018
+      },
+      "small_parcel_friendly": true,
+      "meets_crossborder_margin": false,
+      "priority": "low",
+      "recommendations": [
+        "优先压缩尺寸或减重。",
+        "优先降低主体物料成本或减少配件数。",
+        "若目标售价无法提升，建议降为低优先级。"
+      ],
+      "notes": "本结果为本地估算值，建议结合真实包装尺寸和采购价复核。"
+    }
+  ]
+}

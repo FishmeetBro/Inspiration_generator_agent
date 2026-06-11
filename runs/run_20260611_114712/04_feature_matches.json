@@ -1,0 +1,96 @@
+{
+  "agent": "feature_transfer_engine",
+  "feature_matches": [
+    {
+      "match_id": "MAT-001",
+      "source_problem": "桌面杂乱无分类，储物空间不足，缺乏美观",
+      "abstracted_features": [
+        "磁吸模块化",
+        "可拆卸隔板",
+        "透明收纳"
+      ],
+      "selected_features": [
+        "磁吸模块化",
+        "可拆卸隔板"
+      ],
+      "rejected_features": [
+        "无线充电标准",
+        "过载保护"
+      ],
+      "feature_selection_reason": [
+        "磁吸模块化和可拆卸隔板可以有效解决桌面杂乱和储物空间不足的问题，同时保持产品的美观性和灵活性。"
+      ],
+      "candidate_product_concepts": [
+        {
+          "concept_name": "磁吸模块化桌面收纳系统",
+          "concept_definition": "一个可根据用户需求自由组合的磁吸模块化桌面收纳系统，包含可拆卸隔板和透明面板，适合多种桌面环境。",
+          "structural_points": [
+            "磁吸模块化连接",
+            "可拆卸隔板设计",
+            "透明面板"
+          ],
+          "interaction_points": [
+            "用户可自由组合模块",
+            "隔板可根据物品大小调整"
+          ],
+          "accessory_matrix_options": [
+            "多种颜色模块",
+            "不同尺寸隔板"
+          ],
+          "cost_risk_notes": [
+            "保持在小件产品范围内，材料成本需控制在15%以内"
+          ],
+          "compliance_risk_notes": [
+            "避免使用专利密集的磁吸连接结构"
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "MAT-002",
+      "source_problem": "小物件难找，磁吸应用场景有限，开合麻烦",
+      "abstracted_features": [
+        "磁吸底座",
+        "滑轨拉门",
+        "透明窗口"
+      ],
+      "selected_features": [
+        "磁吸底座",
+        "滑轨拉门"
+      ],
+      "rejected_features": [
+        "可吸附金属表面"
+      ],
+      "feature_selection_reason": [
+        "磁吸底座和滑轨拉门可以提高小物件的易取性和使用便捷性，适合家庭和办公环境。"
+      ],
+      "candidate_product_concepts": [
+        {
+          "concept_name": "滑轨磁吸小物收纳盒",
+          "concept_definition": "一种带有滑轨拉门和磁吸底座的小物收纳盒，适用于桌面和冰箱等多种场景。",
+          "structural_points": [
+            "滑轨拉门设计",
+            "磁吸底座固定"
+          ],
+          "interaction_points": [
+            "拉门式开合方便",
+            "磁吸底座可稳固固定"
+          ],
+          "accessory_matrix_options": [
+            "多种颜色和尺寸选择"
+          ],
+          "cost_risk_notes": [
+            "滑轨和磁吸设计需控制成本，避免复杂结构"
+          ],
+          "compliance_risk_notes": [
+            "确保磁吸强度符合安全标准"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "通过提取和迁移磁吸模块化和可拆卸隔板等特征，设计出适合桌面收纳的创新产品。",
+    "滑轨拉门和磁吸底座的结合为小物件收纳提供了便捷的解决方案，适合多种使用场景。"
+  ]
+}

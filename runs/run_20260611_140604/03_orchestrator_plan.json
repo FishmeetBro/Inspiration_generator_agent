@@ -1,0 +1,151 @@
+{
+  "request_id": "REQ-20260611-140604",
+  "workflow_type": "workflow_1",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "磁吸可拆卸桌面收纳盒",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "基于亚马逊平台的磁吸可拆卸桌面收纳盒在30天内表现出显著的增长趋势，主要由于其功能性创新。"
+      },
+      "target_users": [
+        "办公族",
+        "学生",
+        "游戏玩家",
+        "极简主义者"
+      ],
+      "core_pain_points": [
+        "桌面电线杂乱",
+        "小物件难以分类",
+        "收纳盒占空间",
+        "取用不便"
+      ],
+      "scenarios": [
+        "办公桌面",
+        "学生书桌",
+        "游戏桌面"
+      ],
+      "migrated_features": [
+        "可叠加",
+        "多场景通用（桌面/冰箱）"
+      ],
+      "product_definition": "一种模块化、可拆卸的磁吸桌面收纳盒，适用于多种桌面场景，提供灵活的收纳解决方案。",
+      "differentiation": "通过磁吸设计和模块化组合，提升用户体验和空间利用率。",
+      "cost_assessment": {
+        "material_delta_pct": 10,
+        "margin_cn_est": 35,
+        "margin_global_est": 50,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "磁铁易失磁",
+          "塑料材质老化"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "磁吸设计可能存在专利风险"
+        ],
+        "design_patent_direction": [
+          "模块化组合设计"
+        ],
+        "accessory_matrix_direction": [
+          "扩展模块配件"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "进行磁吸设计的专利检索",
+        "用户测试以验证模块化设计的实用性"
+      ],
+      "final_verdict": "ship"
+    },
+    {
+      "idea_id": "IDEA-002",
+      "idea_name": "U型可拆卸收纳置物架",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "在抖音平台上，U型可拆卸收纳置物架在7天内因其纵向空间拓展创新而受到关注。"
+      },
+      "target_users": [
+        "办公族",
+        "小户型家居用户",
+        "数码设备密集者"
+      ],
+      "core_pain_points": [
+        "桌面空间不足",
+        "物品堆叠导致取用不便"
+      ],
+      "scenarios": [
+        "办公桌面",
+        "小户型家居"
+      ],
+      "migrated_features": [
+        "层数调节",
+        "承重能力"
+      ],
+      "product_definition": "一种U型设计的可拆卸收纳置物架，适合在有限空间内提供额外的存储和组织能力。",
+      "differentiation": "通过U型架空设计和可拆卸模块化组装，优化空间利用和灵活性。",
+      "cost_assessment": {
+        "material_delta_pct": 12,
+        "margin_cn_est": 32,
+        "margin_global_est": 48,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "稳定性不足（轻质桌面易移位）"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "low",
+        "risk_reason": [
+          "设计简单，专利风险较低"
+        ],
+        "design_patent_direction": [
+          "U型架空设计"
+        ],
+        "accessory_matrix_direction": [
+          "可拆卸层板配件"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "测试不同桌面材质下的稳定性",
+        "优化层板设计以减少积灰"
+      ],
+      "final_verdict": "ship"
+    }
+  ],
+  "dropped_candidates": [
+    {
+      "idea_name": "磁吸理线器",
+      "drop_reason": [
+        "磁吸力随时间衰减",
+        "金属表面吸附不牢固",
+        "与现有产品差异化不足"
+      ]
+    }
+  ],
+  "orchestration_notes": [
+    "选择了磁吸可拆卸桌面收纳盒和U型可拆卸收纳置物架作为重点开发对象，因其在功能创新和市场增长方面表现突出。",
+    "磁吸理线器因缺乏足够的差异化和潜在的磁吸力问题被淘汰。"
+  ]
+}

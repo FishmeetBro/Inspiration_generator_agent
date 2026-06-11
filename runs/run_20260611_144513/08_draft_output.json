@@ -1,0 +1,62 @@
+{
+  "request_id": "REQ-20260611-144513",
+  "workflow_type": "workflow_2",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [],
+  "dropped_candidates": [
+    {
+      "idea_name": "旋转抽拉式防尘化妆品展示盒",
+      "drop_reason": [
+        "旋转底座与抽拉式抽屉的组合可能与现有专利设计重合",
+        "透明防尘盖设计在市场上较为常见，存在高重合风险",
+        "旋转结构增加了制造复杂性，可能导致耐用性问题"
+      ]
+    },
+    {
+      "idea_name": "旋转防尘化妆刷展示桶",
+      "drop_reason": [
+        "旋转底座设计可能与现有产品相似",
+        "防尘盖的密封性设计需确保不侵犯现有专利"
+      ]
+    }
+  ],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "beauty_and_vanity",
+    "search_modifiers": [
+      "vanity",
+      "beauty organizer",
+      "daily routine"
+    ],
+    "exploration_focus": [
+      "高频取放",
+      "颜值陈列",
+      "防尘分区"
+    ],
+    "negative_anchors": [
+      "通用桌面文件盒",
+      "普通笔筒",
+      "标准透明抽屉盒"
+    ]
+  },
+  "orchestration_notes": [
+    "本次任务识别为新领域原生创新（workflow_2），目标是围绕梳妆台、化妆角和日常高频整理动作，寻找具备视觉吸引力的轻小件新品灵感。",
+    "调用了社会新领域空白需求探测 Agent、用户全场景拆解 Agent、全域特征库提取与跨域迁移 Agent、专利竞品前置预警 Agent。",
+    "终审标准包括去重、场景合理性、成本与物流约束、平台合规、专利风险等。",
+    "两款产品概念在专利风险评估中被淘汰，主要由于结构和外观上的专利重合风险。",
+    "建议在设计中引入创新的开合机制和独特的外观造型，以增强产品的市场差异化和竞争力。",
+    "Loaded prompts: 7",
+    "Route: agent_new_domain -> agent_scenario -> agent_trend -> agent_feature_transfer -> agent_ip_guard -> main_agent_final_review -> agent_doc_beautifier",
+    "OpenAI model: gpt-4o",
+    "Batch cleaner: DeepSeek primary, Groq fallback",
+    "Search layer: SERPAPI if configured, otherwise SERPER fallback",
+    "Auto diversification: beauty_and_vanity"
+  ]
+}

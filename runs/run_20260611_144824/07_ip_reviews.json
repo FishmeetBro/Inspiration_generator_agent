@@ -1,0 +1,59 @@
+{
+  "agent": "ip_risk_guard",
+  "risk_reviews": [
+    {
+      "risk_id": "IPR-001",
+      "concept_name": "宠物毛发防缠绕清洁套装",
+      "appearance_risk": "medium",
+      "structure_risk": "medium",
+      "platform_compliance_risk": "low",
+      "competitor_overlap_risk": "medium",
+      "risk_reasons": [
+        "防缠绕刷头设计可能与现有专利设计相似",
+        "快拆式手柄与磁吸连接存在专利重合风险",
+        "壁挂收纳架设计较为常见，可能与现有产品重合"
+      ],
+      "safe_zones": [
+        "非专利密集区域的刷头材料选择",
+        "创新的手柄连接方式"
+      ],
+      "redesign_directions": [
+        "探索不同于磁吸的连接方式，如卡扣或旋转锁定",
+        "设计独特的刷头形状以避免专利重合"
+      ],
+      "patent_layout_suggestions": [
+        "申请防缠绕刷头的外观专利",
+        "开发独特的手柄连接机制并申请专利"
+      ],
+      "final_risk_status": "revise"
+    },
+    {
+      "risk_id": "IPR-002",
+      "concept_name": "宠物清洁壁挂站",
+      "appearance_risk": "low",
+      "structure_risk": "medium",
+      "platform_compliance_risk": "low",
+      "competitor_overlap_risk": "medium",
+      "risk_reasons": [
+        "模块化壁挂设计可能与现有壁挂系统相似",
+        "防缠绕刷头设计存在专利重合风险"
+      ],
+      "safe_zones": [
+        "壁挂系统的创新模块组合",
+        "使用非专利密集的材料和设计"
+      ],
+      "redesign_directions": [
+        "开发独特的模块化连接方式",
+        "设计创新的壁挂安装机制"
+      ],
+      "patent_layout_suggestions": [
+        "申请模块化设计的实用新型专利",
+        "开发独特的壁挂安装系统并申请专利"
+      ],
+      "final_risk_status": "revise"
+    }
+  ],
+  "summary": [
+    "两款概念产品均存在中等结构风险和竞品重合风险，建议在连接机制和模块化设计上进行创新以规避专利重合。"
+  ]
+}

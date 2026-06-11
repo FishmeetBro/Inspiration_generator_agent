@@ -1,0 +1,56 @@
+{
+  "request_id": "REQ-20260611-154400",
+  "user_goal": "围绕手作、DIY 和兴趣工作台，寻找能解决零散配件管理问题的新品灵感",
+  "target_market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "workflow_hint": "workflow_2",
+  "constraints": {
+    "categories": [
+      "DIY配件",
+      "手作收纳",
+      "桌搭周边"
+    ],
+    "exclude_categories": [
+      "带电产品",
+      "大件家具",
+      "危险品"
+    ],
+    "max_material_delta_pct": 15,
+    "min_margin_cn": 30,
+    "min_margin_global": 45,
+    "small_parcel_only": true,
+    "avoid_electronics": true,
+    "avoid_patent_dense_shapes": true
+  },
+  "seed_keywords": [
+    "模块插槽",
+    "标签化",
+    "透明可视",
+    "抽屉分仓"
+  ],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "craft_and_hobby",
+    "search_modifiers": [
+      "craft room",
+      "hobby desk",
+      "maker"
+    ],
+    "exploration_focus": [
+      "零件管理",
+      "工作台秩序",
+      "扩展配件"
+    ],
+    "negative_anchors": [
+      "普通办公抽屉盒",
+      "标准文件整理架",
+      "单一大容积收纳箱"
+    ]
+  }
+}

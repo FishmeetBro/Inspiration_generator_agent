@@ -1,0 +1,105 @@
+{
+  "agent": "feature_transfer_engine",
+  "feature_matches": [
+    {
+      "match_id": "MAT-001",
+      "source_problem": "化妆品易落灰，收纳空间杂乱，取用不便",
+      "abstracted_features": [
+        "防尘设计",
+        "便捷抽拉",
+        "分区收纳",
+        "旋转展示",
+        "模块化可堆叠"
+      ],
+      "selected_features": [
+        "防尘设计",
+        "便捷抽拉",
+        "旋转展示"
+      ],
+      "rejected_features": [
+        "模块化可堆叠",
+        "LED灯条"
+      ],
+      "feature_selection_reason": [
+        "防尘设计适合解决化妆品易落灰的问题",
+        "便捷抽拉提升高频取放的效率",
+        "旋转展示增加颜值陈列的效果"
+      ],
+      "candidate_product_concepts": [
+        {
+          "concept_name": "旋转抽拉式防尘化妆品展示盒",
+          "concept_definition": "一个结合旋转展示和抽拉功能的防尘化妆品收纳盒，适用于高频取放和颜值陈列。",
+          "structural_points": [
+            "旋转底座",
+            "抽拉式抽屉",
+            "透明防尘盖"
+          ],
+          "interaction_points": [
+            "360度旋转展示",
+            "一键抽拉取用"
+          ],
+          "accessory_matrix_options": [
+            "可替换防尘盖",
+            "多种颜色选择"
+          ],
+          "cost_risk_notes": [
+            "旋转结构增加了制造复杂性",
+            "需控制材料成本以保持竞争力"
+          ],
+          "compliance_risk_notes": [
+            "需确保旋转部件的安全性和耐用性"
+          ]
+        }
+      ]
+    },
+    {
+      "match_id": "MAT-002",
+      "source_problem": "化妆刷乱放易脏，桌面空间有限，刷具易受潮",
+      "abstracted_features": [
+        "防尘盖设计",
+        "360度旋转",
+        "高质感材质"
+      ],
+      "selected_features": [
+        "防尘盖设计",
+        "360度旋转"
+      ],
+      "rejected_features": [
+        "高质感材质"
+      ],
+      "feature_selection_reason": [
+        "防尘盖设计有效防止化妆刷受潮和积灰",
+        "360度旋转便于展示和取用化妆刷"
+      ],
+      "candidate_product_concepts": [
+        {
+          "concept_name": "旋转防尘化妆刷展示桶",
+          "concept_definition": "一个带有防尘盖和旋转功能的化妆刷收纳桶，适合桌面空间有限的用户。",
+          "structural_points": [
+            "旋转底座",
+            "可拆卸防尘盖"
+          ],
+          "interaction_points": [
+            "旋转展示",
+            "单手开合防尘盖"
+          ],
+          "accessory_matrix_options": [
+            "可替换防尘盖",
+            "不同尺寸选择"
+          ],
+          "cost_risk_notes": [
+            "旋转机制需确保顺畅性",
+            "材料选择需兼顾成本和质感"
+          ],
+          "compliance_risk_notes": [
+            "需确保防尘盖的密封性和耐用性"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "通过结合防尘设计、便捷抽拉和旋转展示功能，开发出适合化妆品高频取放和颜值陈列的新品。",
+    "旋转防尘化妆刷展示桶通过防尘盖和旋转功能解决了化妆刷易脏和桌面空间有限的问题。"
+  ]
+}

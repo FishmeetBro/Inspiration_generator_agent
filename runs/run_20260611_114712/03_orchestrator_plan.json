@@ -1,0 +1,36 @@
+{
+  "workflow_type": "workflow_1",
+  "route": [
+    "agent_trend",
+    "agent_feature_transfer",
+    "agent_scenario",
+    "agent_ip_guard",
+    "main_agent_final_review"
+  ],
+  "selection_reason": [
+    "用户目标明确为桌面收纳和居家小件赛道，且提示为存量爆款微创新（workflow_1）",
+    "信号预览中包含多个高增长产品，适合进行微创新"
+  ],
+  "filter_strategy": [
+    "排除带电产品、危险品、大件家具",
+    "优先选择小件、轻便、可堆叠的产品",
+    "避免专利密集形状和电子产品"
+  ],
+  "top_focus_signals": [
+    {
+      "signal_id": "AMZ_DESK_ORG_MAG_002",
+      "product_name": "桌面收纳柜（奶油风）",
+      "reason": "设计美学驱动增长，符合用户美观需求，且具备磁吸侧开门和可堆叠扩展的创新特征"
+    },
+    {
+      "signal_id": "AMZ_DESK_ORG_MAG_003",
+      "product_name": "磁吸小物收纳盒（冰箱/桌面）",
+      "reason": "场景创新驱动增长，适合多场景应用，具备强力磁吸和模块化组合的特征"
+    },
+    {
+      "signal_id": "AMZ_DESK_ORG_MAG_004",
+      "product_name": "隐形收纳神贴（3M磁贴）",
+      "reason": "使用便捷性驱动增长，符合无痕拆卸和多表面适用的需求"
+    }
+  ]
+}

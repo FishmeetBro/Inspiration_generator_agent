@@ -1,0 +1,56 @@
+{
+  "request_id": "REQ-20260611-143529",
+  "user_goal": "围绕租房、宿舍与小户型场景，寻找适合抖音和亚马逊的小体积空间效率新品灵感",
+  "target_market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "workflow_hint": "workflow_1",
+  "constraints": {
+    "categories": [
+      "桌面收纳",
+      "宿舍好物",
+      "租房改造"
+    ],
+    "exclude_categories": [
+      "带电产品",
+      "大件家具",
+      "危险品"
+    ],
+    "max_material_delta_pct": 15,
+    "min_margin_cn": 30,
+    "min_margin_global": 45,
+    "small_parcel_only": true,
+    "avoid_electronics": true,
+    "avoid_patent_dense_shapes": true
+  },
+  "seed_keywords": [
+    "折叠",
+    "夹挂",
+    "免打孔",
+    "窄缝利用"
+  ],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "space_efficiency",
+    "search_modifiers": [
+      "small space",
+      "apartment",
+      "dorm room"
+    ],
+    "exploration_focus": [
+      "空间压缩",
+      "低安装门槛",
+      "轻量小体积"
+    ],
+    "negative_anchors": [
+      "磁吸模块化桌面盒",
+      "常规理线器",
+      "普通U型收纳架"
+    ]
+  }
+}

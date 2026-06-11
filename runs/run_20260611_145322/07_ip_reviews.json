@@ -1,0 +1,34 @@
+{
+  "agent": "ip_risk_guard",
+  "risk_reviews": [
+    {
+      "risk_id": "IPR-001",
+      "concept_name": "RollFlex 便携收纳卷",
+      "appearance_risk": "medium",
+      "structure_risk": "medium",
+      "platform_compliance_risk": "low",
+      "competitor_overlap_risk": "medium",
+      "risk_reasons": [
+        "卷式结构在便携收纳领域较为常见，可能存在外观专利重合风险。",
+        "弹性绑带设计需避免与现有专利设计相似。",
+        "材料需符合国际环保标准，避免使用专利密集的卡扣设计。"
+      ],
+      "safe_zones": [
+        "使用环保材料，确保符合国际标准。",
+        "设计可拆卸内袋以增加功能多样性。"
+      ],
+      "redesign_directions": [
+        "探索不同的卷收方式，例如使用磁性闭合代替弹性绑带。",
+        "考虑增加模块化设计，允许用户根据需求调整收纳空间。"
+      ],
+      "patent_layout_suggestions": [
+        "申请卷式结构的独特设计专利。",
+        "确保弹性绑带的设计与现有专利有明显区别。"
+      ],
+      "final_risk_status": "revise"
+    }
+  ],
+  "summary": [
+    "RollFlex 便携收纳卷在外观和结构上存在中等风险，需对卷式结构和弹性绑带设计进行调整，以避免专利重合。建议探索新的闭合方式和模块化设计以降低风险。"
+  ]
+}

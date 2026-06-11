@@ -1,0 +1,27 @@
+{
+  "workflow_type": "workflow_3",
+  "route": [
+    "agent_feature_transfer",
+    "agent_scenario",
+    "agent_ip_guard",
+    "main_agent_final_review",
+    "agent_doc_beautifier"
+  ],
+  "selection_reason": [
+    "宠物家庭痛点",
+    "清洁链路整合",
+    "配件矩阵"
+  ],
+  "filter_strategy": [
+    "避开纯桌面办公收纳",
+    "避开普通垃圾袋盒",
+    "避开传统扫把挂架"
+  ],
+  "top_focus_signals": [
+    "PET001",
+    "PET002",
+    "PET003",
+    "signal_001",
+    "signal_002"
+  ]
+}

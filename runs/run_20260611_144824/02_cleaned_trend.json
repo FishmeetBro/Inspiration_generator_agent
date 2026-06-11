@@ -1,0 +1,269 @@
+{
+  "agent": "trend_reverse_engineering",
+  "market_signals": [
+    {
+      "signal_id": "PET001",
+      "product_name": "TOP DOG 橡膠花園軟管（重型耐用三重乳膠芯軟管）",
+      "platform": "amazon_global",
+      "category": "宠物清洁工具",
+      "growth_window": "7d",
+      "growth_reason_type": "功能创新",
+      "target_users": [
+        "宠物主人",
+        "花园浇水用户",
+        "需要户外清洁的用户"
+      ],
+      "user_pain_points": [
+        "水管容易打结",
+        "存储不便",
+        "需要多种喷水模式"
+      ],
+      "review_complaints": [],
+      "premium_drivers": [
+        "附赠免费支架节省空间",
+        "8种功能喷嘴适应不同场景",
+        "三重乳胶芯耐用"
+      ],
+      "structure_highlights": [
+        "三重乳胶芯设计",
+        "防打结软管"
+      ],
+      "appearance_highlights": [
+        "耐用橡胶外观"
+      ],
+      "extractable_features": [
+        "防缠绕",
+        "多功能喷嘴",
+        "附带支架"
+      ],
+      "risks": [
+        "与宠物清洁直接关联较弱，可能被归为花园工具类别"
+      ]
+    },
+    {
+      "signal_id": "PET002",
+      "product_name": "WishLotus 寵物沐浴刷（附洗髮水分配器）",
+      "platform": "amazon_global",
+      "category": "宠物美容工具",
+      "growth_window": "30d",
+      "growth_reason_type": "使用体验优化",
+      "target_users": [
+        "长毛犬猫主人",
+        "需要简化洗澡流程的用户"
+      ],
+      "user_pain_points": [
+        "洗浴时难以均匀涂抹洗发水",
+        "宠物洗澡抗拒",
+        "清洁不彻底"
+      ],
+      "review_complaints": [],
+      "premium_drivers": [
+        "集成洗发水分配器",
+        "按摩功能",
+        "适合长短毛"
+      ],
+      "structure_highlights": [
+        "底盖可打开加液",
+        "刷毛设计"
+      ],
+      "appearance_highlights": [
+        "人体工学手柄"
+      ],
+      "extractable_features": [
+        "快拆式储液仓（可打开加液）",
+        "防缠绕刷毛"
+      ],
+      "risks": [
+        "市场已有类似产品，差异化不足"
+      ]
+    },
+    {
+      "signal_id": "PET003",
+      "product_name": "高壁狗垃圾箱（室內狗便盆）",
+      "platform": "amazon_global",
+      "category": "宠物清洁用品",
+      "growth_window": "7d",
+      "growth_reason_type": "设计改进",
+      "target_users": [
+        "中小型犬主人",
+        "公寓住户",
+        "尿垫训练用户"
+      ],
+      "user_pain_points": [
+        "宠物排泄后清理麻烦",
+        "垫子移位或溢漏",
+        "异味问题"
+      ],
+      "review_complaints": [],
+      "premium_drivers": [
+        "高壁防溅设计",
+        "易清洁托盘",
+        "无溢漏矽胶垫"
+      ],
+      "structure_highlights": [
+        "高壁边缘",
+        "可拆卸托盘"
+      ],
+      "appearance_highlights": [
+        "简约室内设计"
+      ],
+      "extractable_features": [
+        "快拆托盘",
+        "防缠绕？不适用"
+      ],
+      "risks": [
+        "产品同质化严重，需突出易清洁和快拆特性"
+      ]
+    },
+    {
+      "signal_id": "signal_001",
+      "product_name": "宠物防缠绕扫地机器人",
+      "platform": "douyin_cn",
+      "category": "宠物清洁/家电",
+      "growth_window": "30d",
+      "growth_reason_type": "功能创新与痛点解决",
+      "target_users": [
+        "养猫狗家庭",
+        "多宠物家庭",
+        "注重家居清洁效率的用户"
+      ],
+      "user_pain_points": [
+        "宠物毛发缠绕滚刷难以清理",
+        "手动清理吸尘器耗时长",
+        "扫地机器人对宠物不友好"
+      ],
+      "review_complaints": [
+        "滚刷缠绕毛发需手动剪断",
+        "拆洗滚刷困难",
+        "宠物对噪音敏感"
+      ],
+      "premium_drivers": [
+        "防缠绕滚刷技术",
+        "AI避障识别宠物",
+        "自动集尘与自清洁基站"
+      ],
+      "structure_highlights": [
+        "改良滚刷结构减少缠绕",
+        "可拆卸快拆模块",
+        "低噪音设计"
+      ],
+      "appearance_highlights": [
+        "简约线条",
+        "圆润机身",
+        "多色可选"
+      ],
+      "extractable_features": [
+        "智能防缠绕算法",
+        "60℃热水拖地",
+        "除菌功能"
+      ],
+      "risks": [
+        "技术迭代快竞争激烈",
+        "成本较高影响普及",
+        "宠物适应性有待验证"
+      ]
+    },
+    {
+      "signal_id": "signal_002",
+      "product_name": "宠物饮水机快拆清洁套件",
+      "platform": "douyin_cn",
+      "category": "宠物清洁/配件",
+      "growth_window": "7d",
+      "growth_reason_type": "使用场景细分与痛点解决",
+      "target_users": [
+        "使用自动饮水机的养宠用户",
+        "注重宠物饮水卫生的铲屎官"
+      ],
+      "user_pain_points": [
+        "饮水机水泵清洁困难",
+        "管路容易滋生细菌",
+        "传统清洁刷无法深入"
+      ],
+      "review_complaints": [
+        "水泵残留毛发和污垢",
+        "拆洗步骤繁琐",
+        "滤芯更换频率高"
+      ],
+      "premium_drivers": [
+        "专用清洁工具套装",
+        "防菌材质刷头",
+        "兼容多品牌饮水机"
+      ],
+      "structure_highlights": [
+        "弯曲刷头适配管道",
+        "可伸缩手柄",
+        "磁吸设计便于收纳"
+      ],
+      "appearance_highlights": [
+        "色彩鲜亮",
+        "紧凑简约",
+        "透明刷头可视化"
+      ],
+      "extractable_features": [
+        "螺旋刷头增强清洁力",
+        "抗菌硅胶材质",
+        "多功能刷毛组合"
+      ],
+      "risks": [
+        "市场教育不足",
+        "清洗工具易被替代",
+        "品牌依赖性强"
+      ]
+    },
+    {
+      "signal_id": "signal_003",
+      "product_name": "宠物清洁多功能喷雾瓶",
+      "platform": "amazon_global",
+      "category": "宠物清洁/日用品",
+      "growth_window": "30d",
+      "growth_reason_type": "基础品类微创新",
+      "target_users": [
+        "养宠家庭",
+        "多场景清洁需求用户",
+        "环保主义者"
+      ],
+      "user_pain_points": [
+        "普通喷雾瓶雾化效果差",
+        "一次只能装一种清洁液",
+        "瓶身易滑落"
+      ],
+      "review_complaints": [
+        "喷雾不均匀",
+        "瓶盖容易丢失",
+        "容量太小"
+      ],
+      "premium_drivers": [
+        "连续喷雾技术",
+        "可补充式设计",
+        "防滑纹理瓶身"
+      ],
+      "structure_highlights": [
+        "人体工学手柄",
+        "防漏密封盖",
+        "透明刻度标示"
+      ],
+      "appearance_highlights": [
+        "磨砂质感",
+        "多色搭配",
+        "极简标签区域"
+      ],
+      "extractable_features": [
+        "超细雾化喷嘴",
+        "大容量（200ml+）",
+        "兼容多种清洁液"
+      ],
+      "risks": [
+        "同质化严重",
+        "价格战风险",
+        "环保材质的成本压力"
+      ]
+    }
+  ],
+  "summary": [
+    "搜索结果中未直接出现同时具备“防缠绕”和“快拆”双重标签的宠物清洁产品，但发现两款产品具有相关特征：TOP DOG防打结软管（防缠绕）和WishLotus沐浴刷（快拆式储液仓）。高壁狗垃圾箱作为易清洁产品也值得关注。建议进一步验证用户实际搜索意图，可能“防缠绕”指毛发缠绕，而非软管打结。",
+    "从trending搜索中，宠物清洁湿巾、空气清新剂等消耗品也有一定流量，但创新性较低，不作为主要信号。",
+    "宠",
+    "物",
+    "清"
+  ]
+}

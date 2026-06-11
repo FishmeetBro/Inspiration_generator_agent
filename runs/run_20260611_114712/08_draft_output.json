@@ -1,0 +1,149 @@
+{
+  "request_id": "REQ-20260611-114712",
+  "workflow_type": "workflow_1",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "磁吸模块化桌面收纳系统",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "桌面杂乱无分类，储物空间不足，缺乏美观"
+      },
+      "target_users": [
+        "家庭用户",
+        "办公室职员"
+      ],
+      "core_pain_points": [
+        "桌面杂乱无分类，储物空间不足，缺乏美观"
+      ],
+      "scenarios": [
+        "单人使用",
+        "双人使用",
+        "居家收纳"
+      ],
+      "migrated_features": [
+        "磁吸模块化",
+        "可拆卸隔板"
+      ],
+      "product_definition": "一个可根据用户需求自由组合的磁吸模块化桌面收纳系统，包含可拆卸隔板和透明面板，适合多种桌面环境。",
+      "differentiation": "结合公开榜单信号、场景校验和结构迁移得到的差异化轻小件方案",
+      "cost_assessment": {
+        "material_delta_pct": 12,
+        "margin_cn_est": 32,
+        "margin_global_est": 46,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "建议控制为轻小件扁平包装"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "磁吸模块化设计在市场上较为常见，存在专利重叠风险。",
+          "透明面板和可拆卸隔板可能与现有产品外观相似。",
+          "亚马逊平台对磁吸产品的合规性要求较高，需确保磁吸强度和安全性。"
+        ],
+        "design_patent_direction": [
+          "申请模块化连接结构的实用新型专利。",
+          "设计独特的外观专利以保护整体视觉设计。"
+        ],
+        "accessory_matrix_direction": [
+          "多种颜色模块",
+          "不同尺寸隔板"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "人工复核前 10 个竞品页面",
+        "补一版 BOM 和包装测算",
+        "进一步确认平台合规词和侵权关键词"
+      ],
+      "final_verdict": "revise"
+    },
+    {
+      "idea_id": "IDEA-002",
+      "idea_name": "滑轨磁吸小物收纳盒",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "小物件难找，磁吸应用场景有限，开合麻烦"
+      },
+      "target_users": [
+        "家庭用户",
+        "办公室职员"
+      ],
+      "core_pain_points": [
+        "小物件难找，磁吸应用场景有限，开合麻烦"
+      ],
+      "scenarios": [
+        "单人使用",
+        "双人使用",
+        "居家收纳"
+      ],
+      "migrated_features": [
+        "磁吸底座",
+        "滑轨拉门"
+      ],
+      "product_definition": "一种带有滑轨拉门和磁吸底座的小物收纳盒，适用于桌面和冰箱等多种场景。",
+      "differentiation": "结合公开榜单信号、场景校验和结构迁移得到的差异化轻小件方案",
+      "cost_assessment": {
+        "material_delta_pct": 9,
+        "margin_cn_est": 32,
+        "margin_global_est": 46,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "建议控制为轻小件扁平包装"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "low",
+        "risk_reason": [
+          "滑轨和磁吸结合的设计在市场上有一定的专利布局。",
+          "磁吸底座的强度和安全性需符合平台标准。",
+          "可能与现有的滑轨收纳产品存在结构相似性。"
+        ],
+        "design_patent_direction": [
+          "申请滑轨设计的实用新型专利。",
+          "开发独特的外观设计以申请外观专利。"
+        ],
+        "accessory_matrix_direction": [
+          "多种颜色和尺寸选择"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "人工复核前 10 个竞品页面",
+        "补一版 BOM 和包装测算",
+        "进一步确认平台合规词和侵权关键词"
+      ],
+      "final_verdict": "revise"
+    }
+  ],
+  "dropped_candidates": [],
+  "orchestration_notes": [
+    "滑轨磁吸小物收纳盒通过了场景验证，但需在设计上进行调整以规避潜在的专利和合规问题。",
+    "磁吸模块化桌面收纳系统由于专利和合规风险较高，被淘汰。",
+    "Loaded prompts: 7",
+    "Route: agent_trend -> agent_feature_transfer -> agent_scenario -> agent_ip_guard -> main_agent_final_review -> agent_doc_beautifier",
+    "OpenAI model: gpt-4o",
+    "Batch cleaner: DeepSeek primary, Groq fallback",
+    "Search layer: SERPAPI if configured, otherwise SERPER fallback"
+  ]
+}

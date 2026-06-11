@@ -1,0 +1,89 @@
+{
+  "request_id": "REQ-20260611-140604",
+  "workflow_type": "workflow_1",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "磁吸模块化U型桌面收纳架",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "桌面电线杂乱，小物件难以分类，桌面空间不足"
+      },
+      "target_users": [
+        "办公桌用户",
+        "家庭桌面用户",
+        "小户型用户"
+      ],
+      "core_pain_points": [
+        "桌面电线杂乱，小物件难以分类，桌面空间不足"
+      ],
+      "scenarios": [
+        "单人使用",
+        "居家收纳"
+      ],
+      "migrated_features": [
+        "磁吸固定",
+        "可拆卸模块化",
+        "U型架空设计"
+      ],
+      "product_definition": "一种结合磁吸固定和U型架空设计的桌面收纳架，提供可拆卸模块化的收纳解决方案，适用于办公桌和家庭桌面。",
+      "differentiation": "结合公开榜单信号、场景校验和结构迁移得到的差异化轻小件方案",
+      "cost_assessment": {
+        "material_delta_pct": 12,
+        "margin_cn_est": 32,
+        "margin_global_est": 46,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "建议控制为轻小件扁平包装"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "U型架空设计和磁吸固定底座的组合可能接近现有专利保护形态。",
+          "模块化设计在桌面收纳领域已有多项专利，需谨慎规避。",
+          "磁吸组件的使用在亚马逊平台上可能与现有私模产品重合。",
+          "抖音平台对磁吸类产品的合规性要求较高，需确保材料和设计符合标准。"
+        ],
+        "design_patent_direction": [
+          "进行详细的专利检索以识别可用的磁吸和模块化设计空隙。",
+          "考虑申请外观专利以保护独特的设计元素。"
+        ],
+        "accessory_matrix_direction": [
+          "不同尺寸的模块化层板",
+          "多种颜色选择的磁吸底座"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "人工复核前 10 个竞品页面",
+        "补一版 BOM 和包装测算",
+        "进一步确认平台合规词和侵权关键词"
+      ],
+      "final_verdict": "revise"
+    }
+  ],
+  "dropped_candidates": [],
+  "orchestration_notes": [
+    "本次任务采用 workflow_1，聚焦存量爆款微创新。",
+    "调度了全网爆款溯源挖掘 Agent、全域特征库提取与跨域迁移 Agent、用户全场景拆解 Agent 和专利竞品前置预警 Agent。",
+    "终审标准包括去重、场景合理性、成本与物流约束、平台合规和专利风险。",
+    "磁吸模块化U型桌面收纳架在专利和平台合规性上存在较高风险，建议重新设计以规避这些风险。",
+    "Loaded prompts: 7",
+    "Route: agent_trend -> agent_feature_transfer -> agent_scenario -> agent_ip_guard -> main_agent_final_review -> agent_doc_beautifier",
+    "OpenAI model: gpt-4o",
+    "Batch cleaner: DeepSeek primary, Groq fallback",
+    "Search layer: SERPAPI if configured, otherwise SERPER fallback"
+  ]
+}

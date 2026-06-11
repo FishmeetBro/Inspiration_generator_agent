@@ -1,0 +1,92 @@
+{
+  "request_id": "REQ-20260611-145322",
+  "workflow_type": "hybrid",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "便携卷收式旅行收纳袋",
+      "opportunity_source": {
+        "source_type": "新领域探测",
+        "summary": "结合卷收结构和旅行收纳需求，提供便携、轻量的收纳解决方案。"
+      },
+      "target_users": [
+        "商务旅客",
+        "时尚旅行者",
+        "工具携带者"
+      ],
+      "core_pain_points": [
+        "收纳杂乱",
+        "行李空间利用不足",
+        "小物品杂乱"
+      ],
+      "scenarios": [
+        "差旅中快速收纳",
+        "车内外物品切换",
+        "通勤时小物件整理"
+      ],
+      "migrated_features": [
+        "卷收结构",
+        "弹性绑带",
+        "轻量化",
+        "防水面料"
+      ],
+      "product_definition": "一种采用卷收结构的便携旅行收纳袋，具备弹性绑带和防水面料，适合差旅和通勤场景。",
+      "differentiation": "通过卷收结构实现快速收纳和展开，适合多种小物件的整理。",
+      "cost_assessment": {
+        "material_delta_pct": 10,
+        "margin_cn_est": 35,
+        "margin_global_est": 50,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": []
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "卷收结构可能与现有专利重叠"
+        ],
+        "design_patent_direction": [
+          "独特的卷收卡扣设计"
+        ],
+        "accessory_matrix_direction": [
+          "多种尺寸和颜色选择"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "进行专利检索以确认卷收结构的可用性",
+        "用户测试以验证使用便利性"
+      ],
+      "final_verdict": "ship"
+    }
+  ],
+  "dropped_candidates": [
+    {
+      "idea_name": "Samsonite 真空压缩收纳袋（15件套）",
+      "drop_reason": [
+        "需电源/充电，不符合便携和轻量运输要求"
+      ]
+    },
+    {
+      "idea_name": "Wessleco 卷式刀袋（结构参考）",
+      "drop_reason": [
+        "非旅行收纳专用，卡扣机制缺失"
+      ]
+    }
+  ],
+  "orchestration_notes": [
+    "选择了卷收结构作为核心创新点，结合轻量化和防水特性，满足差旅和通勤场景需求。",
+    "淘汰了需电源的产品，确保符合便携和轻量运输的要求。",
+    "下一步需进行专利检索和用户测试以验证设计的可行性和用户接受度。"
+  ]
+}

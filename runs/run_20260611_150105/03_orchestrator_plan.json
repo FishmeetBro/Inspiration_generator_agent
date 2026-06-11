@@ -1,0 +1,112 @@
+{
+  "request_id": "REQ-20260611-150105",
+  "workflow_type": "workflow_1",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "多功能可折叠滴水沥水架",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "基于抖音爆款厨房滴水沥水架的高增长趋势，结合用户对水槽周边台面潮湿问题的反馈，开发多功能可折叠滴水沥水架。"
+      },
+      "target_users": [
+        "家庭主妇/主夫",
+        "租房年轻人",
+        "追求性价比的用户"
+      ],
+      "core_pain_points": [
+        "水槽周边台面潮湿",
+        "厨具沥水后积水",
+        "普通沥水架容易生锈"
+      ],
+      "scenarios": [
+        "厨房水槽周边",
+        "小户型厨房"
+      ],
+      "migrated_features": [
+        "沥水功能",
+        "夹扣固定",
+        "防锈处理",
+        "快速组装",
+        "可折叠收纳"
+      ],
+      "product_definition": "一款可折叠的多功能滴水沥水架，采用304不锈钢材质，具备夹扣固定和防锈处理，适合小户型厨房使用。",
+      "differentiation": "通过可折叠设计和高质量不锈钢材质，解决普通沥水架易生锈和占用空间的问题。",
+      "cost_assessment": {
+        "material_delta_pct": 10,
+        "margin_cn_est": 35,
+        "margin_global_est": 50,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "夹扣对台面厚度有要求"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "夹扣设计可能与现有专利冲突"
+        ],
+        "design_patent_direction": [
+          "可折叠结构",
+          "防锈处理"
+        ],
+        "accessory_matrix_direction": [
+          "多功能夹扣",
+          "可调节沥水板"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "进行夹扣设计的专利检索",
+        "测试不同台面厚度的适配性"
+      ],
+      "final_verdict": "ship"
+    }
+  ],
+  "dropped_candidates": [
+    {
+      "idea_name": "厨房收纳推车",
+      "drop_reason": [
+        "体积大，不适合小件物流",
+        "稳定性差，用户投诉较多"
+      ]
+    },
+    {
+      "idea_name": "SONGMICS橱柜收纳架",
+      "drop_reason": [
+        "材质怕水，不适合厨房环境",
+        "长期使用易变形"
+      ]
+    },
+    {
+      "idea_name": "可调节餐具收纳盒",
+      "drop_reason": [
+        "耐用性一般，用户投诉较多",
+        "不可放置重物，功能有限"
+      ]
+    },
+    {
+      "idea_name": "可扩展厨房橱柜置物架收纳架",
+      "drop_reason": [
+        "承重有限导致变形",
+        "部分用户反映尺寸不合"
+      ]
+    }
+  ],
+  "orchestration_notes": [
+    "选择了抖音爆款滴水沥水架作为基础进行微创新，因其高增长趋势和明确的用户痛点。",
+    "淘汰了体积大和材质不适合厨房环境的候选方案。",
+    "优先考虑轻巧、可折叠设计，适合小户型和租房用户的需求。"
+  ]
+}

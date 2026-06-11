@@ -1,0 +1,56 @@
+{
+  "request_id": "REQ-20260611-150105",
+  "user_goal": "围绕厨房边角和高频备餐动作，寻找能跨平台销售的轻巧微工具新品灵感",
+  "target_market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "workflow_hint": "workflow_1",
+  "constraints": {
+    "categories": [
+      "厨房收纳",
+      "备餐小工具",
+      "台面整理"
+    ],
+    "exclude_categories": [
+      "带电产品",
+      "大件家具",
+      "危险品"
+    ],
+    "max_material_delta_pct": 15,
+    "min_margin_cn": 30,
+    "min_margin_global": 45,
+    "small_parcel_only": true,
+    "avoid_electronics": true,
+    "avoid_patent_dense_shapes": true
+  },
+  "seed_keywords": [
+    "滴水沥干",
+    "夹扣",
+    "翻折",
+    "挂边"
+  ],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "kitchen_micro_tools",
+    "search_modifiers": [
+      "kitchen gadget",
+      "countertop",
+      "prep station"
+    ],
+    "exploration_focus": [
+      "高频备餐动作",
+      "台面效率",
+      "低学习成本"
+    ],
+    "negative_anchors": [
+      "常规保鲜盒",
+      "大件锅架",
+      "标准调味罐"
+    ]
+  }
+}

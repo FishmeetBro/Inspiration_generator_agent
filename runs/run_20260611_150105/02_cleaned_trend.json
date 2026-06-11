@@ -1,0 +1,389 @@
+{
+  "agent": "trend_reverse_engineering",
+  "market_signals": [
+    {
+      "signal_id": "S001",
+      "product_name": "厨房收纳推车",
+      "platform": "amazon_global",
+      "category": "厨房收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "需求上升",
+      "target_users": [
+        "家庭主妇",
+        "小户型住户"
+      ],
+      "user_pain_points": [
+        "厨房台面空间不足",
+        "物品取用不便"
+      ],
+      "review_complaints": [
+        "推车稳定性差",
+        "轮子卡顿"
+      ],
+      "premium_drivers": [
+        "可移动设计",
+        "多层收纳"
+      ],
+      "structure_highlights": [
+        "金属框架",
+        "防滑托盘"
+      ],
+      "appearance_highlights": [
+        "简约白色",
+        "镂空网格"
+      ],
+      "extractable_features": [
+        "带轮子",
+        "可拆卸层板"
+      ],
+      "risks": [
+        "承重有限",
+        "卫生死角"
+      ]
+    },
+    {
+      "signal_id": "S002",
+      "product_name": "SONGMICS橱柜收纳架",
+      "platform": "amazon_global",
+      "category": "厨房收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "需求上升",
+      "target_users": [
+        "烹饪爱好者",
+        "家庭主妇"
+      ],
+      "user_pain_points": [
+        "橱柜空间利用率低",
+        "香料罐易乱"
+      ],
+      "review_complaints": [
+        "安装后不稳",
+        "尺寸不符预期"
+      ],
+      "premium_drivers": [
+        "可堆叠设计",
+        "坚固耐用"
+      ],
+      "structure_highlights": [
+        "工程木材+金属",
+        "多层结构"
+      ],
+      "appearance_highlights": [
+        "木纹色",
+        "沉稳质感"
+      ],
+      "extractable_features": [
+        "防滑垫",
+        "可调节层板"
+      ],
+      "risks": [
+        "材质怕水",
+        "长期使用易变形"
+      ]
+    },
+    {
+      "signal_id": "S003",
+      "product_name": "可调节餐具收纳盒",
+      "platform": "amazon_global",
+      "category": "厨房收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "需求上升",
+      "target_users": [
+        "中产家庭",
+        "注重整洁的用户"
+      ],
+      "user_pain_points": [
+        "抽屉杂乱无章",
+        "餐具易混"
+      ],
+      "review_complaints": [
+        "分隔板松动",
+        "尺寸不匹配"
+      ],
+      "premium_drivers": [
+        "可扩展设计",
+        "多格分类"
+      ],
+      "structure_highlights": [
+        "伸缩结构",
+        "ABS塑料"
+      ],
+      "appearance_highlights": [
+        "黑色简约",
+        "无棱角"
+      ],
+      "extractable_features": [
+        "防滑底部",
+        "可水洗"
+      ],
+      "risks": [
+        "耐用性一般",
+        "不可放置重物"
+      ]
+    },
+    {
+      "signal_id": "SIG001",
+      "product_name": "可扩展厨房橱柜置物架收纳架",
+      "platform": "amazon_global",
+      "category": "厨房收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "功能创新",
+      "target_users": [
+        "家庭用户",
+        "租房用户",
+        "小户型用户"
+      ],
+      "user_pain_points": [
+        "厨房台面空间不足",
+        "橱柜内部杂乱",
+        "寻找可调节收纳方案"
+      ],
+      "review_complaints": [
+        "金属边缘可能割手",
+        "安装说明不够清晰",
+        "堆叠时稳定性有待加强"
+      ],
+      "premium_drivers": [
+        "可扩展设计",
+        "可堆叠结构",
+        "重型金属材质"
+      ],
+      "structure_highlights": [
+        "可调节宽度",
+        "可堆叠层架",
+        "加厚金属支架"
+      ],
+      "appearance_highlights": [
+        "黑色哑光",
+        "金属质感",
+        "简洁线条"
+      ],
+      "extractable_features": [
+        "可扩展",
+        "可堆叠",
+        "可调节",
+        "金属材质",
+        "无需工具安装"
+      ],
+      "risks": [
+        "承重有限导致变形",
+        "部分用户反映尺寸不合"
+      ]
+    },
+    {
+      "signal_id": "SIG002",
+      "product_name": "抖音爆款厨房滴水沥水架",
+      "platform": "douyin_cn",
+      "category": "厨房收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "性价比实用",
+      "target_users": [
+        "家庭主妇/主夫",
+        "租房年轻人",
+        "追求性价比的用户"
+      ],
+      "user_pain_points": [
+        "水槽周边台面潮湿",
+        "厨具沥水后积水",
+        "普通沥水架容易生锈"
+      ],
+      "review_complaints": [
+        "不锈钢材质实际发黑",
+        "夹扣易松动",
+        "沥水架尺寸偏小"
+      ],
+      "premium_drivers": [
+        "304不锈钢不生锈",
+        "多功能设计（可放砧板锅盖）",
+        "免打孔安装"
+      ],
+      "structure_highlights": [
+        "沥水倾斜设计",
+        "加厚夹扣",
+        "可折叠结构"
+      ],
+      "appearance_highlights": [
+        "不锈钢亮面",
+        "纤细简约",
+        "一体化成型"
+      ],
+      "extractable_features": [
+        "沥水功能",
+        "夹扣固定",
+        "防锈处理",
+        "快速组装",
+        "可折叠收纳"
+      ],
+      "risks": [
+        "低价竞争导致品质下降",
+        "部分产品实际非304不锈钢",
+        "夹扣对台面厚度有要求"
+      ]
+    },
+    {
+      "signal_id": "SIG003",
+      "product_name": "防水硅胶水槽垫/置物架内衬",
+      "platform": "amazon_global",
+      "category": "厨房收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "防潮防滑功能",
+      "target_users": [
+        "厨房收纳爱好者",
+        "有橱柜防潮需求用户",
+        "注重卫生的用户"
+      ],
+      "user_pain_points": [
+        "置物架内衬易滑落",
+        "水渍导致架体生锈",
+        "清洁麻烦"
+      ],
+      "review_complaints": [
+        "硅胶垫尺寸切割不精准",
+        "部分产品有异味",
+        "长期使用后变色"
+      ],
+      "premium_drivers": [
+        "防水硅胶材质",
+        "无毒无味",
+        "可裁剪定制"
+      ],
+      "structure_highlights": [
+        "凹凸防滑纹理",
+        "边缘围挡设计",
+        "排水孔结构"
+      ],
+      "appearance_highlights": [
+        "柔亮米白/灰色",
+        "可卷曲收纳",
+        "平整贴合"
+      ],
+      "extractable_features": [
+        "防水",
+        "防滑",
+        "可裁剪",
+        "易清洁",
+        "柔软耐用"
+      ],
+      "risks": [
+        "硅胶不耐高温",
+        "价格区间宽品质不一",
+        "部分用户反馈不吸水易积水"
+      ]
+    },
+    {
+      "signal_id": "001",
+      "product_name": "台面多功能沥水理线架",
+      "platform": "douyin_cn",
+      "category": "厨房收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "痛点解决",
+      "target_users": [
+        "小户型业主",
+        "租房族",
+        "烹饪爱好者",
+        "清洁强迫症用户"
+      ],
+      "user_pain_points": [
+        "台面杂乱拥挤",
+        "滴水导致台面积水",
+        "电线缠绕难打理",
+        "小厨电与收纳品混杂"
+      ],
+      "review_complaints": [
+        "沥水盘易积水难清洁",
+        "理线卡扣太厚遮挡视线",
+        "尺寸与台面不匹配",
+        "不锈钢材质留有水渍"
+      ],
+      "premium_drivers": [
+        "304不锈钢防锈",
+        "分区设计（厨电区+沥水区+理线区）",
+        "轻盈不占空间",
+        "一物多用提升台面利用率"
+      ],
+      "structure_highlights": [
+        "分层沥水架",
+        "嵌入式理线卡槽",
+        "可拆卸滴水盘",
+        "防滑底座"
+      ],
+      "appearance_highlights": [
+        "极简线条",
+        "磨砂不锈钢质感",
+        "隐形不突兀"
+      ],
+      "extractable_features": [
+        "沥水功能",
+        "电线收纳",
+        "模块化组合",
+        "免打孔安装"
+      ],
+      "risks": [
+        "价格竞争激烈",
+        "同类产品功能同质化",
+        "需适配多种台面深度"
+      ]
+    },
+    {
+      "signal_id": "002",
+      "product_name": "180°旋转壁挂筷子收纳筒",
+      "platform": "douyin_cn",
+      "category": "厨房收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "空间利用+便捷取用",
+      "target_users": [
+        "小厨房用户",
+        "经常做饭的家庭",
+        "注重厨房整洁的年轻群体"
+      ],
+      "user_pain_points": [
+        "筷子刀叉混放不卫生",
+        "传统筷笼积水发霉",
+        "台面空间不足",
+        "取用不便需要翻找"
+      ],
+      "review_complaints": [
+        "旋转轴使用次数多后松动",
+        "壁挂胶贴易脱落",
+        "容量偏小装不下整套餐具",
+        "沥水盘不够深"
+      ],
+      "premium_drivers": [
+        "180°阻尼旋转随停",
+        "分格收纳（筷/刀/叉）",
+        "底部沥水盘防霉",
+        "壁挂+台面两用",
+        "单价仅39元性价比高"
+      ],
+      "structure_highlights": [
+        "阻尼转轴",
+        "独立分区",
+        "可拆卸沥水盘",
+        "免打孔壁挂设计"
+      ],
+      "appearance_highlights": [
+        "白色简约风格",
+        "圆弧边缘",
+        "小巧不占地"
+      ],
+      "extractable_features": [
+        "旋转功能",
+        "分格收纳",
+        "沥水防霉",
+        "壁挂安装"
+      ],
+      "risks": [
+        "胶粘安装长期使用脱落风险",
+        "旋转结构耐久性受质疑",
+        "低价导致品牌溢价空间小"
+      ]
+    }
+  ],
+  "summary": [
+    "从",
+    "搜",
+    "索",
+    "结",
+    "果"
+  ]
+}

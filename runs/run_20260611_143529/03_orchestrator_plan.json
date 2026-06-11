@@ -1,0 +1,61 @@
+{
+  "workflow_type": "workflow_1",
+  "route": [
+    "agent_trend",
+    "agent_feature_transfer",
+    "agent_scenario",
+    "agent_ip_guard",
+    "main_agent_final_review"
+  ],
+  "selection_reason": [
+    "当前任务聚焦于租房、宿舍与小户型场景，适合抖音和亚马逊的小体积空间效率新品灵感，符合 workflow_1 的存量爆款微创新。",
+    "信号数据表明桌面收纳产品在小空间场景中有较高的增长潜力，且用户痛点集中在空间利用与安装便捷性上。"
+  ],
+  "filter_strategy": [
+    "剔除带电、危险品、大件家具等高合规风险产品。",
+    "优先选择轻量小体积、低安装门槛、空间压缩特征的产品。",
+    "排除常见的磁吸模块化桌面盒、常规理线器、普通U型收纳架等方案。"
+  ],
+  "top_focus_signals": [
+    {
+      "signal_id": "SIG_001",
+      "product_name": "gianotter 桌面收納器和配件",
+      "growth_reason_type": "空间利用率",
+      "extractable_features": [
+        "可拆卸隔板",
+        "可叠加使用"
+      ],
+      "risks": [
+        "材质不够耐用",
+        "大件可能占空间"
+      ]
+    },
+    {
+      "signal_id": "SIG_004",
+      "product_name": "Eersida 8 件式名片夾壁掛式透明壓克力展示架",
+      "growth_reason_type": "壁挂节省桌面空间",
+      "extractable_features": [
+        "可单独使用或组合",
+        "名片槽设计适配标准尺寸"
+      ],
+      "risks": [
+        "壁挂安装不便",
+        "不适合厚重名片"
+      ]
+    },
+    {
+      "signal_id": "SIG_005",
+      "product_name": "AboveTEK iPad 壁掛架 3合1 Highflex 360°",
+      "growth_reason_type": "释放桌面空间与多角度调节",
+      "extractable_features": [
+        "可旋转、可折叠",
+        "适配多种平板",
+        "兼容保护壳"
+      ],
+      "risks": [
+        "仅限特定尺寸",
+        "壁挂需承重墙体"
+      ]
+    }
+  ]
+}

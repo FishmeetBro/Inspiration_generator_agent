@@ -1,0 +1,375 @@
+{
+  "agent": "trend_reverse_engineering",
+  "market_signals": [
+    {
+      "signal_id": "AMZ_DESK_ORG_MAG_001",
+      "product_name": "触控磁吸三合一无线充电座",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "功能集成",
+      "target_users": [
+        "学生",
+        "上班族",
+        "科技爱好者"
+      ],
+      "user_pain_points": [
+        "桌面线材杂乱",
+        "充电设备多占用空间",
+        "需要无线充电便捷性"
+      ],
+      "review_complaints": [
+        "磁吸力度不够",
+        "充电速度慢",
+        "兼容性有限"
+      ],
+      "premium_drivers": [
+        "磁吸可拆卸设计",
+        "三合一充电整合",
+        "触控开关"
+      ],
+      "structure_highlights": [
+        "模块化可分离",
+        "底部防滑设计",
+        "线缆隐藏槽"
+      ],
+      "appearance_highlights": [
+        "简约科技风",
+        "哑光质感",
+        "多色可选"
+      ],
+      "extractable_features": [
+        "磁吸模块化",
+        "无线充电标准",
+        "过载保护"
+      ],
+      "risks": [
+        "兼容性争议",
+        "磁铁干扰其他设备",
+        "价格偏高"
+      ]
+    },
+    {
+      "signal_id": "AMZ_DESK_ORG_MAG_002",
+      "product_name": "桌面收纳柜（奶油风）",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "设计美学",
+      "target_users": [
+        "学生",
+        "女性用户",
+        "宿舍居住者"
+      ],
+      "user_pain_points": [
+        "桌面杂乱无分类",
+        "储物空间不足",
+        "缺乏美观"
+      ],
+      "review_complaints": [
+        "分隔层太少",
+        "组装困难",
+        "材质不够坚固"
+      ],
+      "premium_drivers": [
+        "奶油风颜值",
+        "磁吸侧开门",
+        "可堆叠扩展"
+      ],
+      "structure_highlights": [
+        "多层分隔",
+        "磁吸侧开",
+        "透明抽屉面板"
+      ],
+      "appearance_highlights": [
+        "奶油色系",
+        "圆润边角",
+        "小巧体积"
+      ],
+      "extractable_features": [
+        "磁吸门锁",
+        "可拆卸隔板",
+        "轻盈材质"
+      ],
+      "risks": [
+        "不适合重物",
+        "容易留指纹",
+        "颜色选择有限"
+      ]
+    },
+    {
+      "signal_id": "AMZ_DESK_ORG_MAG_003",
+      "product_name": "磁吸小物收纳盒（冰箱/桌面）",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "场景创新",
+      "target_users": [
+        "家庭主妇",
+        "办公族",
+        "DIY爱好者"
+      ],
+      "user_pain_points": [
+        "小物件难找",
+        "磁吸应用场景有限",
+        "开合麻烦"
+      ],
+      "review_complaints": [
+        "磁力不强易掉落",
+        "容量小",
+        "盒体会移动"
+      ],
+      "premium_drivers": [
+        "强力磁吸",
+        "拉门式开关",
+        "多功能使用"
+      ],
+      "structure_highlights": [
+        "盒体磁吸固定",
+        "滑轨拉门",
+        "透明窗口"
+      ],
+      "appearance_highlights": [
+        "透明+纯色",
+        "方形紧凑",
+        "边角倒角"
+      ],
+      "extractable_features": [
+        "磁吸底座",
+        "可吸附金属表面",
+        "模块化组合"
+      ],
+      "risks": [
+        "磁吸面限制",
+        "盒体易变形",
+        "滑轨寿命"
+      ]
+    },
+    {
+      "signal_id": "AMZ_DESK_ORG_MAG_004",
+      "product_name": "隐形收纳神贴（3M磁贴）",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "使用便捷",
+      "target_users": [
+        "所有人",
+        "极简主义者",
+        "租房族"
+      ],
+      "user_pain_points": [
+        "现有收纳品占用桌面空间",
+        "频繁拆卸不便",
+        "胶痕残留"
+      ],
+      "review_complaints": [
+        "撕拉后残留",
+        "黏性随时间下降",
+        "承重有限"
+      ],
+      "premium_drivers": [
+        "一撕一拉安装",
+        "无痕拆卸",
+        "可重复使用"
+      ],
+      "structure_highlights": [
+        "可裁剪",
+        "3M无痕胶",
+        "磁吸对吸"
+      ],
+      "appearance_highlights": [
+        "透明隐形",
+        "薄片设计"
+      ],
+      "extractable_features": [
+        "无痕胶技术",
+        "可水洗复用",
+        "多表面适用"
+      ],
+      "risks": [
+        "对粗糙表面附着力差",
+        "不适合垂直重物",
+        "温度敏感"
+      ]
+    },
+    {
+      "signal_id": "DSO-001",
+      "product_name": "桌面收纳盒（多功能储物盒）",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "高频需求+价格亲民",
+      "target_users": [
+        "家庭用户",
+        "办公族",
+        "学生"
+      ],
+      "user_pain_points": [
+        "桌面杂乱，小物件无处安放",
+        "需要统一整理药品、文具等日常用品"
+      ],
+      "review_complaints": [
+        "尺寸偏小",
+        "塑料质感一般"
+      ],
+      "premium_drivers": [
+        "带盖防尘",
+        "透明可视",
+        "可堆叠模块化"
+      ],
+      "structure_highlights": [
+        "分区隔板",
+        "侧边把手"
+      ],
+      "appearance_highlights": [
+        "简约白/灰色系",
+        "圆角设计"
+      ],
+      "extractable_features": [
+        "可定制分隔",
+        "标签槽位"
+      ],
+      "risks": [
+        "同质化竞争激烈",
+        "材质环保争议"
+      ]
+    },
+    {
+      "signal_id": "DSO-002",
+      "product_name": "夹桌式桌面延长器/钉板工作站",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "空间扩展+工业风潮流",
+      "target_users": [
+        "游戏玩家",
+        "程序员",
+        "创意工作者"
+      ],
+      "user_pain_points": [
+        "桌面空间不足",
+        "显示器占用过多台面",
+        "需要工具挂放区"
+      ],
+      "review_complaints": [
+        "夹桌安装不稳",
+        "金属边缘锐利"
+      ],
+      "premium_drivers": [
+        "立体化收纳",
+        "钉板通用挂件系统",
+        "钢管结构承重"
+      ],
+      "structure_highlights": [
+        "冷轧钢立柱",
+        "多层搁板",
+        "夹桌卡扣"
+      ],
+      "appearance_highlights": [
+        "工业黑色喷漆",
+        "管道风格设计"
+      ],
+      "extractable_features": [
+        "可调节高度",
+        "挂钩配件扩展"
+      ],
+      "risks": [
+        "安装复杂导致退货率高",
+        "对桌面厚度有要求"
+      ]
+    },
+    {
+      "signal_id": "DSO-003",
+      "product_name": "猫咪耳朵棉线编织桌面收纳筐",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "萌宠经济+手工质感",
+      "target_users": [
+        "女性用户",
+        "手账爱好者",
+        "学生"
+      ],
+      "user_pain_points": [
+        "普通收纳盒缺乏趣味",
+        "希望点缀桌面",
+        "钥匙/杂物随手放"
+      ],
+      "review_complaints": [
+        "线材易沾灰",
+        "形状易变形"
+      ],
+      "premium_drivers": [
+        "棉花糖手感",
+        "高颜值猫耳造型",
+        "环保棉线材质"
+      ],
+      "structure_highlights": [
+        "圆形筐体",
+        "加厚边缘"
+      ],
+      "appearance_highlights": [
+        "棉线编织纹理",
+        "猫耳立体装饰"
+      ],
+      "extractable_features": [
+        "可水洗",
+        "可DIY染色"
+      ],
+      "risks": [
+        "手工品量产一致性差",
+        "不耐脏且清洁困难"
+      ]
+    },
+    {
+      "signal_id": "DSO-004",
+      "product_name": "桌面四格皮革收纳盘",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "极简美学+多场景适配",
+      "target_users": [
+        "极简主义者",
+        "化妆品收纳需求者",
+        "床头柜用户"
+      ],
+      "user_pain_points": [
+        "零碎物品散落",
+        "需要抽屉式分类",
+        "希望桌面美观"
+      ],
+      "review_complaints": [
+        "皮革材质不耐刮",
+        "格子偏小"
+      ],
+      "premium_drivers": [
+        "仿皮质感",
+        "四分区设计",
+        "易清洁表面"
+      ],
+      "structure_highlights": [
+        "硬质底板",
+        "分区隔板"
+      ],
+      "appearance_highlights": [
+        "仿皮纹理（黑/棕/蓝）",
+        "车线装饰边"
+      ],
+      "extractable_features": [
+        "可叠加使用",
+        "分隔可移动"
+      ],
+      "risks": [
+        "人造革异味问题",
+        "高端替代品较多"
+      ]
+    }
+  ],
+  "summary": [
+    "磁吸可拆卸桌面收纳产品在社交媒体上热度高，主打功能集成、设计美学和便捷使用。",
+    "目标用户以学生、年轻上班族、租房族为主，痛点集中在桌面杂乱、充电线材多、储物空间不足。",
+    "主要卖点包括磁吸模块化、无线充电整合、奶油风外观、无痕安装等。",
+    "潜在风险包括磁吸强度不足、兼容性、材质耐久性和价格敏感度。",
+    "桌"
+  ]
+}

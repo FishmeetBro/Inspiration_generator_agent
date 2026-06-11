@@ -1,0 +1,364 @@
+{
+  "agent": "trend_reverse_engineering",
+  "market_signals": [
+    {
+      "signal_id": "SIG_001",
+      "product_name": "gianotter 桌面收納器和配件",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "空间利用率",
+      "target_users": [
+        "办公族",
+        "学生",
+        "家庭用户"
+      ],
+      "user_pain_points": [
+        "桌面杂乱",
+        "文具无处存放",
+        "文件容易丢失"
+      ],
+      "review_complaints": [
+        "抽屉不够顺滑",
+        "笔筒深度不足",
+        "塑料感较强"
+      ],
+      "premium_drivers": [
+        "多功能分区",
+        "附带抽屉",
+        "文件架设计"
+      ],
+      "structure_highlights": [
+        "4层桌面配件",
+        "附文件夹",
+        "抽屉与笔筒组合"
+      ],
+      "appearance_highlights": [
+        "简约设计",
+        "浅色系"
+      ],
+      "extractable_features": [
+        "可拆卸隔板",
+        "可叠加使用"
+      ],
+      "risks": [
+        "材质不够耐用",
+        "大件可能占空间"
+      ]
+    },
+    {
+      "signal_id": "SIG_002",
+      "product_name": "Ultimate Office 桌面收納盒12 個字母托盤分揀機PLUS 擴充收納底座",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "容量扩充",
+      "target_users": [
+        "办公族",
+        "行政人员",
+        "需要大量文件分类的用户"
+      ],
+      "user_pain_points": [
+        "文件杂乱",
+        "托盘不够用",
+        "底层文件难拿取"
+      ],
+      "review_complaints": [
+        "底座不稳定",
+        "托盘间距过小",
+        "材料薄"
+      ],
+      "premium_drivers": [
+        "12个字母托盘",
+        "可扩展底座",
+        "方便拿取下层"
+      ],
+      "structure_highlights": [
+        "12个分类托盘",
+        "扩展底座设计",
+        "字母标识"
+      ],
+      "appearance_highlights": [
+        "白色/黑色",
+        "标准办公造型"
+      ],
+      "extractable_features": [
+        "可自由组合字母排序",
+        "底座可调节高度"
+      ],
+      "risks": [
+        "体积较大",
+        "塑料材质易坏"
+      ]
+    },
+    {
+      "signal_id": "SIG_003",
+      "product_name": "DEVAISE 3 抽屜移動文件櫃",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "移动性与隐藏收纳",
+      "target_users": [
+        "家庭办公用户",
+        "小型办公室",
+        "需要打印机支撑的用户"
+      ],
+      "user_pain_points": [
+        "文件柜笨重",
+        "缺乏打印机支架",
+        "桌面空间不足"
+      ],
+      "review_complaints": [
+        "抽屉滑轨不顺畅",
+        "织物容易脏",
+        "承重有限"
+      ],
+      "premium_drivers": [
+        "带轮子可移动",
+        "打印机支架",
+        "织物面板"
+      ],
+      "structure_highlights": [
+        "3个抽屉",
+        "开放式储物架",
+        "滚动设计"
+      ],
+      "appearance_highlights": [
+        "织物材质",
+        "简约现代"
+      ],
+      "extractable_features": [
+        "可拆卸轮子",
+        "可调节搁板"
+      ],
+      "risks": [
+        "织物不耐用",
+        "抽屉深度不足"
+      ]
+    },
+    {
+      "signal_id": "SIG_004",
+      "product_name": "Eersida 8 件式名片夾壁掛式透明壓克力展示架",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "壁挂节省桌面空间",
+      "target_users": [
+        "前台接待",
+        "销售人员",
+        "商务人士"
+      ],
+      "user_pain_points": [
+        "名片散落",
+        "桌面小物件多",
+        "访客名片管理不便"
+      ],
+      "review_complaints": [
+        "压克力容易刮花",
+        "壁挂需打孔",
+        "容量有限"
+      ],
+      "premium_drivers": [
+        "透明材质展示效果好",
+        "壁挂不占桌面",
+        "多件套装"
+      ],
+      "structure_highlights": [
+        "壁挂式",
+        "透明压克力",
+        "可放40-50张名片"
+      ],
+      "appearance_highlights": [
+        "透明",
+        "简洁",
+        "现代"
+      ],
+      "extractable_features": [
+        "可单独使用或组合",
+        "名片槽设计适配标准尺寸"
+      ],
+      "risks": [
+        "壁挂安装不便",
+        "不适合厚重名片"
+      ]
+    },
+    {
+      "signal_id": "SIG_005",
+      "product_name": "AboveTEK iPad 壁掛架 3合1 Highflex 360°",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "释放桌面空间与多角度调节",
+      "target_users": [
+        "学生",
+        "厨师",
+        "需要免提操作的用户"
+      ],
+      "user_pain_points": [
+        "iPad占用桌面",
+        "观看角度不舒适",
+        "无处悬挂"
+      ],
+      "review_complaints": [
+        "安装复杂",
+        "夹持力不足",
+        "部分型号不兼容"
+      ],
+      "premium_drivers": [
+        "360°旋转",
+        "可折叠",
+        "橱柜下安装"
+      ],
+      "structure_highlights": [
+        "壁挂或夹挂",
+        "可伸缩",
+        "360°旋转底座"
+      ],
+      "appearance_highlights": [
+        "铝制材质",
+        "黑色/银色"
+      ],
+      "extractable_features": [
+        "可旋转、可折叠",
+        "适配多种平板",
+        "兼容保护壳"
+      ],
+      "risks": [
+        "仅限特定尺寸",
+        "壁挂需承重墙体"
+      ]
+    },
+    {
+      "signal_id": "signal_001",
+      "product_name": "可伸缩书立带笔筒",
+      "platform": "douyin_cn",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "功能创新",
+      "target_users": [
+        "学生",
+        "办公白领"
+      ],
+      "user_pain_points": [
+        "书桌空间小",
+        "书本易倒",
+        "文具杂乱"
+      ],
+      "review_complaints": [
+        "伸缩可能不牢固",
+        "笔筒容量小"
+      ],
+      "premium_drivers": [
+        "可伸缩适应多种书本",
+        "带笔筒一体化",
+        "折叠节省空间"
+      ],
+      "structure_highlights": [
+        "可伸缩结构",
+        "折叠设计"
+      ],
+      "appearance_highlights": [
+        "简约",
+        "白色/灰色"
+      ],
+      "extractable_features": [
+        "伸缩尺寸范围",
+        "材质(塑料/金属)",
+        "笔筒形状"
+      ],
+      "risks": [
+        "伸缩关节易坏",
+        "承重有限"
+      ]
+    },
+    {
+      "signal_id": "signal_002",
+      "product_name": "桌下收纳神器",
+      "platform": "douyin_cn",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "场景拓展",
+      "target_users": [
+        "租房族",
+        "学生",
+        "办公族"
+      ],
+      "user_pain_points": [
+        "桌下空间浪费",
+        "杂物多",
+        "移动不便"
+      ],
+      "review_complaints": [
+        "万向轮可能不顺畅",
+        "高度限制"
+      ],
+      "premium_drivers": [
+        "可折叠",
+        "万向轮方便移动",
+        "窄身设计适配缝隙"
+      ],
+      "structure_highlights": [
+        "折叠结构",
+        "底部万向轮"
+      ],
+      "appearance_highlights": [
+        "猫咪图案",
+        "可爱风格"
+      ],
+      "extractable_features": [
+        "折叠后尺寸",
+        "轮子类型",
+        "承重"
+      ],
+      "risks": [
+        "折叠处易损",
+        "不适合重物"
+      ]
+    },
+    {
+      "signal_id": "signal_003",
+      "product_name": "伸缩收纳盒",
+      "platform": "douyin_cn",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "功能创新",
+      "target_users": [
+        "有孩子家庭",
+        "杂物多用户"
+      ],
+      "user_pain_points": [
+        "收纳盒尺寸固定",
+        "物品大小不一"
+      ],
+      "review_complaints": [
+        "伸缩机构噪音",
+        "价格偏高"
+      ],
+      "premium_drivers": [
+        "可伸缩适应不同物品",
+        "大容量"
+      ],
+      "structure_highlights": [
+        "伸缩设计"
+      ],
+      "appearance_highlights": [
+        "简约",
+        "多种颜色"
+      ],
+      "extractable_features": [
+        "伸缩范围",
+        "材质",
+        "密封性"
+      ],
+      "risks": [
+        "伸缩寿命",
+        "稳定性"
+      ]
+    }
+  ],
+  "summary": [
+    "桌面收纳产品在Amazon上需求旺盛，尤其强调空间利用、扩充容量和移动性。折叠、夹挂类设计（如壁挂名片架、iPad支架）因节省桌面空间而获得短期增长。用户痛点集中在桌面杂乱、文件管理不便，而多功能分区、可扩展结构、透明/折叠设计成为溢价驱动因素。常见风险包括材质耐用性、安装复杂度和兼容性问题。",
+    "批量清洗失败，已跳过该批",
+    "桌面收纳品类近期在抖音热卖榜出现多款折叠/夹挂/伸缩类产品，核心创新点在于通过可折叠或可伸缩结构解决空间适配问题，目标用户集中于学生和办公人群，痛点集中在空间利用和物品整理。功能创新（如书立带笔筒）和场景拓展（如桌下收纳）是主要增长驱动，但需注意结构耐用性和承重风险。"
+  ]
+}

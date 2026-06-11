@@ -1,0 +1,60 @@
+{
+  "agent": "ip_risk_guard",
+  "risk_reviews": [
+    {
+      "risk_id": "IPR-001",
+      "concept_name": "旋转抽拉式防尘化妆品展示盒",
+      "appearance_risk": "medium",
+      "structure_risk": "high",
+      "platform_compliance_risk": "medium",
+      "competitor_overlap_risk": "high",
+      "risk_reasons": [
+        "旋转底座与抽拉式抽屉的组合可能与现有专利设计重合",
+        "透明防尘盖设计在市场上较为常见，存在高重合风险",
+        "旋转结构增加了制造复杂性，可能导致耐用性问题"
+      ],
+      "safe_zones": [
+        "非透明材质的防尘盖",
+        "固定式展示结构"
+      ],
+      "redesign_directions": [
+        "采用固定展示架替代旋转底座",
+        "使用不透明或半透明材质的防尘盖以降低重合风险"
+      ],
+      "patent_layout_suggestions": [
+        "探索独特的抽拉机制以规避现有专利",
+        "设计独特的外观造型以增加差异化"
+      ],
+      "final_risk_status": "revise"
+    },
+    {
+      "risk_id": "IPR-002",
+      "concept_name": "旋转防尘化妆刷展示桶",
+      "appearance_risk": "low",
+      "structure_risk": "medium",
+      "platform_compliance_risk": "low",
+      "competitor_overlap_risk": "medium",
+      "risk_reasons": [
+        "旋转底座设计可能与现有产品相似",
+        "防尘盖的密封性设计需确保不侵犯现有专利"
+      ],
+      "safe_zones": [
+        "非旋转展示结构",
+        "使用创新的防尘盖开合方式"
+      ],
+      "redesign_directions": [
+        "采用固定底座以降低结构复杂性",
+        "设计独特的开合机制以增强产品差异化"
+      ],
+      "patent_layout_suggestions": [
+        "开发新型防尘盖设计以规避现有专利",
+        "增强产品的功能性以增加市场竞争力"
+      ],
+      "final_risk_status": "revise"
+    }
+  ],
+  "summary": [
+    "两款产品概念均存在结构和外观上的专利重合风险，需进行设计调整以规避侵权。",
+    "建议在设计中引入创新的开合机制和独特的外观造型，以增强产品的市场差异化和竞争力。"
+  ]
+}

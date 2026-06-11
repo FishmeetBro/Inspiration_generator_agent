@@ -1,0 +1,152 @@
+{
+  "request_id": "REQ-20260611-122252",
+  "workflow_type": "workflow_1",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "Modular Magnetic Desktop Organizer",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "基于亚马逊上功能创新和工业设计的桌面收纳产品，结合磁吸和模块化特性进行微创新。"
+      },
+      "target_users": [
+        "游戏玩家",
+        "电脑工作者",
+        "桌面空间不足的用户"
+      ],
+      "core_pain_points": [
+        "桌面空间拥挤",
+        "小物件杂乱无章"
+      ],
+      "scenarios": [
+        "办公桌面",
+        "游戏桌面"
+      ],
+      "migrated_features": [
+        "磁吸模块化设计",
+        "可扩展钉板系统"
+      ],
+      "product_definition": "一款磁吸模块化桌面收纳系统，用户可以根据需求自由组合不同模块，适用于办公和游戏桌面。",
+      "differentiation": "通过磁吸和模块化设计，提供用户自由组合的灵活性，适应不同桌面需求。",
+      "cost_assessment": {
+        "material_delta_pct": 10,
+        "margin_cn_est": 35,
+        "margin_global_est": 50,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "模块化设计可能增加包装复杂性"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "模块化设计可能与现有专利冲突"
+        ],
+        "design_patent_direction": [
+          "模块化连接件设计"
+        ],
+        "accessory_matrix_direction": [
+          "多种模块组合"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "进行模块化设计的专利检索",
+        "测试不同桌面环境下的用户体验"
+      ],
+      "final_verdict": "ship"
+    },
+    {
+      "idea_id": "IDEA-002",
+      "idea_name": "Eco-Friendly Cat Ear Desktop Basket",
+      "opportunity_source": {
+        "source_type": "爆款溯源",
+        "summary": "从亚马逊上设计美学和手工艺的桌面收纳产品中提取灵感，结合环保材料和趣味设计。"
+      },
+      "target_users": [
+        "年轻女性",
+        "萌宠爱好者"
+      ],
+      "core_pain_points": [
+        "普通收纳盒缺乏趣味性",
+        "桌面需要装饰性收纳"
+      ],
+      "scenarios": [
+        "卧室桌面",
+        "客厅装饰"
+      ],
+      "migrated_features": [
+        "猫耳造型",
+        "环保棉线材质"
+      ],
+      "product_definition": "一款环保棉线编织的猫耳桌面收纳篮，兼具收纳和装饰功能。",
+      "differentiation": "通过趣味造型和环保材料吸引年轻用户，适合多种家居风格。",
+      "cost_assessment": {
+        "material_delta_pct": 12,
+        "margin_cn_est": 32,
+        "margin_global_est": 48,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": false,
+        "risk_notes": [
+          "手工编织可能导致一致性问题"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "low",
+        "risk_reason": [
+          "造型设计较为独特，专利风险低"
+        ],
+        "design_patent_direction": [
+          "猫耳造型设计"
+        ],
+        "accessory_matrix_direction": [
+          "多色选择"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "评估手工编织的一致性和生产成本",
+        "市场测试不同颜色的受欢迎程度"
+      ],
+      "final_verdict": "ship"
+    }
+  ],
+  "dropped_candidates": [
+    {
+      "idea_name": "Simple Trending Black Metal Monitor Stand with Drawer",
+      "drop_reason": [
+        "与现有产品差异化不足",
+        "塑料抽屉耐久性存疑"
+      ]
+    },
+    {
+      "idea_name": "Desktop Storage Organizer Leather Compartment Tray",
+      "drop_reason": [
+        "低端PU皮易脱落",
+        "尺寸较小容纳有限"
+      ]
+    }
+  ],
+  "orchestration_notes": [
+    "选择了具有明确用户痛点和创新特征的产品进行微创新。",
+    "淘汰了差异化不足和材料风险较高的候选方案。",
+    "下一步将重点验证模块化设计的专利风险和市场接受度。"
+  ]
+}

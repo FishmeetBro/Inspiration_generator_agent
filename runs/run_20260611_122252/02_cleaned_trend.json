@@ -1,0 +1,188 @@
+{
+  "agent": "trend_reverse_engineering",
+  "market_signals": [
+    {
+      "signal_id": "DS-001",
+      "product_name": "Clamp On Desk Organizer with Pegboard Workstation",
+      "platform": "amazon_global",
+      "category": "桌面收纳/办公配件",
+      "growth_window": "30d",
+      "growth_reason_type": "功能创新+工业设计",
+      "target_users": [
+        "游戏玩家",
+        "电脑工作者",
+        "桌面空间不足的用户"
+      ],
+      "user_pain_points": [
+        "桌面空间拥挤",
+        "显示器高度不合适导致颈椎不适",
+        "小物件杂乱无章"
+      ],
+      "review_complaints": [
+        "夹持装置可能损坏桌面边缘",
+        "组装较复杂"
+      ],
+      "premium_drivers": [
+        "坚固钢柱材质",
+        "工业管道风格差异化",
+        "可扩展钉板系统"
+      ],
+      "structure_highlights": [
+        "夹持式免打孔安装",
+        "双层搁架加钉板",
+        "可调节显示器架"
+      ],
+      "appearance_highlights": [
+        "工业黑色喷漆",
+        "粗犷管道造型"
+      ],
+      "extractable_features": [
+        "兼容不同桌面厚度",
+        "可加挂钩或配件"
+      ],
+      "risks": [
+        "同类产品价格战激烈",
+        "安装对桌面边缘有损耗风险"
+      ]
+    },
+    {
+      "signal_id": "DS-002",
+      "product_name": "KAYNO Cat Ear Cotton Rope Woven Desktop Storage Basket",
+      "platform": "amazon_global",
+      "category": "桌面收纳/家居装饰",
+      "growth_window": "30d",
+      "growth_reason_type": "设计美学+手工艺",
+      "target_users": [
+        "年轻女性",
+        "萌宠爱好者",
+        "追求温馨风格的用户"
+      ],
+      "user_pain_points": [
+        "普通收纳盒缺乏趣味性",
+        "桌面需要装饰性收纳",
+        "寻找环保手工制品"
+      ],
+      "review_complaints": [
+        "容量有限",
+        "棉绳不耐脏"
+      ],
+      "premium_drivers": [
+        "独特猫耳造型",
+        "手工编织工艺",
+        "环保棉线材质"
+      ],
+      "structure_highlights": [
+        "圆形开口便于取物",
+        "底部稳固平放"
+      ],
+      "appearance_highlights": [
+        "猫耳朵装饰",
+        "天然棉线纹理",
+        "蓝色/多色可选"
+      ],
+      "extractable_features": [
+        "可作床头收纳",
+        "也可当装饰摆件"
+      ],
+      "risks": [
+        "手工品一致性差",
+        "易吸灰难清洁"
+      ]
+    },
+    {
+      "signal_id": "DS-003",
+      "product_name": "Simple Trending Black Metal Monitor Stand with Drawer",
+      "platform": "amazon_global",
+      "category": "桌面收纳/显示器支架",
+      "growth_window": "30d",
+      "growth_reason_type": "功能整合+人体工学",
+      "target_users": [
+        "办公白领",
+        "居家办公人群",
+        "多显示器用户"
+      ],
+      "user_pain_points": [
+        "桌面高度不舒适",
+        "显示器下方空间浪费",
+        "需要额外储物抽屉"
+      ],
+      "review_complaints": [
+        "抽屉滑轨不够顺畅",
+        "承重有限"
+      ],
+      "premium_drivers": [
+        "金属结构质感",
+        "隐藏式抽屉设计",
+        "品牌趋势"
+      ],
+      "structure_highlights": [
+        "双层空间",
+        "内置抽屉",
+        "通风镂空设计"
+      ],
+      "appearance_highlights": [
+        "黑色金属简约风格",
+        "线条利落"
+      ],
+      "extractable_features": [
+        "可调节脚垫",
+        "兼容键盘收纳"
+      ],
+      "risks": [
+        "塑料抽屉配件耐久性存疑",
+        "与轻薄显示器搭配稳定性"
+      ]
+    },
+    {
+      "signal_id": "DS-004",
+      "product_name": "Desktop Storage Organizer Leather Compartment Tray",
+      "platform": "amazon_global",
+      "category": "桌面收纳/皮革托盘",
+      "growth_window": "7d",
+      "growth_reason_type": "材质升级+场景细分",
+      "target_users": [
+        "商务人士",
+        "化妆收纳需求者",
+        "追求桌面整洁者"
+      ],
+      "user_pain_points": [
+        "桌面零碎物品多",
+        "需要分区收纳",
+        "希望收纳品有质感"
+      ],
+      "review_complaints": [
+        "皮革不耐刮",
+        "分隔固定不可调"
+      ],
+      "premium_drivers": [
+        "仿皮革材质触感",
+        "四格分区设计",
+        "多用途（办公/化妆）"
+      ],
+      "structure_highlights": [
+        "分隔可拆？",
+        "底部防滑",
+        "船型结构"
+      ],
+      "appearance_highlights": [
+        "皮革纹理",
+        "深色缝线"
+      ],
+      "extractable_features": [
+        "可放手机、眼镜笔",
+        "也可放化妆品"
+      ],
+      "risks": [
+        "低端PU皮易脱落",
+        "尺寸较小容纳有限"
+      ]
+    }
+  ],
+  "summary": [
+    "批量清洗失败，已跳过该批",
+    "桌面收纳品类在亚马逊全球站呈持续增长趋势，主要驱动力为远程办公和居家整理需求。",
+    "产品创新集中在三大方向：功能整合（支架+抽屉）、设计美学（手工编织、猫耳造型）、材质升级（金属、皮革）。",
+    "用户核心痛点为桌面杂乱、空间利用率低、颈椎健康，因此能同时解决收纳和人体工学的产品更具溢价能力。",
+    "需要注意的是，市场同质化严重，需通过差异化外观或多功能设计突围；同时材质耐久性和安装便利性是用户评价的敏感点。"
+  ]
+}

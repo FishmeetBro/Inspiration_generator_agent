@@ -1,0 +1,156 @@
+{
+  "request_id": "REQ-20260611-144513",
+  "workflow_type": "workflow_2",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [
+    {
+      "idea_id": "IDEA-001",
+      "idea_name": "防尘旋转化妆刷收纳桶",
+      "opportunity_source": {
+        "source_type": "新领域探测",
+        "summary": "通过材质升级和旋转功能提升用户体验，满足高频取放和防尘需求。"
+      },
+      "target_users": [
+        "化妆刷具使用者",
+        "追求整洁桌面者",
+        "颜值优先用户"
+      ],
+      "core_pain_points": [
+        "化妆刷乱放易脏",
+        "桌面空间有限",
+        "刷具易受潮"
+      ],
+      "scenarios": [
+        "日常化妆时快速取用刷具",
+        "保持桌面整洁有序"
+      ],
+      "migrated_features": [
+        "可旋转展示",
+        "可单独取出清洗"
+      ],
+      "product_definition": "一个带有360度旋转功能的化妆刷收纳桶，采用高质感PP+PET材质，配有可分离式防尘盖。",
+      "differentiation": "通过旋转功能和高质感材质实现差异化，提升产品颜值和实用性。",
+      "cost_assessment": {
+        "material_delta_pct": 10,
+        "margin_cn_est": 35,
+        "margin_global_est": 50,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "筒身易划痕"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "市场饱和"
+        ],
+        "design_patent_direction": [
+          "旋转底座设计"
+        ],
+        "accessory_matrix_direction": [
+          "多尺寸刷具适配"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "测试旋转功能的耐用性",
+        "优化防尘盖的密封性"
+      ],
+      "final_verdict": "ship"
+    },
+    {
+      "idea_id": "IDEA-002",
+      "idea_name": "雾面拉门桌上防尘收纳柜",
+      "opportunity_source": {
+        "source_type": "新领域探测",
+        "summary": "结合防尘和模块化设计，适合高频使用的桌面收纳解决方案。"
+      },
+      "target_users": [
+        "美妆爱好者",
+        "桌面整洁追求者",
+        "女性白领"
+      ],
+      "core_pain_points": [
+        "化妆品长期暴露易积灰",
+        "桌面杂乱不美观",
+        "取用频繁需要随手拿取"
+      ],
+      "scenarios": [
+        "日常化妆品收纳",
+        "快速找到所需化妆品"
+      ],
+      "migrated_features": [
+        "防尘盖",
+        "抽拉式抽屉",
+        "分类格"
+      ],
+      "product_definition": "一个带有雾面拉门和透明视窗的桌上收纳柜，内部可调隔板，适合化妆品的分类存放。",
+      "differentiation": "通过雾面设计和模块化结构提升产品的视觉吸引力和实用性。",
+      "cost_assessment": {
+        "material_delta_pct": 12,
+        "margin_cn_est": 32,
+        "margin_global_est": 47,
+        "status": "pass"
+      },
+      "logistics_assessment": {
+        "small_parcel_friendly": true,
+        "stackable": true,
+        "risk_notes": [
+          "门结构增加成本"
+        ]
+      },
+      "ip_compliance_assessment": {
+        "risk_level": "medium",
+        "risk_reason": [
+          "与普通桌面收纳盒差异不够大"
+        ],
+        "design_patent_direction": [
+          "雾面拉门设计"
+        ],
+        "accessory_matrix_direction": [
+          "可调隔板模块"
+        ]
+      },
+      "recommended_platforms": [
+        "douyin_cn",
+        "amazon_global"
+      ],
+      "validation_next_steps": [
+        "改进推拉门的阻尼感",
+        "优化雾面材质的防指纹性能"
+      ],
+      "final_verdict": "revise"
+    }
+  ],
+  "dropped_candidates": [
+    {
+      "idea_name": "抽拉式化妆品落地收纳柜",
+      "drop_reason": [
+        "落地式占用地面空间",
+        "适合固定位置使用"
+      ]
+    },
+    {
+      "idea_name": "化妆收纳架置物架防尘带灯镜子",
+      "drop_reason": [
+        "灯带寿命问题",
+        "高度固定使用局限"
+      ]
+    }
+  ],
+  "orchestration_notes": [
+    "优先选择轻小件且具备高频取放功能的产品。",
+    "避免选择带电产品和占用地面空间的设计。",
+    "确保产品在视觉上具有吸引力，并满足防尘和分区收纳的需求。"
+  ]
+}

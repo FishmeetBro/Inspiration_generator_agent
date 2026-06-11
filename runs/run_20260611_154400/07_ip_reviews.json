@@ -1,0 +1,35 @@
+{
+  "agent": "ip_risk_guard",
+  "risk_reviews": [
+    {
+      "risk_id": "IPR-001",
+      "concept_name": "透明模块化配件管理盒",
+      "appearance_risk": "medium",
+      "structure_risk": "medium",
+      "platform_compliance_risk": "medium",
+      "competitor_overlap_risk": "high",
+      "risk_reasons": [
+        "透明外壳和模块化插槽设计在市场上较为常见，可能与现有专利重合。",
+        "模块化设计需要避免与现有专利密集区域重叠。",
+        "标签化分类和透明设计在亚马逊平台上已有类似产品，存在竞争风险。"
+      ],
+      "safe_zones": [
+        "非透明材料的使用",
+        "非标准化插槽尺寸和形状"
+      ],
+      "redesign_directions": [
+        "考虑使用不透明或半透明材料以降低外观专利风险。",
+        "设计独特的插槽形状或连接方式以规避结构专利风险。",
+        "增加智能化管理功能，如配件识别或库存管理，提升产品差异化。"
+      ],
+      "patent_layout_suggestions": [
+        "申请独特的插槽连接方式专利。",
+        "开发新的标签固定机制并申请专利。"
+      ],
+      "final_risk_status": "revise"
+    }
+  ],
+  "summary": [
+    "透明模块化配件管理盒在外观和结构上存在中等风险，需通过材料和设计创新来规避现有专利和竞争产品的重合。建议在设计上增加独特性，并考虑申请相关专利以保护创新点。"
+  ]
+}

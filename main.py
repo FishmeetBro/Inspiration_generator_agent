@@ -222,7 +222,150 @@ FBA_RULES_ESTIMATE = {
 }
 
 
-def build_default_task(args: argparse.Namespace) -> Dict[str, Any]:
+AUTO_WORKFLOW_OPTIONS = ["workflow_1", "workflow_2", "workflow_3", "hybrid"]
+AUTO_VARIATION_PROFILES = [
+    {
+        "label": "space_efficiency",
+        "goal": "围绕租房、宿舍与小户型场景，寻找适合抖音和亚马逊的小体积空间效率新品灵感",
+        "categories": ["桌面收纳", "宿舍好物", "租房改造"],
+        "seed_keywords": ["折叠", "夹挂", "免打孔", "窄缝利用"],
+        "search_modifiers": ["small space", "apartment", "dorm room"],
+        "exploration_focus": ["空间压缩", "低安装门槛", "轻量小体积"],
+        "negative_anchors": ["磁吸模块化桌面盒", "常规理线器", "普通U型收纳架"],
+    },
+    {
+        "label": "beauty_and_vanity",
+        "goal": "围绕梳妆台、化妆角和日常高频整理动作，寻找具备视觉吸引力的轻小件新品灵感",
+        "categories": ["美妆收纳", "桌面小工具", "女生宿舍"],
+        "seed_keywords": ["抽拉", "防尘", "旋转", "一键取用"],
+        "search_modifiers": ["vanity", "beauty organizer", "daily routine"],
+        "exploration_focus": ["高频取放", "颜值陈列", "防尘分区"],
+        "negative_anchors": ["通用桌面文件盒", "普通笔筒", "标准透明抽屉盒"],
+    },
+    {
+        "label": "pet_and_cleaning",
+        "goal": "围绕宠物家庭和清洁收纳链路，寻找低客单但容易形成配件矩阵的新品灵感",
+        "categories": ["宠物清洁", "居家小件", "收纳配件"],
+        "seed_keywords": ["防缠绕", "快拆", "壁挂", "分仓"],
+        "search_modifiers": ["pet owner", "grooming", "cleaning station"],
+        "exploration_focus": ["宠物家庭痛点", "清洁链路整合", "配件矩阵"],
+        "negative_anchors": ["纯桌面办公收纳", "普通垃圾袋盒", "传统扫把挂架"],
+    },
+    {
+        "label": "travel_and_portable",
+        "goal": "围绕差旅、通勤和车内外切换场景，寻找便携、扁平、可快速收纳的小件新品灵感",
+        "categories": ["旅行收纳", "通勤好物", "便携配件"],
+        "seed_keywords": ["卷收", "卡扣", "扁平", "快装"],
+        "search_modifiers": ["travel", "portable", "on the go"],
+        "exploration_focus": ["便携收纳", "快开快收", "轻量运输"],
+        "negative_anchors": ["固定桌面支架", "大体积置物架", "厚重塑料盒"],
+    },
+    {
+        "label": "kitchen_micro_tools",
+        "goal": "围绕厨房边角和高频备餐动作，寻找能跨平台销售的轻巧微工具新品灵感",
+        "categories": ["厨房收纳", "备餐小工具", "台面整理"],
+        "seed_keywords": ["滴水沥干", "夹扣", "翻折", "挂边"],
+        "search_modifiers": ["kitchen gadget", "countertop", "prep station"],
+        "exploration_focus": ["高频备餐动作", "台面效率", "低学习成本"],
+        "negative_anchors": ["常规保鲜盒", "大件锅架", "标准调味罐"],
+    },
+    {
+        "label": "craft_and_hobby",
+        "goal": "围绕手作、DIY 和兴趣工作台，寻找能解决零散配件管理问题的新品灵感",
+        "categories": ["DIY配件", "手作收纳", "桌搭周边"],
+        "seed_keywords": ["模块插槽", "标签化", "透明可视", "抽屉分仓"],
+        "search_modifiers": ["craft room", "hobby desk", "maker"],
+        "exploration_focus": ["零件管理", "工作台秩序", "扩展配件"],
+        "negative_anchors": ["普通办公抽屉盒", "标准文件整理架", "单一大容积收纳箱"],
+    },
+]
+
+
+def split_cli_csv(raw: str) -> List[str]:
+    return [item.strip() for item in (raw or "").split(",") if item.strip()]
+
+
+def load_auto_generation_state(base_dir: Path) -> Dict[str, Any]:
+    state_path = base_dir / "runs" / "auto_generation_state.json"
+    if not state_path.exists():
+        return {"workflow_cursor": 0, "profile_cursor": 0, "auto_run_count": 0}
+    try:
+        return json.loads(state_path.read_text(encoding="utf-8"))
+    except Exception:
+        return {"workflow_cursor": 0, "profile_cursor": 0, "auto_run_count": 0}
+
+
+def save_auto_generation_state(base_dir: Path, state: Dict[str, Any]) -> None:
+    state_path = base_dir / "runs" / "auto_generation_state.json"
+    state_path.write_text(json.dumps(state, ensure_ascii=False, indent=2), encoding="utf-8")
+
+
+def resolve_task_inputs(args: argparse.Namespace, base_dir: Path) -> Dict[str, Any]:
+    state = load_auto_generation_state(base_dir)
+    workflow_raw = (args.workflow or "").strip().lower()
+    goal_raw = (args.goal or "").strip()
+    categories = split_cli_csv(args.categories)
+    seed_keywords = split_cli_csv(args.seed)
+    if categories == ["桌面收纳", "居家小件", "DIY配件"]:
+        categories = []
+    if seed_keywords == ["磁吸", "可拆卸", "模块化", "透明收纳"]:
+        seed_keywords = []
+
+    if workflow_raw == "auto":
+        workflow_raw = ""
+    if workflow_raw and workflow_raw not in AUTO_WORKFLOW_OPTIONS:
+        raise ValueError(f"Unsupported workflow: {args.workflow}")
+
+    workflow_source = "manual"
+    if workflow_raw:
+        workflow = workflow_raw
+    else:
+        workflow = AUTO_WORKFLOW_OPTIONS[state.get("workflow_cursor", 0) % len(AUTO_WORKFLOW_OPTIONS)]
+        state["workflow_cursor"] = state.get("workflow_cursor", 0) + 1
+        workflow_source = "auto_rotation"
+
+    needs_profile = not goal_raw or not categories or not seed_keywords
+    profile: Dict[str, Any] = {}
+    if needs_profile:
+        profile = deepcopy(AUTO_VARIATION_PROFILES[state.get("profile_cursor", 0) % len(AUTO_VARIATION_PROFILES)])
+        state["profile_cursor"] = state.get("profile_cursor", 0) + 1
+
+    resolved_goal = goal_raw or profile.get("goal") or "围绕抖音与亚马逊，寻找具备差异化的小件新品灵感"
+    resolved_categories = categories or list(profile.get("categories", [])) or ["桌面收纳", "居家小件", "DIY配件"]
+    resolved_seed_keywords = seed_keywords or list(profile.get("seed_keywords", [])) or ["磁吸", "可拆卸", "模块化", "透明收纳"]
+
+    auto_enabled = workflow_source != "manual" or needs_profile
+    auto_generation = {
+        "enabled": auto_enabled,
+        "workflow_source": workflow_source,
+        "goal_source": "manual" if goal_raw else "auto_profile_rotation",
+        "categories_source": "manual" if categories else "auto_profile_rotation",
+        "seed_source": "manual" if seed_keywords else "auto_profile_rotation",
+        "profile_label": profile.get("label", "manual"),
+        "search_modifiers": list(profile.get("search_modifiers", [])),
+        "exploration_focus": list(profile.get("exploration_focus", [])),
+        "negative_anchors": list(profile.get("negative_anchors", [])),
+    }
+
+    if auto_enabled:
+        state["auto_run_count"] = state.get("auto_run_count", 0) + 1
+        state["last_selected"] = {
+            "workflow": workflow,
+            "profile_label": auto_generation["profile_label"],
+            "goal": resolved_goal,
+        }
+        save_auto_generation_state(base_dir, state)
+
+    return {
+        "workflow_hint": workflow,
+        "user_goal": resolved_goal,
+        "categories": resolved_categories,
+        "seed_keywords": resolved_seed_keywords,
+        "auto_generation": auto_generation,
+    }
+
+
+def _legacy_build_default_task(args: argparse.Namespace) -> Dict[str, Any]:
     return {
         "request_id": f"REQ-{datetime.now().strftime('%Y%m%d-%H%M%S')}",
         "user_goal": args.goal or "围绕亚马逊与抖音，寻找桌面收纳和居家小件赛道的新品灵感",
@@ -245,6 +388,28 @@ def build_default_task(args: argparse.Namespace) -> Dict[str, Any]:
 # ------------------------------
 # 搜索层：SERPAPI 优先，SERPER 兜底
 # ------------------------------
+
+
+def build_default_task(args: argparse.Namespace, base_dir: Path) -> Dict[str, Any]:
+    resolved = resolve_task_inputs(args, base_dir)
+    return {
+        "request_id": f"REQ-{datetime.now().strftime('%Y%m%d-%H%M%S')}",
+        "user_goal": resolved["user_goal"],
+        "target_market": ["douyin_cn", "amazon_global"],
+        "workflow_hint": resolved["workflow_hint"],
+        "constraints": {
+            "categories": resolved["categories"],
+            "exclude_categories": ["带电产品", "大件家具", "危险品"],
+            "max_material_delta_pct": 15,
+            "min_margin_cn": 30,
+            "min_margin_global": 45,
+            "small_parcel_only": True,
+            "avoid_electronics": True,
+            "avoid_patent_dense_shapes": True,
+        },
+        "seed_keywords": resolved["seed_keywords"],
+        "auto_generation": resolved["auto_generation"],
+    }
 
 
 def search_via_serpapi(query: str, api_key: str, num: int = 10, hl: str = "en", gl: str = "us") -> Dict[str, Any]:
@@ -274,16 +439,30 @@ def collect_search_results(task: Dict[str, Any], env: Dict[str, str]) -> Dict[st
     categories = task.get("constraints", {}).get("categories") or ["桌面收纳", "居家小件"]
     keywords = task.get("seed_keywords") or ["磁吸", "可拆卸", "模块化"]
 
+    auto_generation = task.get("auto_generation") or {}
+    search_modifiers = list(auto_generation.get("search_modifiers") or [])
+    exploration_focus = list(auto_generation.get("exploration_focus") or [])
+    keyword_hint = " ".join(keywords[:2]).strip()
+    modifier_hint = " ".join(search_modifiers[:2]).strip()
+    focus_hint = " ".join(exploration_focus[:2]).strip()
+
     queries = []
     for category in categories[:3]:
         queries.extend(
             [
-                ("amazon_global", f'Amazon best sellers "{category}" {" ".join(keywords[:2])}'),
+                ("amazon_global", f'Amazon best sellers "{category}" {keyword_hint}'.strip()),
                 ("amazon_global", f'Amazon trending "{category}" organizer'),
                 ("douyin_cn", f'抖音 热卖榜 {category} {" ".join(keywords[:2])}'),
                 ("douyin_cn", f'抖音 电商 爆款 {category}'),
             ]
         )
+        if modifier_hint:
+            queries.extend(
+                [
+                    ("amazon_global", f'Amazon "{category}" {modifier_hint} {keyword_hint}'.strip()),
+                    ("douyin_cn", f'抖音 {category} {focus_hint or modifier_hint} 创意 好物'.strip()),
+                ]
+            )
 
     serpapi_key = env.get("SERPAPI_API_KEY", "")
     all_items = []
@@ -550,12 +729,26 @@ class RealIdeaEngine:
     def ensure_task(self, task: Dict[str, Any]) -> None:
         ensure_required("task_brief", task, self.contract)
 
+    def auto_variation_instruction(self, task: Dict[str, Any]) -> str:
+        auto_generation = task.get("auto_generation") or {}
+        if not auto_generation.get("enabled"):
+            return ""
+
+        focus = ", ".join(auto_generation.get("exploration_focus") or [])
+        negative_anchors = ", ".join(auto_generation.get("negative_anchors") or [])
+        return (
+            "\n额外要求：当前任务处于自动多样化模式，请优先输出与常见答案明显不同的结构方向。"
+            "\n不要把答案收敛回保守的通用桌面收纳方案。"
+            f"\n本轮聚焦：{focus or '多场景差异化机会'}。"
+            f"\n尽量避开：{negative_anchors or '重复磁吸模块化桌面盒'}。"
+        )
+
     def orchestrator_plan(self, task: Dict[str, Any], cleaned_trend: Dict[str, Any], route: List[str]) -> Dict[str, Any]:
         system_prompt = self.prompts.get("00_中枢调度主Agent_SystemPrompt.md", "")
         prompt = [
             {
                 "role": "system",
-                "content": system_prompt
+                "content": system_prompt + self.auto_variation_instruction(task)
                 + "\n只输出 JSON，格式为 "
                 + '{"workflow_type":"","route":[],"selection_reason":[],"filter_strategy":[],"top_focus_signals":[]}',
             },
@@ -586,7 +779,7 @@ class RealIdeaEngine:
         prompt = [
             {
                 "role": "system",
-                "content": system_prompt
+                "content": system_prompt + self.auto_variation_instruction(task)
                 + "\n只输出 JSON，格式为 "
                 + '{"agent":"feature_transfer_engine","feature_matches":[{"match_id":"","source_problem":"","abstracted_features":[],"selected_features":[],"rejected_features":[],"feature_selection_reason":[],"candidate_product_concepts":[{"concept_name":"","concept_definition":"","structural_points":[],"interaction_points":[],"accessory_matrix_options":[],"cost_risk_notes":[],"compliance_risk_notes":[]}]}],"summary":[]}',
             },
@@ -611,7 +804,7 @@ class RealIdeaEngine:
         prompt = [
             {
                 "role": "system",
-                "content": system_prompt
+                "content": system_prompt + self.auto_variation_instruction(task)
                 + "\n只输出 JSON，格式为 "
                 + '{"agent":"scenario_validation","scenario_reviews":[{"review_id":"","concept_name":"","target_users":[],"usage_chain":[],"fit_scenarios":[],"conflict_scenarios":[],"explicit_needs":[],"implicit_needs":[],"storage_requirements":[],"environment_constraints":[],"validation_status":"pass|revise|fail","revision_advice":[]}],"summary":[]}',
             },
@@ -652,7 +845,7 @@ class RealIdeaEngine:
         prompt = [
             {
                 "role": "system",
-                "content": system_prompt
+                "content": system_prompt + self.auto_variation_instruction(task)
                 + "\n只输出 JSON，格式为 "
                 + '{"agent":"ip_risk_guard","risk_reviews":[{"risk_id":"","concept_name":"","appearance_risk":"low|medium|high","structure_risk":"low|medium|high","platform_compliance_risk":"low|medium|high","competitor_overlap_risk":"low|medium|high","risk_reasons":[],"safe_zones":[],"redesign_directions":[],"patent_layout_suggestions":[],"final_risk_status":"pass|revise|fail"}],"summary":[]}',
             },
@@ -861,8 +1054,10 @@ class RealIdeaEngine:
                 "",
                 f"- 请求 ID：{task.get('request_id', '')}",
                 f"- 工作流：{final_output.get('workflow_type', '')}",
+                f"- 用户目标：{task.get('user_goal', '')}",
                 f"- 目标市场：{', '.join(final_output.get('market', []))}",
                 f"- 方案数量：{len(final_output.get('top_candidates', []))}",
+                f"- 自动探索：{final_output.get('auto_generation', {}).get('profile_label', 'manual')}",
                 "",
             ]
 
@@ -1021,6 +1216,7 @@ class RealIdeaEngine:
             "market": task["target_market"],
             "top_candidates": top_candidates,
             "dropped_candidates": dropped,
+            "auto_generation": task.get("auto_generation", {}),
             "orchestration_notes": (
                 llm_output.get("orchestration_notes", [])
                 if isinstance(llm_output, dict)
@@ -1032,6 +1228,7 @@ class RealIdeaEngine:
                 f"OpenAI model: {self.openai_model}",
                 "Batch cleaner: DeepSeek primary, Groq fallback",
                 "Search layer: SERPAPI if configured, otherwise SERPER fallback",
+                f"Auto diversification: {task.get('auto_generation', {}).get('profile_label', 'manual')}",
             ],
         }
         return output
@@ -1110,10 +1307,10 @@ class RealIdeaEngine:
 
 def main() -> None:
     parser = argparse.ArgumentParser(description="真实数据版爆款产品灵感多 Agent 主程序")
-    parser.add_argument("--workflow", default="workflow_1", choices=["workflow_1", "workflow_2", "workflow_3", "hybrid"])
+    parser.add_argument("--workflow", default="")
     parser.add_argument("--goal", default="")
-    parser.add_argument("--categories", default="桌面收纳,居家小件,DIY配件")
-    parser.add_argument("--seed", default="磁吸,可拆卸,模块化,透明收纳")
+    parser.add_argument("--categories", default="")
+    parser.add_argument("--seed", default="")
     parser.add_argument("--run-name", default="")
     args = parser.parse_args()
 
@@ -1122,7 +1319,7 @@ def main() -> None:
     run_dir = base_dir / "runs" / run_name
     run_dir.mkdir(parents=True, exist_ok=True)
 
-    task = build_default_task(args)
+    task = build_default_task(args, base_dir)
     save_json(run_dir / "00_task.json", task)
 
     engine = RealIdeaEngine(base_dir)

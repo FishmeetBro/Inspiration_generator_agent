@@ -1,0 +1,60 @@
+{
+  "agent": "feature_transfer_engine",
+  "feature_matches": [
+    {
+      "match_id": "MAT-001",
+      "source_problem": "差旅、通勤和车内外切换场景中，便携、扁平、可快速收纳的小件新品需求",
+      "abstracted_features": [
+        "轻量化",
+        "防水面料",
+        "卷式收纳",
+        "弹性绑带",
+        "密封夹条"
+      ],
+      "selected_features": [
+        "轻量化",
+        "卷式收纳",
+        "弹性绑带"
+      ],
+      "rejected_features": [
+        "电动充气/抽气",
+        "密封防潮"
+      ],
+      "feature_selection_reason": [
+        "轻量化适合便携需求",
+        "卷式收纳便于快速展开和收纳",
+        "弹性绑带可适应不同物品的固定"
+      ],
+      "candidate_product_concepts": [
+        {
+          "concept_name": "RollFlex 便携收纳卷",
+          "concept_definition": "一种轻量化的卷式收纳袋，采用弹性绑带设计，适合差旅和通勤场景中的小件物品快速收纳和展开。",
+          "structural_points": [
+            "卷式结构",
+            "弹性绑带固定",
+            "轻量化材料"
+          ],
+          "interaction_points": [
+            "快速卷收",
+            "弹性绑带调节"
+          ],
+          "accessory_matrix_options": [
+            "可拆卸内袋",
+            "多种颜色选择"
+          ],
+          "cost_risk_notes": [
+            "材料成本控制在15%以内",
+            "避免复杂机械结构"
+          ],
+          "compliance_risk_notes": [
+            "确保材料符合国际环保标准",
+            "避免使用专利密集的卡扣设计"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "通过结合轻量化、卷式收纳和弹性绑带的特征，设计了一款适合差旅和通勤场景的便携收纳卷，满足用户对便携、快速收纳的需求。"
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "agent": "scenario_validation",
+  "scenario_reviews": [
+    {
+      "review_id": "SCN-001",
+      "concept_name": "旋转式化妆品防尘收纳塔",
+      "target_users": [
+        "女性",
+        "美妆爱好者",
+        "女生宿舍住户"
+      ],
+      "usage_chain": [
+        "用户将化妆品放入收纳塔",
+        "旋转塔身选择需要的化妆品",
+        "取出化妆品使用",
+        "使用后放回收纳塔"
+      ],
+      "fit_scenarios": [
+        "单人使用",
+        "居家收纳",
+        "女生宿舍"
+      ],
+      "conflict_scenarios": [
+        "车载",
+        "旅行",
+        "户外露营"
+      ],
+      "explicit_needs": [
+        "高频取放",
+        "防尘",
+        "颜值陈列"
+      ],
+      "implicit_needs": [
+        "节省空间",
+        "易于清洁",
+        "稳定性"
+      ],
+      "storage_requirements": [
+        "占用桌面空间小",
+        "可放置于梳妆台"
+      ],
+      "environment_constraints": [
+        "避免高湿环境",
+        "避免强烈颠簸"
+      ],
+      "validation_status": "pass",
+      "revision_advice": []
+    },
+    {
+      "review_id": "SCN-002",
+      "concept_name": "抽拉式分区化妆品收纳盒",
+      "target_users": [
+        "女性",
+        "美妆爱好者",
+        "女生宿舍住户"
+      ],
+      "usage_chain": [
+        "用户将化妆品分类放入收纳盒",
+        "抽拉盒子选择需要的化妆品",
+        "取出化妆品使用",
+        "使用后放回收纳盒"
+      ],
+      "fit_scenarios": [
+        "单人使用",
+        "居家收纳",
+        "女生宿舍"
+      ],
+      "conflict_scenarios": [
+        "车载",
+        "旅行",
+        "户外露营"
+      ],
+      "explicit_needs": [
+        "高频取放",
+        "防尘",
+        "分区存放"
+      ],
+      "implicit_needs": [
+        "节省空间",
+        "易于清洁",
+        "稳定性"
+      ],
+      "storage_requirements": [
+        "占用桌面空间小",
+        "可放置于梳妆台"
+      ],
+      "environment_constraints": [
+        "避免高湿环境",
+        "避免强烈颠簸"
+      ],
+      "validation_status": "pass",
+      "revision_advice": []
+    }
+  ],
+  "summary": [
+    "旋转式化妆品防尘收纳塔和抽拉式分区化妆品收纳盒在单人使用和居家收纳场景中表现良好，满足高频取放和防尘需求。",
+    "两者在车载、旅行和户外露营场景中不适用，需避免高湿和颠簸环境。",
+    "产品设计应继续关注节省空间和易于清洁的隐性需求。"
+  ]
+}

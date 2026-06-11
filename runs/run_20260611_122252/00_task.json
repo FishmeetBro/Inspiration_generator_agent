@@ -1,0 +1,33 @@
+{
+  "request_id": "REQ-20260611-122252",
+  "user_goal": "围绕亚马逊与抖音，寻找桌面收纳和居家小件赛道的新品灵感",
+  "target_market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "workflow_hint": "workflow_1",
+  "constraints": {
+    "categories": [
+      "桌面收纳",
+      "居家小件",
+      "DIY配件"
+    ],
+    "exclude_categories": [
+      "带电产品",
+      "大件家具",
+      "危险品"
+    ],
+    "max_material_delta_pct": 15,
+    "min_margin_cn": 30,
+    "min_margin_global": 45,
+    "small_parcel_only": true,
+    "avoid_electronics": true,
+    "avoid_patent_dense_shapes": true
+  },
+  "seed_keywords": [
+    "磁吸",
+    "可拆卸",
+    "模块化",
+    "透明收纳"
+  ]
+}

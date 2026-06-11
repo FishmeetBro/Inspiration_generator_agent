@@ -1,0 +1,60 @@
+{
+  "agent": "feature_transfer_engine",
+  "feature_matches": [
+    {
+      "match_id": "MAT-001",
+      "source_problem": "桌面电线杂乱，小物件难以分类，桌面空间不足",
+      "abstracted_features": [
+        "磁吸固定",
+        "可拆卸模块化",
+        "多卡槽整理",
+        "U型架空设计"
+      ],
+      "selected_features": [
+        "磁吸固定",
+        "可拆卸模块化",
+        "U型架空设计"
+      ],
+      "rejected_features": [
+        "触控感应",
+        "无线充电集成",
+        "层数调节"
+      ],
+      "feature_selection_reason": [
+        "磁吸固定可以有效解决桌面电线杂乱的问题",
+        "可拆卸模块化设计便于用户根据需求调整收纳空间",
+        "U型架空设计能够充分利用纵向空间，适合小户型用户"
+      ],
+      "candidate_product_concepts": [
+        {
+          "concept_name": "磁吸模块化U型桌面收纳架",
+          "concept_definition": "一种结合磁吸固定和U型架空设计的桌面收纳架，提供可拆卸模块化的收纳解决方案，适用于办公桌和家庭桌面。",
+          "structural_points": [
+            "U型架空设计",
+            "可拆卸模块化层板",
+            "磁吸固定底座"
+          ],
+          "interaction_points": [
+            "用户可根据需求调整层板位置",
+            "磁吸底座提供稳定的固定效果"
+          ],
+          "accessory_matrix_options": [
+            "不同尺寸的模块化层板",
+            "多种颜色选择的磁吸底座"
+          ],
+          "cost_risk_notes": [
+            "材料选择需控制在15%以内的成本波动",
+            "磁吸组件需确保长期使用不失磁"
+          ],
+          "compliance_risk_notes": [
+            "需避免使用专利密集的磁吸结构",
+            "确保材料符合国际环保标准"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "通过结合磁吸固定、可拆卸模块化和U型架空设计，提出了一种创新的桌面收纳解决方案，适合解决桌面电线杂乱和空间不足的问题。"
+  ]
+}

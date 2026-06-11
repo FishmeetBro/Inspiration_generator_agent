@@ -1,0 +1,56 @@
+{
+  "request_id": "REQ-20260611-144513",
+  "user_goal": "围绕梳妆台、化妆角和日常高频整理动作，寻找具备视觉吸引力的轻小件新品灵感",
+  "target_market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "workflow_hint": "workflow_2",
+  "constraints": {
+    "categories": [
+      "美妆收纳",
+      "桌面小工具",
+      "女生宿舍"
+    ],
+    "exclude_categories": [
+      "带电产品",
+      "大件家具",
+      "危险品"
+    ],
+    "max_material_delta_pct": 15,
+    "min_margin_cn": 30,
+    "min_margin_global": 45,
+    "small_parcel_only": true,
+    "avoid_electronics": true,
+    "avoid_patent_dense_shapes": true
+  },
+  "seed_keywords": [
+    "抽拉",
+    "防尘",
+    "旋转",
+    "一键取用"
+  ],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "beauty_and_vanity",
+    "search_modifiers": [
+      "vanity",
+      "beauty organizer",
+      "daily routine"
+    ],
+    "exploration_focus": [
+      "高频取放",
+      "颜值陈列",
+      "防尘分区"
+    ],
+    "negative_anchors": [
+      "通用桌面文件盒",
+      "普通笔筒",
+      "标准透明抽屉盒"
+    ]
+  }
+}

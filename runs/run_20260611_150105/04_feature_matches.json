@@ -1,0 +1,60 @@
+{
+  "agent": "feature_transfer_engine",
+  "feature_matches": [
+    {
+      "match_id": "MAT-001",
+      "source_problem": "厨房台面空间不足，水槽周边台面潮湿，厨具沥水后积水",
+      "abstracted_features": [
+        "可扩展设计",
+        "沥水功能",
+        "夹扣固定",
+        "可折叠结构",
+        "防滑底部"
+      ],
+      "selected_features": [
+        "沥水功能",
+        "夹扣固定",
+        "可折叠结构"
+      ],
+      "rejected_features": [
+        "可扩展设计",
+        "防滑底部"
+      ],
+      "feature_selection_reason": [
+        "沥水功能直接解决台面潮湿问题",
+        "夹扣固定适合小空间使用，增加稳定性",
+        "可折叠结构便于收纳，节省空间"
+      ],
+      "candidate_product_concepts": [
+        {
+          "concept_name": "折叠式沥水夹扣架",
+          "concept_definition": "一种轻巧的折叠式沥水架，采用夹扣固定方式，适用于厨房边角和水槽周边，帮助快速沥水并节省台面空间。",
+          "structural_points": [
+            "夹扣固定设计",
+            "可折叠结构",
+            "倾斜沥水面"
+          ],
+          "interaction_points": [
+            "快速安装和拆卸",
+            "适应不同厚度的台面"
+          ],
+          "accessory_matrix_options": [
+            "可替换夹扣",
+            "不同尺寸的沥水面板"
+          ],
+          "cost_risk_notes": [
+            "材料选择需控制成本，避免高价不锈钢",
+            "夹扣设计需确保耐用性"
+          ],
+          "compliance_risk_notes": [
+            "确保材料符合食品接触安全标准",
+            "避免使用易生锈的金属材料"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "通过抽取和组合沥水功能、夹扣固定和可折叠结构，设计出一种适合小空间使用的折叠式沥水夹扣架，解决厨房台面潮湿和空间不足的问题。"
+  ]
+}

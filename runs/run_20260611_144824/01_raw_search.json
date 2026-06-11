@@ -1,0 +1,1061 @@
+{
+  "queries": [
+    [
+      "amazon_global",
+      "Amazon best sellers \"宠物清洁\" 防缠绕 快拆"
+    ],
+    [
+      "amazon_global",
+      "Amazon trending \"宠物清洁\" organizer"
+    ],
+    [
+      "douyin_cn",
+      "抖音 热卖榜 宠物清洁 防缠绕 快拆"
+    ],
+    [
+      "douyin_cn",
+      "抖音 电商 爆款 宠物清洁"
+    ],
+    [
+      "amazon_global",
+      "Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆"
+    ],
+    [
+      "douyin_cn",
+      "抖音 宠物清洁 宠物家庭痛点 清洁链路整合 创意 好物"
+    ],
+    [
+      "amazon_global",
+      "Amazon best sellers \"居家小件\" 防缠绕 快拆"
+    ],
+    [
+      "amazon_global",
+      "Amazon trending \"居家小件\" organizer"
+    ],
+    [
+      "douyin_cn",
+      "抖音 热卖榜 居家小件 防缠绕 快拆"
+    ],
+    [
+      "douyin_cn",
+      "抖音 电商 爆款 居家小件"
+    ],
+    [
+      "amazon_global",
+      "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆"
+    ],
+    [
+      "douyin_cn",
+      "抖音 居家小件 宠物家庭痛点 清洁链路整合 创意 好物"
+    ],
+    [
+      "amazon_global",
+      "Amazon best sellers \"收纳配件\" 防缠绕 快拆"
+    ],
+    [
+      "amazon_global",
+      "Amazon trending \"收纳配件\" organizer"
+    ],
+    [
+      "douyin_cn",
+      "抖音 热卖榜 收纳配件 防缠绕 快拆"
+    ],
+    [
+      "douyin_cn",
+      "抖音 电商 爆款 收纳配件"
+    ],
+    [
+      "amazon_global",
+      "Amazon \"收纳配件\" pet owner grooming 防缠绕 快拆"
+    ],
+    [
+      "douyin_cn",
+      "抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物"
+    ]
+  ],
+  "items": [
+    {
+      "query": "Amazon best sellers \"宠物清洁\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "https://huggingface.co/datasets/clw8998/Semantic-S...",
+      "snippet": "... 防鏽過濾棉芯, 5個\" +\"DAESANG 大象大米寡糖漿, 1.2kg, 2瓶\" +\"HK 粘掉的 ... 寵物清潔袋, 紅色的, 1個\" +\"Life Sweet 多用途迷你心形黑板便簽板壁掛裝飾品紅色 ...",
+      "link": "https://huggingface.co/datasets/clw8998/Semantic-Search-dataset-for-EE5327701/commit/fa5521ec8afd616a9ff0ad8527b60bbb4173f8bd.diff?file=random_samples_1M%2Frandom_sample_part_19.csv",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"宠物清洁\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "宠物吸尘器推荐【TOP21】宠物爱好者必备",
+      "snippet": "美国生活必备的亚马逊AMAZON好物推荐 · 价格实惠的游戏WIFI路由器推荐【TOP10】 · 宠物狗狗湿巾推荐【TOP8】帮助宠物清洁和去味 · 适合个高人的最佳人体工学游戏椅推荐【 ...",
+      "link": "https://yycams.com/best-pet-vacuums/",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"宠物清洁\" organizer",
+      "platform": "amazon_global",
+      "title": "高壁狗垃圾箱,室內狗便盆,適合中小型狗,如科吉法國鬥牛犬等。無溢漏 ...",
+      "snippet": "​ 寵物清潔後從未如此簡單。 托盤易於清潔的功能可讓您輕鬆沖洗任何髒亂或事故。 ​ 只需幾分鐘的時間,您就可以有一個清新乾淨的墊托托盤供下次使用。 ​ 就這麼簡單! 這 ...",
+      "link": "https://www.amazon.com/-/zh_TW/%E9%AB%98%E5%A3%81%E7%8B%97%E5%9E%83%E5%9C%BE%E7%AE%B1-%E5%AE%A4%E5%85%A7%E7%8B%97%E4%BE%BF%E7%9B%86-%E9%81%A9%E5%90%88%E4%B8%AD%E5%B0%8F%E5%9E%8B%E7%8B%97-%E5%A6%82%E7%A7%91%E5%90%89%E6%B3%95%E5%9C%8B%E9%AC%A5%E7%89%9B%E7%8A%AC%E7%AD%89%E3%80%82%E7%84%A1%E6%BA%A2%E6%BC%8F%E7%9F%BD%E8%86%A0%E5%A2%8A%E6%89%98%E6%89%98%E7%9B%A4-%E9%81%A9%E7%94%A8%E6%96%BC%E5%A4%A7%E5%A4%9A%E6%95%B8%E8%A8%93%E7%B7%B4%E5%A2%8A/dp/B0CP2K8L4H",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"宠物清洁\" organizer",
+      "platform": "amazon_global",
+      "title": "TOP DOG 橡膠花園軟管,重型耐用三重乳膠芯軟管,附8 ... - Amazon.com",
+      "snippet": "主要亮點 · 附贈免費支架:提供一個免費支架,簡單的方法來節省您的存儲空間。 · 8 種功能噴霧噴嘴:提供8 種圖案支援,以滿足不同的澆水用途,非常適合花園澆水、寵物清潔或房屋/ ...",
+      "link": "https://www.amazon.com/-/zh_TW/TOP-DOG-%E9%87%8D%E5%9E%8B%E8%80%90%E7%94%A8%E4%B8%89%E9%87%8D%E4%B9%B3%E8%86%A0%E8%8A%AF%E8%BB%9F%E7%AE%A1-%E7%A8%AE%E5%8A%9F%E8%83%BD%E5%99%B4%E5%98%B4%E5%92%8C%E6%94%AF%E6%9E%B6-%E4%B8%8D%E6%9C%83%E6%89%93%E7%B5%90%E7%9A%84%E6%B0%B4%E8%BB%9F%E7%AE%A1/dp/B08QN8JMSC",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"宠物清洁\" organizer",
+      "platform": "amazon_global",
+      "title": "自動噴霧空氣清新劑補充劑,寵物清潔香味,6 盎司(4 入) - Amazon.com",
+      "snippet": "自動噴霧空氣清新劑補充劑,寵物清潔香味,6 盎司(4 入). Amazon 的 選擇. Amazon 的選擇會突出顯示評價良好、價格合理、可立即發貨的產品。 Amazon 的選擇.",
+      "link": "https://www.amazon.com/-/zh_TW/Glade-76980-%E8%87%AA%E5%8B%95%E5%99%B4%E9%9C%A7%E7%A9%BA%E6%B0%A3%E6%B8%85%E6%96%B0%E5%8A%91%E8%A3%9C%E5%85%85%E5%8A%91-%E5%AF%B5%E7%89%A9%E6%B8%85%E6%BD%94%E9%A6%99%E5%91%B3-%E7%9B%8E%E5%8F%B8/dp/B0716ZW77T",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"宠物清洁\" organizer",
+      "platform": "amazon_global",
+      "title": "Garden Hose Splitter, Durable 2 Way Hose Spigot ... - Amazon.ca",
+      "snippet": "... Connector for Multi-Purpose Irrigation,庭院浇水,露台清洁,车辆清洗,家庭花园,宠物清洁. Garden Hose Splitter, Durable 2 Way Hose Spigot Adapter with 3 Valves, G1/.",
+      "link": "https://www.amazon.ca/Garden-Splitter-Connector-Spigot-Adapter/dp/B09QSYKYHP",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"宠物清洁\" organizer",
+      "platform": "amazon_global",
+      "title": "earthbath 迷迭香和洋甘菊Tushy 濕巾- 狗狗濕巾適用於爪子和屁股 ...",
+      "snippet": "溫和且不刺激- 這些植物性狗濕巾配方有助於中和不愉快的氣味,去除流口水,排出物和粘附。 我們的寵物清潔濕巾使美容變得容易; 健康光澤,感覺細膩- 我們的狗狗沐浴濕巾可 ...",
+      "link": "https://www.amazon.com/-/zh_TW/earthbath-%E8%BF%B7%E8%BF%AD%E9%A6%99%E5%92%8C%E6%B4%8B%E7%94%98%E8%8F%8A-Tushy-%E6%BF%95%E5%B7%BE-%E7%8B%97%E7%8B%97%E6%BF%95%E5%B7%BE%E9%81%A9%E7%94%A8%E6%96%BC%E7%88%AA%E5%AD%90%E5%92%8C%E5%B1%81%E8%82%A1/dp/B09MDNH19V",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"宠物清洁\" organizer",
+      "platform": "amazon_global",
+      "title": "WishLotus 寵物沐浴刷小狗按摩刷附洗髮水分配器寵物美容工具適用 ...",
+      "snippet": "其他詳細資訊. 特色: 1. 幫助您的寵物清潔、按摩和梳理頭髮,讓您的寵物享受沐浴時間並保持皮膚乾燥健康。 2.操作步驟非常簡單。 只需打開底蓋,加入清潔液和水混合以產生 ...",
+      "link": "https://www.amazon.com/-/zh_TW/WishLotus-%E9%99%84%E6%B4%97%E9%AB%AE%E6%B0%B4%E5%88%86%E9%85%8D%E5%99%A8-%E5%AF%B5%E7%89%A9%E7%BE%8E%E5%AE%B9%E5%B7%A5%E5%85%B7-%E9%81%A9%E7%94%A8%E6%96%BC%E5%B0%8F%E5%9E%8B%E5%8B%95%E7%89%A9-%E9%81%A9%E7%94%A8%E6%96%BC%E9%95%B7%E7%9F%AD%E6%AF%9B%E7%8B%97%E5%92%8C%E8%B2%93%E6%B8%85%E6%B4%97/dp/B0C8589SV1",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"宠物清洁\" organizer",
+      "platform": "amazon_global",
+      "title": "Amazon Outlet | 過剩庫存優惠",
+      "snippet": "3 入連續噴霧瓶- 超細噴霧噴霧器,可補充式水噴霧器,適用於髮型、植物、寵物、清潔、護膚品(7 盎司(約192.8 克/200 毫升,白色)3 入連續噴霧瓶- 超細噴霧噴霧器,可補充式 ...",
+      "link": "https://www.amazon.com/-/zh_TW/outlet?ref_=nav_cs_outlet",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"宠物清洁\" organizer",
+      "platform": "amazon_global",
+      "title": "塑膠用品室內掃帚房子掃帚用於清掃室內戶外零件配件 ... - Amazon.com",
+      "snippet": "... 寵物清潔用品、掃刷頭。 - 它由塑膠材料製成,實用且便攜,易於安裝,可以用作工具掃帚。 商品資訊掃帚這是一個可更換的掃帚,由塑膠材料製成。掃帚筆芯簡單設計的家用地板 ...",
+      "link": "https://www.amazon.com/-/zh_TW/%E5%A1%91%E8%86%A0%E7%94%A8%E5%93%81-%E5%AE%A4%E5%85%A7%E6%8E%83%E5%B8%9A-%E7%94%A8%E6%96%BC%E6%B8%85%E6%8E%83-%E6%88%B6%E5%A4%96%E9%9B%B6%E4%BB%B6-%E7%B8%AB%E9%9A%99%E5%88%B7/dp/B0C9NCCC4W",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 宠物清洁 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "验证码中间页 - 抖音",
+      "snippet": "",
+      "link": "https://www.douyin.com/user/MS4wLjABAAAA2mviAUPyPtYHANLSriuUWYIbBKlTbsiepGoXR1D31J0",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 宠物清洁 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "[PDF] 抖音|巨量算数 - U渠道",
+      "snippet": "宠物美容. @卫仕. 清洁用品. 获赞140w+. 实物消费. 宠物. @波奇宠物. 日用品. 获赞630w+. 宠物行业产业生态. 宠物清洁. 寄养. 美容. @郑州市金水区康旭.",
+      "link": "https://qn.uqudao.com/0c7f7010a109b80eee3c90bb137b6179.pdf",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 宠物清洁 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "对宠物友好的扫地机器人推荐- 抖音 - Douyin",
+      "snippet": "还有灵缠3.0防缠绕，再也不用手动抠滚刷上的猫毛狗毛～ 石头P20 Ultra Plus：三重热力技术太香了！60℃热水擦地溶解污渍，洗布+烘干一步到位，清洁液加持除菌率99.99 ...",
+      "link": "https://www.douyin.com/search/%E5%AF%B9%E5%AE%A0%E7%89%A9%E5%8F%8B%E5%A5%BD%E7%9A%84%E6%89%AB%E5%9C%B0%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%8E%A8%E8%8D%90",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 宠物清洁 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "抖音电商宠物新品趋势白皮书丨精致养宠，猫狗替铲屎官活成了“贵族”",
+      "snippet": "从低温烘焙、稀有肉源到功能精准化，拆解抖音宠物新品演化逻辑与四大爆发节点，看清精致养宠的消费升级方向。",
+      "link": "https://www.ageclub.net/article-detail/9243",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 宠物清洁 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "小米猫饮水器怎么拆洗 - 抖音",
+      "snippet": "怎么清洁宠物饮水机的水泵，其实很简单。猫咪饮水器水泵一定要定期清洗，建议一周一次。#猫咪自动饮水器#宠物自动饮水机水泵#饮水机清洁刷哇，这水泵也太 ...",
+      "link": "https://www.douyin.com/shipin/7317366290233133108",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 宠物清洁 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "[PDF] 扫地机器人市场报告",
+      "snippet": "配置拉满：吸力/ 拖地/ 避障/ 基站功能（如. 蒸汽拖、免换水、AI 视觉）均为旗舰级；. 特色功能多：防缠绕、高覆盖率边角处理等细. 节体验更优；. 技术迭代新： ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202512251807846300_1.pdf?1766676563000.pdf",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 宠物清洁 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "它博会当日卖出2.5w+单，「沐森堂」凭何领跑抖音宠物洗护赛道？",
+      "snippet": "在猫狗美容清洁用品赛道里，「MUSENTANG/沐森堂」的表现尤为亮眼。品牌增长榜显示，品牌上周销售额突破500w，拿下赛道11.45%的市场份额登顶TOP1，更以+11.28 ...",
+      "link": "https://zhuanlan.zhihu.com/p/2038321433428890060",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 宠物清洁 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "小狗吸尘器产地排行榜 - 京东",
+      "snippet": "选了很久。最终选了小狗这个品牌。用了2次130平房子。用了38%电。省电。吸力大。家庭使用足够了。 清洁效果：肉眼基本上看不到尘。 噪音大小：很小。不影响正常看电视刷抖音！",
+      "link": "https://www.jd.com/phb/key_737e88d4aaeda4e3785.html",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 宠物清洁",
+      "platform": "douyin_cn",
+      "title": "抖音电商携手TOPS它博会，解锁宠物经济新玩法",
+      "snippet": "3、宠物场景互动类的内容推动体验式“云吸宠”成新潮流。 这些爆款趋势能够更好地指引商家优化选品策略、升级内容营销、提升转化效果，激活生意增长新动能。",
+      "link": "https://zhuanlan.zhihu.com/p/1899194137955242293",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 宠物清洁",
+      "platform": "douyin_cn",
+      "title": "月销16000+单，TikTok宠物用品赛道又出爆款",
+      "snippet": "近日，TT123 发现，在TikTok 上，一条介绍宠物粘毛器产品的视频迅速走红。短短15 秒的视频，已经拥有超过1000 多万的播放量，以及18.8W+ 的点赞量。而视频中 ...",
+      "link": "https://www.baijing.cn/m/article/52346",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 宠物清洁",
+      "platform": "douyin_cn",
+      "title": "单条视频超1430万次播放，又一宠物清洁品牌在TikTok出圈",
+      "snippet": "该产品属于Indigopetco宠物清洁品牌旗下的一款清洁扫帚，可用于清扫地毯上的宠物毛发及 ... 友情链接： 跨境电商亿恩网 跨境电商开店入驻 鲁班跨境通.",
+      "link": "https://amz520.com/articles/49879.html",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 宠物清洁",
+      "platform": "douyin_cn",
+      "title": "TikTok宠物用品赛道又出爆款 - 东方财富",
+      "snippet": "最近，一款来自义乌的宠物粘毛器在TikTok上迅速走红，成为宠物用品赛道的又一爆款。这款粘毛器以其小巧便携、易于清洁、粘附力强等特点，赢得了众多宠物主人 ...",
+      "link": "https://emcreative.eastmoney.com/app_fortune/article/index.html?artCode=20250420130158309237470&postId=1541620360",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 宠物清洁",
+      "platform": "douyin_cn",
+      "title": "抖音电商邀你一起「溜」进亚宠展！ - SocialBeta",
+      "snippet": "「萌宠LAND」治愈氛围拉满，这里不仅有卡皮巴拉等异宠零距离互动，更设置了专业宠物摄影区，为宠主定格与爱宠的温馨瞬间；逛展累了，来好物市集体验爆款新品，线 ...",
+      "link": "https://socialbeta.com/campaign/25607",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 宠物清洁",
+      "platform": "douyin_cn",
+      "title": "一只宠物，能养活几门生意？ - CBNData",
+      "snippet": "但将宠物清洁、毛发修剪与吸尘结合在一起的产品创意，的确正在TikTok等海外平台上爆火。 这一被国内商家亲切称为“宠物洗剪吹”的全新品类，最常出现在TikTok ...",
+      "link": "https://www.cbndata.com/information/293248",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "狗奴福利  吸塵梳毛吸毛一take過   作為一個dog trainer, 痴到成身狗毛 ...",
+      "snippet": "... (寵物清潔套組加購配件) ｜ 高效刮除死咬在沙發、被單與衣服纖維裡的頑固 ... pet owner get one. OCR. 狗狗抗拒你也累掛脖吹水機#110V電壓版 解放 ...",
+      "link": "https://www.instagram.com/reel/DWG3OBDyrEw/",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "重現貓媽媽的愛：PawSwing 全自動貓咪梳理屋，採用專利「仿舌刷 ...",
+      "snippet": "快來看看『電動潔腳神器| 360°深度清潔不傷爪| 貓狗通用・IP67防水・10天續航寵物美容清潔用品寵物清潔器寵物沐』，售價只要$199 - $299！立即上蝦皮購物逛 ...",
+      "link": "https://www.instagram.com/p/DQ6in3Jk89e/",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "現在618期間E25在momo有超甜價！我把連結放在留言置頂！ 那種 ...",
+      "snippet": "Pet owners probably understand... every time we return from a ... 這次體驗的是英國寵物清潔品牌✨ANIGENE 愛立潔✨ 這包裝完全不像一般 ...",
+      "link": "https://www.instagram.com/reel/DZU_fYbR9v4/",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "好神拖-極淨拖開團❗️超強淨汙分離❗️ 團購下單前100名加碼送1 ...",
+      "snippet": "... 寵物清潔 #次氯酸 #毛孩生活 #寵物用品 #除臭噴霧 · May 24. OCR. 這味道… 怎麼都消不掉？ 尿味/ 體味/ 異味困擾你嗎？ 噴一下異味Bye Bye! 快速分解異味 ...",
+      "link": "https://www.instagram.com/reel/DXYl2BQDpHu/",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "https://huggingface.co/datasets/clw8998/Semantic-S...",
+      "snippet": "... 防蟎抗菌, 350ml, 6瓶\" +\"DONNA&DECO One Touch Box 小2p + 大2p, 白色的 ... 寵物清潔紙巾氯己定白麝香, 40張裝, 1個\" +\"oa Cladget UV泵浦式複合心情燈大容量 ...",
+      "link": "https://huggingface.co/datasets/clw8998/Semantic-Search-dataset-for-EE5327701/commit/fa5521ec8afd616a9ff0ad8527b60bbb4173f8bd.diff?file=random_samples_1M%2Frandom_sample_part_33.csv",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "【輝葉良品| i-Cyndi 愛洗地】洗地機，寵物家庭救星！狗尿狗吐秒速 ...",
+      "snippet": "... 寵物清潔#電解水輝葉【輝葉良品| i-Cyndi 愛洗地】洗地機專屬優惠：https://hueiyeh.tw/SmrYH 【輝葉良品】全台獨立門市https://bit.ly/3VmccgY ...",
+      "link": "https://www.instagram.com/p/DTrsp10EWr6/",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "快來看看『貓咪指甲剪寵物指甲剪貓指甲剪貓咪指甲剪神器貓咪專用 ...",
+      "snippet": "pet. 貓咪打薄器貓咪梳子兩用除毛梳去浮毛短毛長毛小號寵物清潔專用 🖍️ 藍、綠、粉、白大號（10.5cm）＄159 小號（7.5cm）＄139 商品預購需5~10個 ...",
+      "link": "https://www.instagram.com/p/DOLLzwNkul1/",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 宠物清洁 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "[PDF] 2026年中国宠物家居行业发展趋势白皮书",
+      "snippet": "PREFACE. 在宠物成为家人的今天，它们的生活空间正从家的角落，走向家的中心。千万中国家庭正. 在经历的，不仅是一场“养宠”的日常，更是一场关于“共居”的 ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202605261822873377_1.pdf?1779793153000.pdf",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 宠物清洁 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "必胜：为养宠家庭提供出众的清洁方案 - 知乎专栏",
+      "snippet": "养宠家庭的需求痛点为在中国逐渐成为风口的“清洁电器”行业提出了新的课题，而恰恰在养宠领域，全球地面清洁的主流品牌必胜，就有一套明确的清洁电器养宠方案 ...",
+      "link": "https://zhuanlan.zhihu.com/p/642884260",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 宠物清洁 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "它博会过半，抖音商城「无限宠友力」如何解锁人宠生意新可能？",
+      "snippet": "视频通过AI技术，实现萌宠拟人化创意演绎，用充满想象力和萌趣感的镜头，传递出鲜明的活动主张：这不是一场传统的电商促销，而是一场以宠物为主角、以人宠关系 ...",
+      "link": "https://life.china.com/2026-05/08/content_574735.html",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 宠物清洁 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "萌力觉醒超能力！抖音「宠友联萌季」X「万物可爱计划5.0」",
+      "snippet": "与此同时，此次「宠友联萌季」携手端内众多优质达人展开内容深耕，围绕人宠互动、科学养宠、萌宠趣味等多元场景，解锁宠物内容的无限可能，打造铲屎官与毛孩子 ...",
+      "link": "https://www.ellechina.com/jewelrywatch/new/a63703150/17389410092/",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 宠物清洁 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "抖音电商×《芭莎宠爱》给毛孩子拍劳动节大片 - SocialBeta",
+      "snippet": "4 月28 日-5 月11 日，抖音商城推出「宠宠超能力」萌宠品类日活动，围绕家长们和宠物相处的不同消费场景，分别打造#穿搭赛道也是被萌主闯进来、#宠物是我最好 ...",
+      "link": "https://socialbeta.com/campaign/24736",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 宠物清洁 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "藏在小兴趣里的新生意：这些商家在抖音双11出圈 - C财经",
+      "snippet": "空气萝卜看到了机会。它们的产品逻辑以宠物为本、养宠场景痛点为标尺，做了4款智能猫砂盆、湿粮冰箱喂食器、宠物大吸力扫地机等产品。周雪介绍：“我们智能猫 ...",
+      "link": "https://caijing.chinadaily.com.cn/a/202411/13/WS6734588ea310b59111da339f.html",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"居家小件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "Alomejor 快拆扣環,3 個耐用不鏽鋼扣環,輕量,適合登山健行者寵物主人 ...",
+      "snippet": "關於這個商品 ·?優質材質?扣環由不鏽鋼材料製成,堅固且使用壽命長。 ·?廣泛應用?傘繩手鍊編織木框架上的金屬織帶扣可以自行更換。 ·?迷你尺寸設計?體積小,重量輕,易於攜帶 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Alomejor-%E5%BF%AB%E6%8B%86%E6%89%A3%E7%92%B0-%E5%80%8B%E8%80%90%E7%94%A8%E4%B8%8D%E9%8F%BD%E9%8B%BC%E6%89%A3%E7%92%B0-%E8%BC%95%E9%87%8F-%E9%81%A9%E5%90%88%E7%99%BB%E5%B1%B1%E5%81%A5%E8%A1%8C%E8%80%85%E5%AF%B5%E7%89%A9%E4%B8%BB%E4%BA%BA%E6%88%B6%E5%A4%96%E6%84%9B%E5%A5%BD%E8%80%85/dp/B08B5VGPMN",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"居家小件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "LEATHERMAN Surge，21 合1 耐用多功能工具，適用於工作、家庭",
+      "snippet": "強大耐用的機器： Surge 專為處理艱難的工作而設計，是我們最大的多功能工具之一，具有我們最大的鉗子和最長的刀片；旨在滿足電工、機械師、水管工、建築工人和其他專業人士的 ...",
+      "link": "https://www.amazon.com/-/zh_TW/LEATHERMAN-Surge%EF%BC%8C21-%E5%90%88-%E8%80%90%E7%94%A8%E5%A4%9A%E5%8A%9F%E8%83%BD%E5%B7%A5%E5%85%B7%EF%BC%8C%E9%81%A9%E7%94%A8%E6%96%BC%E5%B7%A5%E4%BD%9C%E3%80%81%E5%AE%B6%E5%BA%AD%E3%80%81%E8%8A%B1%E5%9C%92%E3%80%81DIY-%E5%92%8C%E6%B1%BD%E8%BB%8A%EF%BC%8C%E4%B8%8D%E9%8F%BD%E9%8B%BC%EF%BC%8C%E9%99%84%E5%B0%BC%E9%BE%8D%E8%AD%B7%E5%A5%97/dp/B0014VVVCK",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"居家小件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "ANZOME 自行車籃，折疊小寵物貓狗托架前可拆卸自行車把手籃快速 ...",
+      "snippet": "重量輕且耐用– 這款車把自行車包非常方便。 由堅固的金屬框架製成，採用堅固的牛津布料，現代快拆式把手轉接器。 自行車籃以高品質工藝打造。",
+      "link": "https://www.amazon.com/-/zh_TW/ANZOME-%E8%87%AA%E8%A1%8C%E8%BB%8A%E7%B1%83%EF%BC%8C%E6%8A%98%E7%96%8A%E5%B0%8F%E5%AF%B5%E7%89%A9%E8%B2%93%E7%8B%97%E6%89%98%E6%9E%B6%E5%89%8D%E5%8F%AF%E6%8B%86%E5%8D%B8%E8%87%AA%E8%A1%8C%E8%BB%8A%E6%8A%8A%E6%89%8B%E7%B1%83%E5%BF%AB%E9%80%9F%E9%87%8B%E6%94%BE%E6%98%93%E6%96%BC%E5%AE%89%E8%A3%9D%E7%9A%84%E5%8F%AF%E6%8B%86%E5%8D%B8%E8%87%AA%E8%A1%8C%E8%BB%8A%E8%A2%8B%E5%B1%B1%E9%87%8E%E9%A4%90%E8%B3%BC%E7%89%A9%E8%A2%8B/dp/B07BMSHJ9J",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"居家小件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "Amazon 暢銷商品: 最佳居家與廚房",
+      "snippet": "探索暢銷商品中的最佳居家與廚房。 尋找Amazon 居家與廚房暢銷商品中的前100 個最熱門商品。",
+      "link": "https://www.amazon.com/-/zh_TW/gp/bestsellers/home-garden/ref=zg_bs_home-garden_sm",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"居家小件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "Amazon 暢銷商品: 最佳居家斜邊掃帚",
+      "snippet": "探索暢銷商品中的最佳居家斜邊掃帚。 尋找Amazon 健康與家庭暢銷商品中的前100 個最熱門商品。",
+      "link": "https://www.amazon.com/-/zh_TW/gp/bestsellers/hpc/14253831/ref=pd_zg_hrsr_hpc",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"居家小件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "不好用来找我  Amazon亲测TOP20  离不了神器| 省心省力还省钱",
+      "snippet": "不好用来找我 Amazon亲测TOP20 离不了神器| 省心省力还省钱| 旅行居家宠物房屋安全| MISSANTI. 43K views · 10 months ago.",
+      "link": "https://www.youtube.com/watch?v=0qnizbvX_R4",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"居家小件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "EZ-SNAP 可自訂第5 輪罩- 房車配件房車裙款適用於冬季生活旅行 ...",
+      "snippet": "主要亮點 · 顏色. 米色搭配米色鉚釘 · 品牌. EZ-SNAP · 材料. 菱形編織裙 · 服務類型. 汽車 · 適合類型. 通用 · 抗紫外線保護. 防紫外線。",
+      "link": "https://www.amazon.com/-/zh_TW/EZ-SNAP-%E5%8F%AF%E8%87%AA%E8%A8%82%E7%AC%AC-%E8%BC%AA%E7%BD%A9-%E9%81%A9%E7%94%A8%E6%96%BC%E5%86%AC%E5%AD%A3%E7%94%9F%E6%B4%BB-%E9%BB%8F%E8%91%97%E5%8A%91%E5%92%8C%E8%9E%BA%E7%B5%B2/dp/B0CL1HRVVL",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"居家小件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "30 分鐘道路安全喇叭(36 包),打蠟(附支架) - Amazon.com",
+      "snippet": "大多數警察部門使用的品牌; ✓ 環保非滲透配方; ✓ 三十六(36) 喇叭盒; ✓ 美國製造; ✓ 在所有天氣條件下燃燒。 查看更多. 產品規格. 商品详情. 测量值. 材料与保养.",
+      "link": "https://www.amazon.com/-/zh_TW/30-%E5%88%86%E9%90%98%E9%81%93%E8%B7%AF%E5%AE%89%E5%85%A8%E5%96%87%E5%8F%AD-36-%E6%89%93%E8%A0%9F-%E9%99%84%E6%94%AF%E6%9E%B6/dp/B0848CDWM1",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"居家小件\" organizer",
+      "platform": "amazon_global",
+      "title": "居家收納抽屜 - 淘寶",
+      "snippet": "... 壓克力窄長收納盒長方形桌面抽屜分隔神器居家小件雜物分類收納盒. 超級立減活動價. ￥. 7.72. 已售100以内件. 收藏. -評價.",
+      "link": "https://world.taobao.com/product/%E5%B1%85%E5%AE%B6%E6%94%B6%E7%B4%8D%E6%8A%BD%E5%B1%9C.htm",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 居家小件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "防缠绕接头纯铜- 抖音 - Douyin",
+      "snippet": "... 防缠绕接头纯铜防缠绕旋转接头防缠绕接头拆解 ... #电工接线#居家好物#上热门 #高性能实用工具 #接线小技巧 ... 快拆接头 #高压水枪. 家里有洗车机一定要换上新款纯铜 ...",
+      "link": "https://www.douyin.com/search/%E9%98%B2%E7%BC%A0%E7%BB%95%E6%8E%A5%E5%A4%B4%E7%BA%AF%E9%93%9C",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 居家小件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "灰豚数据- 短视频&直播电商数据分析平台",
+      "snippet": "灰豚数据是短视频和抖音直播、小红书等数据分析监测云平台,为top品牌与达人提供精准、可靠、高效的短视频、直播数据分析服务，包括热门视频广告素材、带货达人、畅销 ...",
+      "link": "https://www.huitun.com/",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 居家小件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "3分水管快拆接头- 抖音",
+      "snippet": "3分水管快拆接头 ... #居家好物 #水龙头 #水管接头 #实用工具 #好物推荐分享 洗衣机水龙头，搭配这种内部带防漏圈的卡扣接头，就能轻松连接各种尺寸的软管了。",
+      "link": "https://www.douyin.com/search/3%E5%88%86%E6%B0%B4%E7%AE%A1%E5%BF%AB%E6%8B%86%E6%8E%A5%E5%A4%B4",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 居家小件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "达多多数据：抖音数据分析平台,抖音数据查询平台,免费查询抖音直播",
+      "snippet": "达多多数据是抖音数据分析平台，免费查询抖音直播和短视频数据和抖音小店、商品、品牌等抖音电商数据，为网红达人、供应链商家、MCN机构、品牌运营商提供直播&短视频抖音 ...",
+      "link": "https://daduoduo.com/mobile",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 居家小件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "追觅x30扫地机怎么设置 - 抖音",
+      "snippet": "@居家小蓝蓝. 清洁是件多大的事？#追觅X30#割毛滚刷防缠绕#双刮洗臂自清洁#中秋相聚的100种方式#抖音电商开新日到底什么样的人才适合扫地机器人呢？",
+      "link": "https://www.douyin.com/shipin/7301739521593346067",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 居家小件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "[PDF] 抖音电商",
+      "snippet": "周期内共有16个一级品类销售额突破300亿元,其中服饰内衣凭借品类自带的强内容属性,具有较高的市场渗透率,以超过8000亿元的销售额仍稳居抖音电商品类 ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202501091641865679_1.pdf",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 居家小件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "蝉妈妈注册入口- 蝉妈妈数据",
+      "snippet": "蝉妈妈是厦门蝉羽网络科技有限公司旗下短视频内容营销与直播电商洞察平台，为品牌、商家、达人、MCN机构等提供全方位电商视角。助力从业者用好内容触达亿万客户， ...",
+      "link": "https://www.chanmama.com/SPUrank/",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 居家小件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "小米洗地机滚刷缠绕怎么办 - 抖音",
+      "snippet": "洗地机总是提醒清理滚刷怎么办两步教您轻松 · #米家无线洗地机5Max 体验：帮你解决家居清洁最后 · 米家洗地机2C常见故障排查解决办法。 · 洗地机避坑指南之防缠绕技术！ · 洗地机 ...",
+      "link": "https://www.douyin.com/shipin/7377374021609998362",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 居家小件",
+      "platform": "douyin_cn",
+      "title": "抖音电商官网",
+      "snippet": "加入抖音电商. 激发兴趣引领增长. 商家入驻. 在抖音开店卖货. 境内商家. 跨境商家. 即时零售商家. 达人入驻. 抖音好物推荐官. 立即入驻. 机构入驻. 共创未来生态. 达人机构.",
+      "link": "https://douyinec.com/",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 居家小件",
+      "platform": "douyin_cn",
+      "title": "抖音商城爆款商品小物件",
+      "snippet": "抖音商城爆款商品小物件 ; aSeller-亚马逊店铺管家 · 6月前 · 跨境电商11月最新爆品，aSeller选品参考 ; 壹品居家小百货 · 壹品居家小百货 · 7月前. 抖音百货热卖 ...",
+      "link": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E5%95%86%E5%9F%8E%E7%88%86%E6%AC%BE%E5%95%86%E5%93%81%E5%B0%8F%E7%89%A9%E4%BB%B6",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 居家小件",
+      "platform": "douyin_cn",
+      "title": "tiktok小店居家日用爆款产品 - 抖音",
+      "snippet": "tiktok小店居家日用爆款产品 ; aSeller-亚马逊店铺管家 · 跨境电商11月最新爆品，aSeller选品参考 ; 小成跨境选品日记 · 3月最新跨境爆品！每日学习差异化选品 ...",
+      "link": "https://www.douyin.com/search/tiktok%E5%B0%8F%E5%BA%97%E5%B1%85%E5%AE%B6%E6%97%A5%E7%94%A8%E7%88%86%E6%AC%BE%E4%BA%A7%E5%93%81",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 居家小件",
+      "platform": "douyin_cn",
+      "title": "顾家、林氏家居- 【范居士观察】抖音电商蕴含的巨大流量池 - 大数跨境",
+      "snippet": "林氏家居：凭借“胖子椅沙发”爆款实现破圈传播，播放量达五六百万，带动持续半月的销售增长。品牌加速构建多平台官方账号矩阵及自孵化达人体系，抖音粉丝占比超一半。",
+      "link": "https://m.10100.com/article/5122540",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 居家小件",
+      "platform": "douyin_cn",
+      "title": "家居爆款产品 - 抖音",
+      "snippet": "您在查找家居爆款产品吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看 ...",
+      "link": "https://www.douyin.com/search/%E5%AE%B6%E5%B1%85%E7%88%86%E6%AC%BE%E4%BA%A7%E5%93%81",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 居家小件",
+      "platform": "douyin_cn",
+      "title": "抖音小店案例分析：仅6天便爆款商品小店商品日销10万单的秘密",
+      "snippet": "抖音直播正式关闭第三方商品渠道新规下，最近有人气爆款小店与新晋的黑马小店商品呢？我们以具体上榜的商品为例，来详细解读下近期在抖音上带货强劲商品 ...",
+      "link": "https://www.growthhk.cn/mcn/douyin/33491.html",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 居家小件",
+      "platform": "douyin_cn",
+      "title": "2025年抖音中小商家的风口来了：官方半托管，不懂内容也能有增量",
+      "snippet": "为了让店内的爆款产品突破增长平均，挖掘更高的增量空间，来伊份大胆尝试新工具增量宝——将TOP 商品交托给平台，享受平台提供的流量托管+营销托管+内容托管等 ...",
+      "link": "https://zhuanlan.zhihu.com/p/1944778904238822112",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 居家小件",
+      "platform": "douyin_cn",
+      "title": "抖音小店选品爆款产品",
+      "snippet": "00:03 首先在商品这里找到商机中心，进来界面以后找到消费者正在搜，机会类型选择热搜词，旁边品牌选择非品牌，在下面品类选择正在做的类目就可以了。",
+      "link": "https://www.douyin.com/search/%E6%8A%96%E9%9F%B3%E5%B0%8F%E5%BA%97%E9%80%89%E5%93%81%E7%88%86%E6%AC%BE%E4%BA%A7%E5%93%81",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "Watch The only dog grooming kit you will ever need on Amazon Live",
+      "snippet": "Shop with expert advice from Vange Q in their latest video The only dog grooming kit you will ever need.",
+      "link": "https://www.amazon.com/live/video/03667f893bf74d738a7d4e69b8d908d9",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "Best Small Animal Grooming Supplies - Amazon.com",
+      "snippet": "Discover the best Small Animal Grooming Supplies in Best Sellers. Find the top 100 most popular items in Amazon Pet Supplies Best Sellers.",
+      "link": "https://www.amazon.com/Best-Sellers-Small-Animal-Grooming-Supplies/zgbs/pet-supplies/2975529011",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "The best-selling new & future releases in Dog Grooming Supplies",
+      "snippet": "Amazon.com New Releases: The best-selling new & future releases in Dog Grooming Supplies.",
+      "link": "https://www.amazon.com/gp/new-releases/pet-supplies/2975362011",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "Watch Is This Dog Grooming Kit Worth the Cost? on Amazon Live",
+      "snippet": "The Review Family tests pet grooming vacuum: Powerful suction, multiple tools, and easy cleanup for dogs and cats. See why it's a game-changer for pet ...",
+      "link": "https://www.amazon.com/live/video/035c9f91fbd346fe88aeee3c8e928869",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "7pcs Pet Grooming Kit, Self-Cleaning Brush Shedding Kit with Nail ...",
+      "snippet": "【7pcs grooming set】The 7 in 1 pet grooming set includes a self-cleaning slicker brush, a flea comb, a pet nail clippers, a file, a shampoo bath washing ...",
+      "link": "https://www.amazon.com/Grooming-Self-Cleaning-Shedding-Clipper-Toothbrush/dp/B0CHWJR7HT",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "Amazon.com: MIU PET Dog Grooming Vacuum Kit, 2.5L Large ...",
+      "snippet": "It includes a dog grooming brush and deshedding brush for eﬃcient removal of loose pet hair. Electric clipper with 4 size combs provides excellent cutting ...",
+      "link": "https://www.amazon.com/MIU-PET-Premium-Grooming-Shedding/dp/B0CDLKVCXD",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "PETWORTHY Quiet Dog Grooming Kit - 2000mAh Dog Clippers for ...",
+      "snippet": "Low noise vibration design: The Petworthy quiet motor reduces noise and vibration by 20%, ensuring that even the most sensitive pets won't be scared, ...",
+      "link": "https://www.amazon.com/Petworthy-Dog-Clippers-Grooming-Professional/dp/B0CPP83YWP",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "YITAHOME: Pet Grooming Series - Amazon.com",
+      "snippet": "【Quality That Lasts】A professional pet grooming table that befits pet salons; Sturdy and durable steel frame base with shaped design to achieve immense ...",
+      "link": "https://www.amazon.com/stores/YITAHOME/page/4BAD3584-240F-4B88-8B1F-338E873B4B7C",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 居家小件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "科技赋能宠业升级，中国移动构建智慧养宠新生态 - 新华网浙江",
+      "snippet": "目前，“数字化养宠”成为行业趋势，中国移动聚焦宠物独处时“无人照料、远程牵挂”的痛点，引入多款品牌的宠物智能硬件，覆盖宠物日常照料场景。宠物定位器支持 ...",
+      "link": "http://www.zj.xinhuanet.com/20260326/b223ac2eba15426eb165654e77baf508/c.html",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 居家小件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "“智能”养宠背后的伪科技与真痛点 - 中国青年报",
+      "snippet": "在“科技养宠”成为新风尚的今天，不少像他一样的年轻人为自己的“毛孩子”购置了价格不菲的智能装备：能自动铲屎、监测健康的AI猫砂盆，号称能翻译“狗语”的智能 ...",
+      "link": "https://zqb.cyol.com/pc/content/202601/16/content_421247.html",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 居家小件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "当萌宠遇上智能科技 - 人民日报",
+      "snippet": "近些年，智能宠物用品正走进越来越多的养宠家庭。具有新风、温控等多功能的宠物智能舱，线上智能高效的宠物问诊，能陪宠物玩耍的智能陪伴机器人 ...",
+      "link": "http://paper.people.com.cn/rmrbhwb/pc/content/202510/17/content_30110006.html",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 居家小件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "第六届“11直播月”第一批活动发布！点击查看 - 上海市人民政府",
+      "snippet": "抖音生活服务长线IP『乐活上海』将结合上海第四季度“11直播月”城市特色活动，携手SMG“东方购物东方荟”在五角场“玩转杨数浦”白玉兰直播间内开启沉浸式直播。",
+      "link": "https://www.shanghai.gov.cn/nw31406/20251103/32daea0c17404f798cfda7f3cdded892.html",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 居家小件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "涂鸦宠物AI小程序上线，助力客户跑赢“宠物经济”赛道",
+      "snippet": "除了携宠出行的痛点外，如何科学喂养宠物、如何及时发现宠物的健康问题、如何记录宠物的成长瞬间等，都成为了宠物主们普遍关注并亟待解决的问题。而涂鸦新 ...",
+      "link": "https://www.tuya.com/cn/news-details/Ke82m1a1gyayy",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"收纳配件\" 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "床邊的充電線真的永遠差那一點每天躺在床上都在跟充電線拔河   直到 ...",
+      "snippet": "用這種收納配件,把設備通通懸浮收納商,像這種電車充電底座啊,它就用魔術 ... This product, as a hot seller on Amazon, has applied for a US ...",
+      "link": "https://www.instagram.com/reel/DWG8DxWk1xa/",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"收纳配件\" organizer",
+      "platform": "amazon_global",
+      "title": "Simple Trending 2 件組罐頭收納架可堆疊罐頭收納架適用於廚房櫥櫃 ...",
+      "snippet": "... 收納配件. 顯示更多. 產品摘要提供關鍵產品資訊. 產品摘要： Simple Trending 2 件組罐頭收納架可堆疊罐頭收納架適用於廚房櫥櫃或儲藏室青銅色. 來自Simple Trending. 價格.",
+      "link": "https://www.amazon.com/-/zh_TW/Simple-Trending-%E7%BD%90%E9%A0%AD%E6%94%B6%E7%B4%8D%E6%9E%B6-%E5%8F%AF%E5%A0%86%E7%96%8A%E7%BD%90%E9%A0%AD%E6%94%B6%E7%B4%8D%E6%9E%B6-%E9%81%A9%E7%94%A8%E6%96%BC%E5%BB%9A%E6%88%BF%E6%AB%A5%E6%AB%83%E6%88%96%E5%84%B2%E8%97%8F%E5%AE%A4/dp/B09YTQGQD6",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"收纳配件\" organizer",
+      "platform": "amazon_global",
+      "title": "Ambesonne 植物性洗衣機收納盒熱帶多彩叢林怪獸 ... - Amazon.com",
+      "snippet": "居家與廚房 廚房與餐飲 儲存與收納 廚房儲存與收納配件. 顯示更多. 產品摘要： Ambesonne 植物性洗衣機收納盒熱帶多彩叢林怪獸樹葉天堂花朵圖案防滑布料套適用於洗衣機和 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Ambesonne-%E7%86%B1%E5%B8%B6%E5%A4%9A%E5%BD%A9%E5%8F%A2%E6%9E%97-%E5%A4%A9%E5%A0%82%E8%8A%B1%E6%9C%B5%E5%9C%96%E6%A1%88-%E9%98%B2%E6%BB%91%E5%B8%83%E6%96%99%E5%A5%97-%E9%81%A9%E7%94%A8%E6%96%BC%E6%B4%97%E8%A1%A3%E6%A9%9F%E5%92%8C%E7%83%98%E4%B9%BE%E6%A9%9F/dp/B084RHDSKH",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"收纳配件\" organizer",
+      "platform": "amazon_global",
+      "title": "Amazon 暢銷商品: 最佳後車箱收納盒",
+      "snippet": "... NEWFOM 汽車後車廂收納和收納,大容量後座懸掛收納配件,後座汽車收納盒,適用於SUV/MPV/卡車(黑色) · #29.",
+      "link": "https://www.amazon.com/-/zh_TW/%E6%9A%A2%E9%8A%B7%E5%95%86%E5%93%81-%E5%BE%8C%E8%BB%8A%E7%AE%B1%E6%94%B6%E7%B4%8D%E7%9B%92/zgbs/automotive/318295011",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"收纳配件\" organizer",
+      "platform": "amazon_global",
+      "title": "Simple Trending 12 件組超大電線收納籃櫥櫃儲藏室 ... - Amazon.com",
+      "snippet": "居家與廚房 廚房與餐飲 儲存與收納 廚房儲存與收納配件. 顯示更多. 產品摘要： Simple Trending 12 件組超大電線收納籃櫥櫃儲藏室金屬籃廚房車庫. 來自Simple Trending.",
+      "link": "https://www.amazon.com/-/zh_TW/dp/B0DCSV9RQ8/ref=emc_bcc_2_i",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"收纳配件\" organizer",
+      "platform": "amazon_global",
+      "title": "Amazon 暢銷商品: 最佳廚房儲存配件",
+      "snippet": "廚房儲存與收納配件. ‹任何部門. ‹廚房與餐飲 · 儲存與收納 · 保溫食品及飲料容器 · 儲架及固定架 · 垂直盤架; 廚房儲存與收納配件(Current); 隨行食物容器 · 食物收納盒 ...",
+      "link": "https://www.amazon.com/-/zh_TW/%E6%9A%A2%E9%8A%B7%E5%95%86%E5%93%81-%E5%BB%9A%E6%88%BF%E5%84%B2%E5%AD%98%E9%85%8D%E4%BB%B6/zgbs/kitchen/3744031",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"收纳配件\" organizer",
+      "platform": "amazon_global",
+      "title": "mDesign 編織農舍廚房儲藏室食物儲藏籃盒- 櫥櫃、櫥櫃、擱板、檯面",
+      "snippet": "居家與廚房 廚房與餐飲 儲存與收納 廚房儲存與收納配件. 顯示更多. 產品摘要： mDesign 編織農舍廚房儲藏室食物儲藏籃盒- 櫥櫃、櫥櫃、擱板、檯面、儲存土豆、洋蔥、水果 ...",
+      "link": "https://www.amazon.com/-/zh_TW/mDesign-%E7%B7%A8%E7%B9%94-%E5%84%B2%E8%97%8F%E5%AE%A4-%E9%A3%9F%E7%89%A9%E5%84%B2%E8%97%8F-%E6%AB%A5%E6%AB%83%E3%80%81%E6%AB%A5%E6%AB%83%E3%80%81%E6%93%B1%E6%9D%BF%E3%80%81%E6%AA%AF%E9%9D%A2%E3%80%81%E5%84%B2%E5%AD%98%E5%9C%9F%E8%B1%86%E3%80%81%E6%B4%8B%E8%94%A5%E3%80%81%E6%B0%B4%E6%9E%9C%E7%9A%84%E5%AE%B9%E5%99%A8%E6%95%B4%E7%90%86/dp/B099TGTVVF",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"收纳配件\" organizer",
+      "platform": "amazon_global",
+      "title": "mDesign 金屬鐵線鍋和鍋蓋架收納架適用於廚房櫥櫃門或壁掛- 直立式 ...",
+      "snippet": "居家與廚房 廚房與餐飲 儲存與收納 廚房儲存與收納配件. 顯示更多. 產品摘要： mDesign 金屬鐵線鍋和鍋蓋架收納架適用於廚房櫥櫃門或壁掛- 直立式儲物架,附5 個插槽 ...",
+      "link": "https://www.amazon.com/-/zh_TW/mDesign-%E9%87%91%E5%B1%AC%E9%90%B5%E7%B7%9A%E9%8D%8B%E5%92%8C%E9%8D%8B%E8%93%8B%E6%9E%B6%E6%94%B6%E7%B4%8D%E6%9E%B6-%E9%81%A9%E7%94%A8%E6%96%BC%E5%BB%9A%E6%88%BF%E6%AB%A5%E6%AB%83%E9%96%80%E6%88%96%E5%A3%81%E6%8E%9B-%E7%9B%B4%E7%AB%8B%E5%BC%8F%E5%84%B2%E7%89%A9%E6%9E%B6-%E5%80%8B%E6%8F%92%E6%A7%BD/dp/B07PK75TP5",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"收纳配件\" organizer",
+      "platform": "amazon_global",
+      "title": "VEVOR 在爐灶架上,爐灶香料架適用於廚房爐灶頂部調味料架香料 ...",
+      "snippet": "Full content visible, double tap to read brief content. 您目前在這裡您目前在這裡. 居家與廚房 廚房與餐飲 儲存與收納 廚房儲存與收納配件. 顯示更多. 產品摘要 ...",
+      "link": "https://www.amazon.com/-/zh_TW/VEVOR-%E5%9C%A8%E7%88%90%E7%81%B6%E6%9E%B6%E4%B8%8A-%E7%88%90%E7%81%B6%E9%A6%99%E6%96%99%E6%9E%B6-%E9%81%A9%E7%94%A8%E6%96%BC%E5%BB%9A%E6%88%BF%E7%88%90%E7%81%B6%E9%A0%82%E9%83%A8-%E6%AA%AF%E9%9D%A2%E5%AD%98%E5%84%B2%E8%A7%A3%E6%B1%BA%E6%96%B9%E6%A1%88/dp/B0F1S54P62",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 收纳配件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "快拆串钩连接器 - 抖音",
+      "snippet": "这款可拆卸串钩实在是太方便了只需轻轻一推即可快速安装一捏即可拆下#防缠绕串钩 #钓鱼技巧 #可拆卸串钩 #串钩#钓鱼. 这款可拆卸串钩实在是太方便了只需轻轻一.",
+      "link": "https://www.douyin.com/search/%E5%BF%AB%E6%8B%86%E4%B8%B2%E9%92%A9%E8%BF%9E%E6%8E%A5%E5%99%A8",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 收纳配件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "硅胶钓鱼分线防缠器- 抖音",
+      "snippet": "硅胶钓鱼分线防缠器 ... 子线分叉器硅胶材质锁紧不伤线，将双钩分别穿入两边的孔里，移到想要的位置，锁紧两边太空豆，怎么甩都不会缠线。",
+      "link": "https://www.douyin.com/search/%E7%A1%85%E8%83%B6%E9%92%93%E9%B1%BC%E5%88%86%E7%BA%BF%E9%98%B2%E7%BC%A0%E5%99%A8",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 收纳配件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "卿明再造前导线收纳盒使用方法 - 抖音",
+      "snippet": "鲫明再造陶瓷导环前导线收纳盒，陶瓷导环出线顺滑不卡线，隐藏式摇臂摇轮就能给线盒上线#前导线收纳盒#路亚 · 再造好产品，新一代陶瓷导环前导线收纳盒上市！",
+      "link": "https://www.douyin.com/shipin/7644764520153614377",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 收纳配件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "虎炳唐麦H9耳机收纳盒：百元级防摔方案的理性拆解",
+      "snippet": "当头戴式耳机从百元级走向千元级，收纳问题反而被忽视。虎炳唐麦H9耳机收纳盒并非技术突破，却是真实场景中的最小必要组件——它用0.8mm厚ABS+内衬EVA结构 ...",
+      "link": "https://shuma.taobao.com/topic/shumashounazhenglibao_199/e7196378510a30177244f4f717ab12be.html",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 收纳配件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "收纳数据线图片- 京东",
+      "snippet": "Masentek 磁吸理线器数据线收纳整理手机线充电线固定器桌面免打孔线卡子扣自粘黑色【6个装】 · 懒角落收纳盒数据线收纳盒手机充电器线材U盘小物件分格收纳盒抽屉大号 · 绿联 ...",
+      "link": "https://www.jd.com/chanpin/570616.html",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 收纳配件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "博高one永磁变频洗车机上市时间 - 抖音",
+      "snippet": "... 配件箱。第一把就是我们这个绝地武士的一个枪，这是一个蓝灰色的一个配色，带着一个自锁的一个木头，然后底部的话是一个带防缠绕的一个配置， 这把枪 ...",
+      "link": "https://www.douyin.com/shipin/7645093182426023963",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 收纳配件 防缠绕 快拆",
+      "platform": "douyin_cn",
+      "title": "绿田洗车机改装配件推荐- 抖音 - Douyin",
+      "snippet": "绿田洗车机改装配件推荐 ... 00:14 高压管两头是一样的，就用到这两套带防缠绕的快接。 00:20 首先拿出母头把插销拔出来，注意两头改防缠绕要买两套(共4件)。",
+      "link": "https://www.douyin.com/search/%E7%BB%BF%E7%94%B0%E6%B4%97%E8%BD%A6%E6%9C%BA%E6%94%B9%E8%A3%85%E9%85%8D%E4%BB%B6%E6%8E%A8%E8%8D%90",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 收纳配件",
+      "platform": "douyin_cn",
+      "title": "东南亚跨境时尚配件- 抖音",
+      "snippet": "✓ 第二类：收纳盒/收纳袋马来西亚市场，大家对小户型家居收纳特别感兴趣， 特别是那种透明抽屉式收纳盒，月销几千件。 轻小件、单价低、运费低，不用担心发货压力。",
+      "link": "https://www.douyin.com/search/%E4%B8%9C%E5%8D%97%E4%BA%9A%E8%B7%A8%E5%A2%83%E6%97%B6%E5%B0%9A%E9%85%8D%E4%BB%B6",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 收纳配件",
+      "platform": "douyin_cn",
+      "title": "超好用的爆款 - 抖音",
+      "snippet": "超好用的爆款 ; 奥成好物分享 · 奥成好物分享 · 2月前 ; 肥桃日用百货 · 肥桃日用百货 · 7月前 ; 静默儿 · 2月前 ; Heidi嗨谈出海 · 3月前 ; 康亚迪跨境物流 · 1月前.",
+      "link": "https://www.douyin.com/search/%E8%B6%85%E5%A5%BD%E7%94%A8%E7%9A%84%E7%88%86%E6%AC%BE",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 收纳配件",
+      "platform": "douyin_cn",
+      "title": "TikTok Shop选品技巧与爆款预测方法",
+      "snippet": "收纳用品是TikTok的另一个流量密码。收纳的本质是\"整理\"和\"改变\"，这种\"Before & After\"（整理前vs 整理后）的对比在TikTok上非常受欢迎。相关商品包括：收纳 ...",
+      "link": "https://www.datacaciques.com/blog/industry/104993",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 收纳配件",
+      "platform": "douyin_cn",
+      "title": "[PDF] 调研报告",
+      "snippet": "2023年9月，TikTok Shop 在美国全面上线，正式宣布向中国商家开放其美国平台的. 入驻权限，这一举措促使众多跨境卖家加速转型，纷纷涌入这一新兴的社交电商 ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202501031641521554_1.pdf",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 收纳配件",
+      "platform": "douyin_cn",
+      "title": "每日探测榜_今日抖音爆款视频排行榜前十名- 蝉妈妈数据",
+      "snippet": "蝉妈妈数据为您提供每日抖音爆款视频排行榜，探查抖音爆款视频，发现最有价值的内容与爆款商品。想了解每日抖音爆款视频怎么找，就找蝉妈妈数据！",
+      "link": "https://www.chanmama.com/strategyAnalysis/probeDayRank/",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 收纳配件",
+      "platform": "douyin_cn",
+      "title": "抖音店铺0-1 冷启动实战手册流量破局+ 爆款选品+ 高效转化全攻略",
+      "snippet": "你是否看着别人的抖音店铺爆单眼红，自己却卡在这三大难题上：✓ 账号注册3 个月粉丝不过千，播放量稳定在500 以下？✓ 选品全靠直觉，上架10 款产品9 款滞销，库存堆成小山？",
+      "link": "https://zhuanlan.zhihu.com/p/1895489066067272377",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 收纳配件",
+      "platform": "douyin_cn",
+      "title": "什么是抖音货架电商产品？适合抖音的货架电商选品｜ 九数云-E数通",
+      "snippet": "抖音货架电商是抖音平台内以商城货架为核心的自主购物模式，用户可以主动搜索、浏览商品并自主下单购买，这一模式与抖音原有的直播、短视频带货有着本质区别 ...",
+      "link": "https://www.eshutong.com/archives/3514.html",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 收纳配件",
+      "platform": "douyin_cn",
+      "title": "Top 10件收纳抖音包- 2026年3月更新- Taobao",
+      "snippet": "配件：蓝牙拍照遥控器抖音遥控器补光灯充电款16cm补光灯延长杆小三脚架金属大三角架收纳包. 3人说“发货物流快”. ￥. 15. 已售100以内件. 收藏. 100+评价 · 抖音爆款包 ...",
+      "link": "https://www.taobao.com/list/product/%E6%94%B6%E7%BA%B3%E6%8A%96%E9%9F%B3%E5%8C%85.htm",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"收纳配件\" pet owner grooming 防缠绕 快拆",
+      "platform": "amazon_global",
+      "title": "可怕的毛源源不絕#黃金獵犬#掃地機器人#毛#吸塵器 - Instagram",
+      "snippet": "◾️加大1.5L 可拆式集塵盒 容量比一般多25%，減少中途清空次數，清理快速不費力。 ◾️附贈收納配件，節省空間不凌亂 ◾️低噪音設計，寵物不再驚慌",
+      "link": "https://www.instagram.com/reel/DXbalxJDxjj/",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "抖猫猫精选好物的主页- 厦门抖猫猫网络科技有限公司",
+      "snippet": "抖猫猫精选好物：。抖猫猫精选好物入驻抖音，TA的抖音号是72286374540，已有10000个粉丝，收获了3371个喜欢，欢迎观看抖猫猫精选好物在抖音发布的视频作品，来抖音， ...",
+      "link": "https://www.douyin.com/user/MS4wLjABAAAAHeCZHgcEDbCBcPrkLFGFFUDgcmn4KcR3ReclEzMua9Y",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "好物推荐的主页- 抖音",
+      "snippet": "好物推荐：。好物推荐入驻抖音，TA的抖音号是23586363524，已有17000个粉丝，收获了88799个喜欢，欢迎观看好物推荐在抖音发布的视频作品，来抖音，记录美好生活！",
+      "link": "https://www.douyin.com/user/MS4wLjABAAAAazZjEuVZGFuXVbfYqRydQXsfflNqY78l5jWt6A58dFM",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "造点新货",
+      "snippet": "个人护理. 色顿贴妆妆前面霜一款可以护肤的贴贴霜. 已筹5.5 万元. 453人支持 ; 日常生活. 一款可换电池的磁吸可变智能风扇+户外灯. 已筹2 万元. 41人支持 ; 周边产品. 《雨霖 ...",
+      "link": "https://izhongchou.taobao.com/",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "[PDF] 飞瓜抖音电商营销月报",
+      "snippet": "从生活电器品类整体来看，清洁电器销售热度占据主导地位。随着夏季来临. 两季电器如风扇、循环扇等，环比增幅瞩目，达80.3%。目前，品类品牌集中度 ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202506091687681358_1.pdf?1749491628000.pdf",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "【淘寶好物】整合歷來15件大掃除  收納用品  使用後推薦  抹窗神器",
+      "snippet": "農曆新年將至，又要準備大掃除。今集整合歷來淘寶購買的大掃除及收納好物，當中包括洗地機、強力去污劑、去霉劑、標籤機及手壓收納袋等等。",
+      "link": "https://www.youtube.com/watch?v=9KF5giErpV8",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "高效时代的家庭助手，2025清洁电器正迎来全面升级 - 家电",
+      "snippet": "... 路、污水箱等全链路12重除菌，尤其适合母婴或宠物家庭。 追觅洗地机T50 Ultra. 传统洗地机在顽固污渍面前往往力不从心，而追觅T50 Ultra引入定点泡沫除 ...",
+      "link": "http://family.pconline.com.cn/1933/19338975.html",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物",
+      "platform": "douyin_cn",
+      "title": "挑好物逛京东",
+      "snippet": "",
+      "link": "https://pro.jd.com/mall/active/31XPWPTonxJ9e5YoQ85HS7z8XNYQ/index.html?bd_vid=nHnvnHmYPHm1PHnzPWf4nWn3nHPxnWcdg17xnH0sg1wxnH0LPjnvrjT3nWbs",
+      "position": 7,
+      "source": ""
+    }
+  ],
+  "logs": [
+    "SERPER fallback OK: Amazon best sellers \"宠物清洁\" 防缠绕 快拆",
+    "SERPER fallback OK: Amazon trending \"宠物清洁\" organizer",
+    "SERPER fallback OK: 抖音 热卖榜 宠物清洁 防缠绕 快拆",
+    "SERPER fallback OK: 抖音 电商 爆款 宠物清洁",
+    "SERPER fallback OK: Amazon \"宠物清洁\" pet owner grooming 防缠绕 快拆",
+    "SERPER fallback OK: 抖音 宠物清洁 宠物家庭痛点 清洁链路整合 创意 好物",
+    "SERPER fallback OK: Amazon best sellers \"居家小件\" 防缠绕 快拆",
+    "SERPER fallback OK: Amazon trending \"居家小件\" organizer",
+    "SERPER fallback OK: 抖音 热卖榜 居家小件 防缠绕 快拆",
+    "SERPER fallback OK: 抖音 电商 爆款 居家小件",
+    "SERPER fallback OK: Amazon \"居家小件\" pet owner grooming 防缠绕 快拆",
+    "SERPER fallback OK: 抖音 居家小件 宠物家庭痛点 清洁链路整合 创意 好物",
+    "SERPER fallback OK: Amazon best sellers \"收纳配件\" 防缠绕 快拆",
+    "SERPER fallback OK: Amazon trending \"收纳配件\" organizer",
+    "SERPER fallback OK: 抖音 热卖榜 收纳配件 防缠绕 快拆",
+    "SERPER fallback OK: 抖音 电商 爆款 收纳配件",
+    "SERPER fallback OK: Amazon \"收纳配件\" pet owner grooming 防缠绕 快拆",
+    "SERPER fallback OK: 抖音 收纳配件 宠物家庭痛点 清洁链路整合 创意 好物"
+  ]
+}

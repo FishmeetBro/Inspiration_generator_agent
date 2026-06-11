@@ -1,0 +1,56 @@
+{
+  "request_id": "REQ-20260611-145322",
+  "user_goal": "围绕差旅、通勤和车内外切换场景，寻找便携、扁平、可快速收纳的小件新品灵感",
+  "target_market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "workflow_hint": "hybrid",
+  "constraints": {
+    "categories": [
+      "旅行收纳",
+      "通勤好物",
+      "便携配件"
+    ],
+    "exclude_categories": [
+      "带电产品",
+      "大件家具",
+      "危险品"
+    ],
+    "max_material_delta_pct": 15,
+    "min_margin_cn": 30,
+    "min_margin_global": 45,
+    "small_parcel_only": true,
+    "avoid_electronics": true,
+    "avoid_patent_dense_shapes": true
+  },
+  "seed_keywords": [
+    "卷收",
+    "卡扣",
+    "扁平",
+    "快装"
+  ],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "travel_and_portable",
+    "search_modifiers": [
+      "travel",
+      "portable",
+      "on the go"
+    ],
+    "exploration_focus": [
+      "便携收纳",
+      "快开快收",
+      "轻量运输"
+    ],
+    "negative_anchors": [
+      "固定桌面支架",
+      "大体积置物架",
+      "厚重塑料盒"
+    ]
+  }
+}

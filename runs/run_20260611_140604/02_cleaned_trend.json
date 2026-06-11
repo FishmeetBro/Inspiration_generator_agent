@@ -1,0 +1,149 @@
+{
+  "agent": "trend_reverse_engineering",
+  "market_signals": [
+    {
+      "signal_id": "desk_org_magnetic_1",
+      "product_name": "磁吸可拆卸桌面收纳盒",
+      "platform": "amazon_global",
+      "category": "桌面收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "功能性创新",
+      "target_users": [
+        "办公族",
+        "学生",
+        "游戏玩家",
+        "极简主义者"
+      ],
+      "user_pain_points": [
+        "桌面电线杂乱",
+        "小物件难以分类",
+        "收纳盒占空间",
+        "取用不便"
+      ],
+      "review_complaints": [
+        "磁吸力度不够",
+        "尺寸偏小",
+        "粘贴不牢固"
+      ],
+      "premium_drivers": [
+        "磁吸设计",
+        "可拆卸结构",
+        "模块化组合",
+        "免打孔安装"
+      ],
+      "structure_highlights": [
+        "分格收纳",
+        "抽屉式开合",
+        "侧开磁吸门",
+        "底部理线槽"
+      ],
+      "appearance_highlights": [
+        "简约白色",
+        "透明材质",
+        "圆角设计",
+        "隐藏式磁扣"
+      ],
+      "extractable_features": [
+        "可叠加",
+        "多场景通用（桌面/冰箱）",
+        "触控感应",
+        "无线充电集成"
+      ],
+      "risks": [
+        "磁铁易失磁",
+        "塑料材质老化",
+        "承重有限",
+        "兼容性差"
+      ]
+    },
+    {
+      "signal_id": "douyin_cn_001",
+      "product_name": "磁吸理线器",
+      "platform": "douyin_cn",
+      "category": "桌面收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "解决数据线杂乱痛点",
+      "target_users": [
+        "年轻白领",
+        "数码爱好者",
+        "学生"
+      ],
+      "user_pain_points": [
+        "桌面数据线缠绕杂乱",
+        "充电线/耳机线经常掉落"
+      ],
+      "review_complaints": [
+        "传统理线器粘性不足",
+        "占用桌面空间"
+      ],
+      "premium_drivers": [
+        "磁吸固定，不占空间",
+        "多卡槽同时整理多根线"
+      ],
+      "structure_highlights": [
+        "磁吸底座",
+        "多个独立卡槽"
+      ],
+      "appearance_highlights": [
+        "小巧简约",
+        "有透明/彩色可选"
+      ],
+      "extractable_features": [
+        "磁吸力强度",
+        "卡槽宽度适配性"
+      ],
+      "risks": [
+        "磁吸力随时间衰减",
+        "金属表面吸附不牢固"
+      ]
+    },
+    {
+      "signal_id": "douyin_cn_002",
+      "product_name": "U型可拆卸收纳置物架",
+      "platform": "douyin_cn",
+      "category": "桌面收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "纵向空间拓展创新",
+      "target_users": [
+        "办公族",
+        "小户型家居用户",
+        "数码设备密集者"
+      ],
+      "user_pain_points": [
+        "桌面空间不足",
+        "物品堆叠导致取用不便"
+      ],
+      "review_complaints": [
+        "一般置物架高度固定",
+        "底部空间浪费"
+      ],
+      "premium_drivers": [
+        "U型架空设计，不占平面",
+        "可拆卸模块化组装"
+      ],
+      "structure_highlights": [
+        "U型跨桌设计",
+        "可拆卸层板"
+      ],
+      "appearance_highlights": [
+        "极简风格",
+        "百搭白色/黑色"
+      ],
+      "extractable_features": [
+        "层数调节",
+        "承重能力"
+      ],
+      "risks": [
+        "稳定性不足（轻质桌面易移位）",
+        "层板易积灰"
+      ]
+    }
+  ],
+  "summary": [
+    "基",
+    "于",
+    "社",
+    "交",
+    "媒"
+  ]
+}

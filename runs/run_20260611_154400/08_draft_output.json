@@ -1,0 +1,52 @@
+{
+  "request_id": "REQ-20260611-154400",
+  "workflow_type": "workflow_2",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [],
+  "dropped_candidates": [
+    {
+      "idea_name": "透明模块化配件管理盒",
+      "drop_reason": [
+        "透明外壳和模块化插槽设计在市场上较为常见，可能与现有专利重合。",
+        "模块化设计需要避免与现有专利密集区域重叠。",
+        "标签化分类和透明设计在亚马逊平台上已有类似产品，存在竞争风险。"
+      ]
+    }
+  ],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "craft_and_hobby",
+    "search_modifiers": [
+      "craft room",
+      "hobby desk",
+      "maker"
+    ],
+    "exploration_focus": [
+      "零件管理",
+      "工作台秩序",
+      "扩展配件"
+    ],
+    "negative_anchors": [
+      "普通办公抽屉盒",
+      "标准文件整理架",
+      "单一大容积收纳箱"
+    ]
+  },
+  "orchestration_notes": [
+    "本次任务采用新领域原生创新工作流，重点探索手作和DIY领域的配件管理创新。",
+    "透明模块化配件管理盒在满足用户痛点的同时，需在设计上增加独特性以规避专利风险。",
+    "Loaded prompts: 7",
+    "Route: agent_new_domain -> agent_scenario -> agent_trend -> agent_feature_transfer -> agent_ip_guard -> main_agent_final_review -> agent_doc_beautifier",
+    "OpenAI model: gpt-4o",
+    "Batch cleaner: DeepSeek primary, Groq fallback",
+    "Search layer: SERPAPI if configured, otherwise SERPER fallback",
+    "Auto diversification: craft_and_hobby"
+  ]
+}

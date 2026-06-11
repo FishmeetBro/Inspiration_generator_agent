@@ -1,0 +1,1187 @@
+{
+  "queries": [
+    [
+      "amazon_global",
+      "Amazon best sellers \"美妆收纳\" 抽拉 防尘"
+    ],
+    [
+      "amazon_global",
+      "Amazon trending \"美妆收纳\" organizer"
+    ],
+    [
+      "douyin_cn",
+      "抖音 热卖榜 美妆收纳 抽拉 防尘"
+    ],
+    [
+      "douyin_cn",
+      "抖音 电商 爆款 美妆收纳"
+    ],
+    [
+      "amazon_global",
+      "Amazon \"美妆收纳\" vanity beauty organizer 抽拉 防尘"
+    ],
+    [
+      "douyin_cn",
+      "抖音 美妆收纳 高频取放 颜值陈列 创意 好物"
+    ],
+    [
+      "amazon_global",
+      "Amazon best sellers \"桌面小工具\" 抽拉 防尘"
+    ],
+    [
+      "amazon_global",
+      "Amazon trending \"桌面小工具\" organizer"
+    ],
+    [
+      "douyin_cn",
+      "抖音 热卖榜 桌面小工具 抽拉 防尘"
+    ],
+    [
+      "douyin_cn",
+      "抖音 电商 爆款 桌面小工具"
+    ],
+    [
+      "amazon_global",
+      "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘"
+    ],
+    [
+      "douyin_cn",
+      "抖音 桌面小工具 高频取放 颜值陈列 创意 好物"
+    ],
+    [
+      "amazon_global",
+      "Amazon best sellers \"女生宿舍\" 抽拉 防尘"
+    ],
+    [
+      "amazon_global",
+      "Amazon trending \"女生宿舍\" organizer"
+    ],
+    [
+      "douyin_cn",
+      "抖音 热卖榜 女生宿舍 抽拉 防尘"
+    ],
+    [
+      "douyin_cn",
+      "抖音 电商 爆款 女生宿舍"
+    ],
+    [
+      "amazon_global",
+      "Amazon \"女生宿舍\" vanity beauty organizer 抽拉 防尘"
+    ],
+    [
+      "douyin_cn",
+      "抖音 女生宿舍 高频取放 颜值陈列 创意 好物"
+    ]
+  ],
+  "items": [
+    {
+      "query": "Amazon best sellers \"美妆收纳\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "https://huggingface.co/datasets/clw8998/Semantic-S...",
+      "snippet": "... 美妝收納雙面桌面鏡, 存儲薄荷\" +\"BADGER 潤唇膏17g, 2個, 橙色香料\" +\"JU JIA JIA 居家家創意多功能雲朵無痕5連鉤超值, 顏色隨機, 1個\" +\"Vive Maria LEO Tackle Box ...",
+      "link": "https://huggingface.co/datasets/clw8998/Semantic-Search-dataset-for-EE5327701/commit/fa5521ec8afd616a9ff0ad8527b60bbb4173f8bd.diff?file=random_samples_1M%2Frandom_sample_part_19.csv",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"美妆收纳\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "globalpackagingsupply - Instagram",
+      "snippet": "✓ 美妆收纳系列：360°旋转化妆刷收纳桶，防尘设计，配色清新，是美妆工具收纳爆款。 ✓ 清洁/创意系列：可悬挂硅胶清洁刷、造型置物架，创意设计提升家居体验；折叠万 ...",
+      "link": "https://www.instagram.com/globalpackagingsupply/",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"美妆收纳\" organizer",
+      "platform": "amazon_global",
+      "title": "#防尘化妆品收纳盒带化妆镜箱| TikTok",
+      "snippet": "28評論. 901分享. pearlbeauty81. 吳麗麗 🛍️ · #化妆品收纳盒 #美妆收纳 ... amazon.finds @amazon.oficial ... Makeup organizer #fyp #viral #viraltiktok #asmr #trend ...",
+      "link": "https://www.tiktok.com/tag/%E9%98%B2%E5%B0%98%E5%8C%96%E5%A6%86%E5%93%81%E6%94%B6%E7%BA%B3%E7%9B%92%E5%B8%A6%E5%8C%96%E5%A6%86%E9%95%9C%E7%AE%B1",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"美妆收纳\" organizer",
+      "platform": "amazon_global",
+      "title": "Modern acrylic desk organizers create a sleek modern look ...",
+      "snippet": "trends.online.shopping's profile picture ... Declutter your desk with the Amazon Basics Desk Drawer Organizer ✨ ... 美妆收纳 便捷把手设计 抽拉更方便 粉相宜 18CM ...",
+      "link": "https://www.instagram.com/reel/DWl5FqAkS9c/",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"美妆收纳\" organizer",
+      "platform": "amazon_global",
+      "title": "Make-up organizer bag #homegoods #selfcare #cosmetics #gifts ...",
+      "snippet": "BEENLOVE Great Quality 4 Colour's 满足你的美妆收纳需求，让你随时随地保持美丽状态 PRODUCT DETAILS 舒适把手 / 精选拉链 分区收纳实力派 20.5cm x ...",
+      "link": "https://www.instagram.com/p/DYO0eMHjTfv/",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"美妆收纳\" organizer",
+      "platform": "amazon_global",
+      "title": "Pakistan me newly launch hui Buypaasai app se yeh cute sa ...",
+      "snippet": "Makeup organize without spending too much, this is your sign. Go and buy. OCR. Pakistan mein abi STORAGE ins高级美妆收纳筒 PP PET 材质 @lyras.ugo . Honestly ...",
+      "link": "https://www.instagram.com/reel/DX1Fq8Ng_0F/",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"美妆收纳\" organizer",
+      "platform": "amazon_global",
+      "title": "I'm literally obsessed with these! They're so **pretty and aesthetic**...",
+      "snippet": "... Organizer #是美国美妆收纳的通用核心词，远高于直译的 #Storage #Box；Vanity #是美国对梳妆台的常用说法，必须加入。 #2. # ... trend #trending ...",
+      "link": "https://www.tiktok.com/@tidynestdaily/video/7626263168523734286",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"美妆收纳\" organizer",
+      "platform": "amazon_global",
+      "title": "A small organizer that made a big difference! This Dustproof Makeup ...",
+      "snippet": "OCR. Meesho Vanity/ Makeup Organiser Part-1 @shahina_firdaus ins 高级美妆收纳筒 材质: PP+PET STORAGE ₹284/- Comment for direct links ...",
+      "link": "https://www.instagram.com/reel/DZUwudbhyes/",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"美妆收纳\" organizer",
+      "platform": "amazon_global",
+      "title": "霧面拉門・桌上防塵收納櫃｜目喜開箱評價影片 - YouTube",
+      "snippet": "霧面拉門・桌上防塵收納櫃｜目喜開箱評價影片｜Moosy Life目喜生活. 1.4K views · 4 years ago. #美妝#收納#開箱 ... ... AMAZON MUST-HAVES for SMALL ...",
+      "link": "https://www.youtube.com/watch?v=hTc_Ax0xWO8",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"美妆收纳\" organizer",
+      "platform": "amazon_global",
+      "title": "BIGIMALL | Tired of your books, frames & plates just lying around ...",
+      "snippet": "#stayorganized #deskorganizer #organizer #stationery #aesthetic. more. View all 24 comments · April 7. OCR. 抽屉式收纳盒 抽拉设计·防尘防灰 文具收纳 美妆收纳 ...",
+      "link": "https://www.instagram.com/reel/DX9jBzZI_GK/",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 美妆收纳 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "抽拉式化妆品落地收纳柜- 抖音 - Douyin",
+      "snippet": "您在查找抽拉式化妆品落地收纳柜吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看需求。",
+      "link": "https://www.douyin.com/search/%E6%8A%BD%E6%8B%89%E5%BC%8F%E5%8C%96%E5%A6%86%E5%93%81%E8%90%BD%E5%9C%B0%E6%94%B6%E7%BA%B3%E6%9F%9C",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 美妆收纳 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "化妆收纳架置物架防尘带灯镜子- 抖音 - Douyin",
+      "snippet": "您在查找化妆收纳架置物架防尘带灯镜子吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看 ...",
+      "link": "https://www.douyin.com/search/%E5%8C%96%E5%A6%86%E6%94%B6%E7%BA%B3%E6%9E%B6%E7%BD%AE%E7%89%A9%E6%9E%B6%E9%98%B2%E5%B0%98%E5%B8%A6%E7%81%AF%E9%95%9C%E5%AD%90",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 美妆收纳 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "爆款化妆品收纳盒- 抖音 - Douyin",
+      "snippet": "闺蜜来我家看上了这个实木大容量化妆盒！两种开盖方式顶部取物不拉手防掉落设计也太贴心了吧！#好物推荐 #收纳整理 #居家好物 #家居 #化妆.",
+      "link": "https://www.douyin.com/search/%E7%88%86%E6%AC%BE%E5%8C%96%E5%A6%86%E5%93%81%E6%94%B6%E7%BA%B3%E7%9B%92",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 美妆收纳 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "dustproof beauty box Latest Authentic Product Praise ...",
+      "snippet": "去哪儿购买防尘美妆箱？当然来淘宝海外，淘宝当前有92件防尘美妆箱相关的商品在售。 在这些防尘美妆箱的材质有塑料等多种，在防尘美妆箱的功能有防水、带盖子、带抽屉、防 ...",
+      "link": "https://my.world.taobao.com/product/%E9%98%B2%E5%B0%98%E7%BE%8E%E5%A6%86%E7%AE%B1.htm",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 美妆收纳 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "京东排行榜",
+      "snippet": "... 美妆镜柜100cm 930 配镜柜配抽拉龙头. 15日售出近100件. “ 看抖音博主推荐搜来买的，好看又实用，设计好看，特别能装。完全满足一家人的收纳需求，水龙头还是抽拉的 ...",
+      "link": "https://pro.m.jd.com/mall/active/4JRfHorUDXgL77E9YdNxSCNMKwkJ/index.html?pageNum=1&queryType=1&fromName=tongtianta&bbtf=1&rankId=4541463&rankType=10&currSku=10077809112495",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 美妆收纳 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "J人衣帽间roomtour！超实用彩妆收纳好物！#自用好物分享#压箱底的 ...",
+      "snippet": "超实用彩妆收纳好物！#自用好物分享#压箱底的美妆好物分享#化妆品收纳#roomtour #收纳- 冯洁琼-于20240315发布在抖音，已经收获了38.5万个喜欢，来抖音 ...",
+      "link": "https://www.douyin.com/video/7346570969105911052?source=Googlebot",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 美妆收纳 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "【三维工匠0-31元收纳盒塑料1个装风景收纳用品】收纳用品报价_ ...",
+      "snippet": "苏宁易购第2页为您提供三维工匠0-31元收纳盒塑料1个装风景收纳用品报价，最新收纳用品价格、评价、图片、咨询、晒单等信息，买收纳用品，上苏宁易购，尽享购物乐趣！",
+      "link": "https://list.suning.com/0-161666-1-0-0-0-0-0-0-0-6327639-0_31-6330972-3074892-7001422-8070202.html",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 美妆收纳 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "抖音同款桌面防尘家用化妆品收纳盒现货 - Facebook",
+      "snippet": "抖音同款桌面防尘家用化妆品收纳盒现货-多功能收纳盒-与其他化妆收纳盒最不同的是防尘盖。 它将保持您的化妆品，化妆品中的灰尘清洁，并且防尘盖是双向 ...",
+      "link": "https://www.facebook.com/100063753030428/posts/%E6%8A%96%E9%9F%B3%E5%90%8C%E6%AC%BE%E6%A1%8C%E9%9D%A2%E9%98%B2%E5%B0%98%E5%AE%B6%E7%94%A8%E5%8C%96%E5%A6%86%E5%93%81%E6%94%B6%E7%BA%B3%E7%9B%92-%E7%8E%B0%E8%B4%A7-%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%94%B6%E7%BA%B3%E7%9B%92-%E4%B8%8E%E5%85%B6%E4%BB%96%E5%8C%96%E5%A6%86%E6%94%B6%E7%BA%B3%E7%9B%92%E6%9C%80%E4%B8%8D%E5%90%8C%E7%9A%84%E6%98%AF%E9%98%B2%E5%B0%98%E7%9B%96-%E5%AE%83%E5%B0%86%E4%BF%9D%E6%8C%81%E6%82%A8%E7%9A%84%E5%8C%96%E5%A6%86%E5%93%81%E5%8C%96%E5%A6%86%E5%93%81%E4%B8%AD%E7%9A%84%E7%81%B0%E5%B0%98%E6%B8%85%E6%B4%81%E5%B9%B6%E4%B8%94%E9%98%B2%E5%B0%98%E7%9B%96%E6%98%AF%E5%8F%8C%E5%90%91%E6%89%93%E5%BC%80%E7%9A%84%E9%9D%9E%E5%B8%B8%E6%96%B9%E4%BE%BF%E6%94%BE%E5%85%A5%E5%92%8C/149952586626909/",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 美妆收纳",
+      "platform": "douyin_cn",
+      "title": "抖音爆款带货视频指南：选品核心技巧与广告植入策略全解析 - 蝉妈妈",
+      "snippet": "1、锚定用户核心需求，贴合平台消费趋势。选品前需分析抖音用户画像，聚焦高频刚需场景（如家居好物、美妆工具、实用小家电），同时关注平台热榜、好物榜单， ...",
+      "link": "https://www.chanmama.com/yunyingquan/question/4178.html",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 美妆收纳",
+      "platform": "douyin_cn",
+      "title": "[PDF] 关于有米云",
+      "snippet": "有米有数出品《2025抖音电商个护家清营销趋势报告》。该报告依托有. 米 ... 收纳用品可以. 聚焦细分场景打造爆款，如瞄准旅行、衣柜收纳等场景；杯 ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202502181643208550_1.pdf?1771032385000.pdf",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 美妆收纳",
+      "platform": "douyin_cn",
+      "title": "618策略解码：抖音电商如何成就美妆品牌爆款方程式？ - 新浪新闻",
+      "snippet": "铺好货+卖好价+选好场=抖音爆品。 下面结合案例，给大家展开讲讲美妆品牌在抖音电商的爆款方程式。 1、铺好货：大单品的力量. 在抖音电商上，选择品牌 ...",
+      "link": "https://news.sina.cn/sx/2024-06-20/detail-inazkqce2025153.d.html?vt=4",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 美妆收纳",
+      "platform": "douyin_cn",
+      "title": "破10亿！这些美妆商品在抖音卖爆了|年度盘点",
+      "snippet": "《化妆品观察》联合飞瓜抖音版梳理了1-11月美容护肤、彩妆/香水/美妆工具、洗发护发、美容个护仪器4个赛道GMV TOP100商品概况，洞察美妆消费走向：. 共有104 ...",
+      "link": "https://m.pinguan.com/article/detail/id/22415",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 美妆收纳",
+      "platform": "douyin_cn",
+      "title": "618 逆势增长107%！抖音电商美妆赢麻了 - 极客公园",
+      "snippet": "今年618，化妆品集体遇冷，抖音电商美妆产品整体销量较去年同期增长107%。这再次证明，抖音电商不仅是品牌营销的主阵地，也正在成为支撑美妆品牌逆势增长 ...",
+      "link": "https://www.geekpark.net/news/337230",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 美妆收纳",
+      "platform": "douyin_cn",
+      "title": "抖音618美妆品类爆发，直播电商有何奥秘？ - 维科号",
+      "snippet": "就拿今年618大促的数据来看，抖音美妆整体销量排名前10的品牌成交额均破亿元，国货美妆产品销量同比增长53%。截至6月3日，抖音电商美妆行业销量增幅TOP20品牌 ...",
+      "link": "https://mp.ofweek.com/Internet/a956714237457",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 美妆收纳",
+      "platform": "douyin_cn",
+      "title": "今年618，美妆爆品主阵地还在抖音电商 - 中华网",
+      "snippet": "随着中国化妆品行业的变迁，美妆爆品打造主阵地也几经变迁。而当下，抖音电商无疑是众多美妆品牌打造爆品的主阵地。从今年618的成绩来看，据抖音电商官方数据 ...",
+      "link": "http://m.tech.china.com/hea/article/20240701/072024_1541642.html",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 美妆收纳",
+      "platform": "douyin_cn",
+      "title": "爆款内容创造爆款商品，618大促国货美妆在抖音电商找到爆款方法论",
+      "snippet": "数据显示，抖音电商2023年美妆行业GMV同比增速80%+，其中千万级爆品300+、GMV增长167%，百万级爆品3300+、GMV增长121%。截至6月3日，抖音电商美妆行业销量增幅 ...",
+      "link": "https://www.cndsw.com.cn/business/67840.html",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"美妆收纳\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "有了這款升降邊桌，化妝桌輕鬆搞定! 推薦給喜歡慵懶、追求質感的妳 ...",
+      "snippet": "这款收纳精华和首饰，U形抽口抽拉顺畅，带盖防水放在浴室也不怕弄湿 ... #美妝收納 #強迫症救星 #精品級質感 #LED化妝包 · May 22. Transcript. 有了 ...",
+      "link": "https://www.instagram.com/p/DYlbzBjCXSA/?img_index=4",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"美妆收纳\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "化妝品收納分享   平常都在這邊拍片趁現在還沒亂的時候趕緊錄下來 ...",
+      "snippet": "这款收纳精华和首饰，U形抽口抽拉顺畅，带盖防水放在浴室也不怕弄湿 ... #美妝收納 #強迫症救星 #精品級質感 #LED化妝包 · May 22. Transcript. 有了 ...",
+      "link": "https://www.instagram.com/reel/DRKEsTVkSb1/",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"美妆收纳\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "【LED補光化妝包】自帶鏡面×三色光源×自由分格 - Instagram",
+      "snippet": "... 底下留言，立刻給你連結與詳細資訊！ #LED化妝包#補光化妝包#旅行化妝包#美妝收納#防水化妝包#多功能化妝包#女生必備#美妝神器\".",
+      "link": "https://www.instagram.com/reel/DTJ1LKYk1sg/",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "化妆品置物架子全部- 抖音",
+      "snippet": "◦ 高频使用：放在最顺手、最显眼的位置，比如桌面正 ... 80%的物品藏起来，只展示20%你最常用或颜值最高的东西。 ... #彩妆收纳 #收纳好物推荐 #好物推荐分享 #美妆收纳 #美妆 ...",
+      "link": "https://www.douyin.com/search/%E5%8C%96%E5%A6%86%E5%93%81%E7%BD%AE%E7%89%A9%E6%9E%B6%E5%AD%90%E5%85%A8%E9%83%A8",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "分层收纳化妆台- 抖音",
+      "snippet": "复古感拉满！这样的化妆柜也太让人心动了吧。实木质感超好！两种开盖方式取物不卡手分区收纳各种高矮胖瘦化妆品都能放～#抖音七夕好礼季 #梳妆台 #化妆品收纳 #收纳 ...",
+      "link": "https://www.douyin.com/search/%E5%88%86%E5%B1%82%E6%94%B6%E7%BA%B3%E5%8C%96%E5%A6%86%E5%8F%B0",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "My Massive Makeup Collection 💄 Small Room Organization Tips ...",
+      "snippet": "... 收納#MyMakeupCollection ————————————— On Me: (*代表有點久以前) 這個妝會放在IG Reels! FTC: Not Sponsored.",
+      "link": "https://www.youtube.com/watch?v=MU26DedGH_8",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "这款抽屉式口红置物架，让你的化妆台秒变高阶收纳系统",
+      "snippet": "一款专为化妆台设计的多层抽屉式收纳盒，集成了口红、粉底液、化妆刷等美妆用品的整理功能，颜值与实用性并存，是每个追求精致妆容女孩的必备神器。",
+      "link": "https://beaut.taobao.com/topic/huazhuang_12/74df69a1958049dce30af43c5852fd99.html",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "化妆品摆放展示图片 - 抖音",
+      "snippet": "美妆店设计｜藏在细节里的精致。柔和灯光衬得每一款彩妆都自带光泽，简约ins风陈列，既有高级感又不失温柔，随手一拍都是氛围感大片📸 每一处布局都藏着小 ...",
+      "link": "https://www.douyin.com/search/%E5%8C%96%E5%A6%86%E5%93%81%E6%91%86%E6%94%BE%E5%B1%95%E7%A4%BA%E5%9B%BE%E7%89%87",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "整理实用且有颜值的化妆盒分享清单，口红、眼影、乳液",
+      "snippet": "要保持化妆步骤的流畅性，整齐有序的梳妆台也是很有必要的，给化妆品们找个收纳盒收集起来，分类放好，这样每一次找东西的时候也更加快速和省心！ 以下整理为实用且好看的化妆盒 ...",
+      "link": "https://zhuanlan.zhihu.com/p/385082614",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "[PDF] 关于有米云",
+      "snippet": "该报告依托有. 米有数平台在2023年至2024年期间累积的全年度数据，全面剖析了3C. 数码、家用电器等赛道在抖音的现状。其内容覆盖销售动态趋势、细分. 品类 ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202503251647215757_1.pdf?1742908438000.pdf",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "快闪美妆室-抖音",
+      "snippet": "... 颜值好高，想all in的心谁懂？💖 西安小寨逛到不想走啦！ @ 吕家村张经理 ... 放，拿取方便，陈列饱满不杂乱2. 设计细节：粉白温柔风的灵魂色彩搭配：主色用 ...",
+      "link": "https://www.douyin.com/zhuanti/7623927984214329344",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "Amazon.com Best Sellers: The most popular items on Amazon",
+      "snippet": "Discover the best in Best Sellers. Find the top 100 most popular items ... Tools & Home Improvement · Toys & Games · Unique Finds · Video Games. Best Sellers.",
+      "link": "https://www.amazon.com/Best-Sellers/zgbs",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "Amazon Best Sellers: Best Dusting Tools",
+      "snippet": "Swiffer Duster Kit with 3 ft Extendable Handle, Dusters for Cleaning, Set Includes 1 Extension Pole and 12 Heavy Duty Dusting Refills Dust Cleaner, ...",
+      "link": "https://www.amazon.com/Best-Sellers-Dusting-Tools/zgbs/hpc/15356181",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "Amazon Best Sellers: Best Software",
+      "snippet": "Find the best software in Amazon Best Sellers. Find the most popular software including mac, windows, business, development, tax, office, finance, ...",
+      "link": "https://www.amazon.com/Best-Sellers-Software/zgbs/software",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "BLOCE 鑽石工具、桌面配件吸塵器迷你、手持式吸塵器(藍色)",
+      "snippet": "【卓越品質】: 這款清潔工具由ABS 塑膠材料製成,堅固耐用,長時間為您服務,這款刷子由高強度尼龍製成,使用壽命長,無死角清潔。 【理想設計】: 尺寸小且重量輕, ...",
+      "link": "https://www.amazon.com/-/zh_TW/BLOCE-%E9%91%BD%E7%9F%B3%E5%B7%A5%E5%85%B7%E3%80%81%E6%A1%8C%E9%9D%A2%E9%85%8D%E4%BB%B6%E5%90%B8%E5%A1%B5%E5%99%A8%E8%BF%B7%E4%BD%A0%E3%80%81%E6%89%8B%E6%8C%81%E5%BC%8F%E5%90%B8%E5%A1%B5%E5%99%A8-%E8%97%8D%E8%89%B2/dp/B09P15RDHZ",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "3 件組多功能拭子盒桌面支架小工具分配器用於整理雜貨拭子牙籤白色 ...",
+      "snippet": "主要亮點 · 顏色. 白色 · 材料. 聚丙烯(PP) · 產品尺寸. 9.3長x 7.5寬x 7.2高公分 · 商品重量. 0.4 Pounds · 品牌. SHOWERORO · 件數. 1.0 个.",
+      "link": "https://www.amazon.com/-/zh_TW/SHOWERORO-%E5%A4%9A%E5%8A%9F%E8%83%BD%E6%8B%AD%E5%AD%90%E7%9B%92-%E6%A1%8C%E9%9D%A2%E6%94%AF%E6%9E%B6-%E7%94%A8%E6%96%BC%E6%95%B4%E7%90%86%E9%9B%9C%E8%B2%A8-%E9%81%A9%E7%94%A8%E6%96%BC%E5%AE%B6%E5%BA%AD%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%92%8C%E9%A4%90%E5%BB%B3%E6%94%B6%E7%B4%8D/dp/B0F4MZ3BD7",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "ODISTAR 桌上型吸塵器,迷你桌面除塵器節能,高耐久度可達400 分鐘 ...",
+      "snippet": "主要亮點 · 【節能】當桌面吸塵器在15 分鐘內不工作時,自動關閉功能將關閉,只需充電一次即可確保高耐用性。 · 【1600 mAh 內建可充電電池】內建強大的1600mAh 可充電電池。",
+      "link": "https://www.amazon.com/-/zh_TW/ODISTAR-%E6%A1%8C%E4%B8%8A%E5%9E%8B%E5%90%B8%E5%A1%B5%E5%99%A8-%E8%BF%B7%E4%BD%A0%E6%A1%8C%E9%9D%A2%E9%99%A4%E5%A1%B5%E5%99%A8%E7%AF%80%E8%83%BD-%E9%AB%98%E8%80%90%E4%B9%85%E5%BA%A6%E5%8F%AF%E9%81%94-%E5%8F%AF%E6%97%8B%E8%BD%89%E8%A8%AD%E8%A8%88/dp/B0B4S9F4VC",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "桌面收纳盒 - Amazon.com",
+      "snippet": "COMFYROOM Desk Organizer with 6 Compartments and 2 Drawers, Plastic Makeup Organizer, Pen Holder for Desktop Storage, Desk Organization for School, Home, Office ...",
+      "link": "https://www.amazon.com/%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E7%9B%92/s?k=%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E7%9B%92",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "Amazon.es Best Sellers: The most popular items in DIY & Tools",
+      "snippet": "Hoberg Mosquito Net for Windows with Innovative Magnetic Attachment | Mosquito Net Individually Cut to Size up to 150 x 130 cm, No Drilling or Screwing ...",
+      "link": "https://www.amazon.es/-/en/gp/bestsellers/tools",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"桌面小工具\" organizer",
+      "platform": "amazon_global",
+      "title": "Lolocor 360 度旋轉桌筆/鉛筆架,5 個插槽收納器,可愛的 ... - Amazon.com",
+      "snippet": "這款適用於辦公桌的轉盤筆架不僅非常適合存放桌面文具,如筆、鉛筆、記號筆、螢光筆、尺子、訂書機、閃光燈、橡皮擦、剪紙器、剪刀、開信器以及許多其他桌面小工具,也 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Lolocor-360-%E5%BA%A6%E6%97%8B%E8%BD%89%E6%A1%8C%E7%AD%86-%E5%80%8B%E6%8F%92%E6%A7%BD%E6%94%B6%E7%B4%8D%E5%99%A8-%E5%8F%AF%E6%84%9B%E7%9A%84%E7%B2%89%E7%B4%85%E8%89%B2%E6%A1%8C%E9%9D%A2%E9%85%8D%E4%BB%B6/dp/B0BZ3M2NP6",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"桌面小工具\" organizer",
+      "platform": "amazon_global",
+      "title": "Lolocor 桌上型鉛筆筆筒- 5 個插槽360 度旋轉桌面筆筒 ... - Amazon.com",
+      "snippet": "這款適用於辦公桌的轉盤筆架不僅非常適合存放桌面文具,如筆、鉛筆、記號筆、螢光筆、尺子、訂書機、閃光燈、橡皮擦、剪紙器、剪刀、開信器以及許多其他桌面小工具,也 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Lolocor-%E6%A1%8C%E4%B8%8A%E5%9E%8B%E9%89%9B%E7%AD%86%E7%AD%86%E7%AD%92-%E5%BA%A6%E6%97%8B%E8%BD%89%E6%A1%8C%E9%9D%A2%E7%AD%86%E7%AD%92-%E9%81%A9%E7%94%A8%E6%96%BC%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%B4%8D-%E6%96%87%E5%85%B7%E7%94%A8%E5%93%81/dp/B0BP1L6HKR",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"桌面小工具\" organizer",
+      "platform": "amazon_global",
+      "title": "Lolocor 360 度旋轉筆筒、5 個插槽辦公桌收納器、辦公 ... - Amazon.com",
+      "snippet": "這款適用於辦公桌的轉盤筆架不僅非常適合存放桌面文具,如筆、鉛筆、記號筆、螢光筆、尺子、訂書機、閃光燈、橡皮擦、剪紙器、剪刀、開信器以及許多其他桌面小工具,也 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Lolocor-%E5%BA%A6%E6%97%8B%E8%BD%89%E7%AD%86%E7%AD%92%E3%80%815-%E5%80%8B%E6%8F%92%E6%A7%BD%E8%BE%A6%E5%85%AC%E6%A1%8C%E6%94%B6%E7%B4%8D%E5%99%A8%E3%80%81%E8%BE%A6%E5%85%AC%E6%A1%8C%E9%89%9B%E7%AD%86%E6%9E%B6-%E5%A4%9A%E5%8A%9F%E8%83%BD%E9%89%9B%E7%AD%86%E6%9D%AF-%E6%A1%8C%E9%9D%A2%E5%9B%BA%E5%AE%9A%E5%BC%8F%E6%94%B6%E7%B4%8D%E6%AB%83/dp/B0BP1K8ZQ4",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"桌面小工具\" organizer",
+      "platform": "amazon_global",
+      "title": "Marbrasse 網狀桌面收納櫃附抽屜多功能鉛筆收納器12 個隔層粉紅色 ...",
+      "snippet": "【足夠容量】:此書桌收納器組6 個傾斜隔層、4 個平底隔層、1 個托盤隔層和1 個抽屜,可存放各種物品。 多功能幫助您安排桌面小工具,並保持整潔。為您提供最佳和最安全的 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Marbrasse-%E7%B6%B2%E7%8B%80%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%B4%8D%E6%AB%83-%E9%99%84%E6%8A%BD%E5%B1%9C-%E5%A4%9A%E5%8A%9F%E8%83%BD%E9%89%9B%E7%AD%86%E6%94%B6%E7%B4%8D%E5%99%A8-%E7%8F%BE%E4%BB%A3%E7%B0%A1%E7%B4%84%E9%A2%A8%E6%A0%BC/dp/B0CGZDCJ3X",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"桌面小工具\" organizer",
+      "platform": "amazon_global",
+      "title": "Lolocor 360 度旋轉筆筒,5 個插槽辦公桌筆收納器,多功能鉛筆杯化妝 ...",
+      "snippet": "這款適用於辦公桌的轉盤筆架不僅非常適合存放桌面文具,如筆、鉛筆、記號筆、螢光筆、尺子、訂書機、閃光燈、橡皮擦、剪紙器、剪刀、開信器以及許多其他桌面小工具,也 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Lolocor-360-%E5%BA%A6%E6%97%8B%E8%BD%89%E7%AD%86%E7%AD%92-%E5%80%8B%E6%8F%92%E6%A7%BD%E8%BE%A6%E5%85%AC%E6%A1%8C%E7%AD%86%E6%94%B6%E7%B4%8D%E5%99%A8-%E5%A4%9A%E5%8A%9F%E8%83%BD%E9%89%9B%E7%AD%86%E6%9D%AF%E5%8C%96%E5%A6%9D%E5%88%B7%E6%9E%B6%E8%BE%A6%E5%85%AC%E5%AE%A4%E5%90%8D%E7%89%87%E7%AD%86%E9%89%9B%E7%AD%86%E6%96%87%E5%85%B7%E6%9E%B6%E6%94%B6%E7%B4%8D%E7%9B%92%E8%97%8D%E8%89%B2/dp/B0BP1L24CM",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"桌面小工具\" organizer",
+      "platform": "amazon_global",
+      "title": "假牙鑽頭固定器,牙醫的堵嘴禮物,2 合1 螺絲刀和桌面小工具,28 個1/4 ...",
+      "snippet": "主要亮點 · 高品質假牙鑽頭架:由耐用的PETG 塑膠製成,耐高溫和變形。 · 3D 雕塑桌面小工具:我們設計這款產品採用3D 雕塑假牙,具有28 個鑽頭組,就像人類牙齒一樣。 · 趣味十足, ...",
+      "link": "https://www.amazon.com/-/zh_TW/%E5%81%87%E7%89%99%E9%91%BD%E9%A0%AD%E5%9B%BA%E5%AE%9A%E5%99%A8-%E7%89%99%E9%86%AB%E7%9A%84%E5%A0%B5%E5%98%B4%E7%A6%AE%E7%89%A9-%E8%9E%BA%E7%B5%B2%E5%88%80%E5%92%8C%E6%A1%8C%E9%9D%A2%E5%B0%8F%E5%B7%A5%E5%85%B7-%E4%B8%88%E5%A4%AB%E7%9A%84%E8%A5%AA%E5%AD%90%E7%A6%AE%E7%89%A9-%E7%A3%81%E6%80%A7%E7%89%99%E9%BD%A6%E5%8F%AF%E6%95%B4%E7%90%86%E9%91%BD%E9%A0%AD/dp/B0BGL15B2H",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"桌面小工具\" organizer",
+      "platform": "amazon_global",
+      "title": "Marbrasse 5 層紙信托盤收納盒+ 多功能筆架: 辦公用品 - Amazon.com",
+      "snippet": "✏️【超大容量】: 9 個隔層組有一個機架,足夠的隔層可以容納一些基本的組織。 它設計了一個抽屜,用於存放各種物品。 ,多功能可幫助您安排桌面小工具,並固定乾淨整潔。",
+      "link": "https://www.amazon.com/-/zh_TW/Marbrasse-5-%E5%B1%A4%E7%B4%99%E4%BF%A1%E6%89%98%E7%9B%A4%E6%94%B6%E7%B4%8D%E7%9B%92-%E5%A4%9A%E5%8A%9F%E8%83%BD%E7%AD%86%E6%9E%B6/dp/B0BX58SBS8",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"桌面小工具\" organizer",
+      "platform": "amazon_global",
+      "title": "GQGadget Google Gemini在8月底更新圖像生成功能後 - Instagram",
+      "snippet": "... 桌面小工具，還能辨識螢幕畫面，替用戶填寫繁瑣表單。 Gemini Intelligence 最大的亮點在於具備了分析情境與全盤規劃的能力，以往AI 命令是一個指令 ...",
+      "link": "https://www.instagram.com/p/DOJQKEWEk-C/",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 桌面小工具 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "办公桌抽拉置物架- 抖音",
+      "snippet": "【五层】桌面收纳盒多层透明抽屉式办公桌文具化妆品杂物防尘置物架#强烈推荐 #好物推荐分享 #好物分享 #每日分享 #家居好物. 【五层】桌面收纳盒多层透明抽屉式办公桌 ...",
+      "link": "https://www.douyin.com/search/%E5%8A%9E%E5%85%AC%E6%A1%8C%E6%8A%BD%E6%8B%89%E7%BD%AE%E7%89%A9%E6%9E%B6",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 桌面小工具 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "【三维工匠0-31元卡其色收纳用品】收纳用品报价_收纳用品价格第5 ...",
+      "snippet": "三维工匠宿舍迷你抽屉式多层储物盒桌面分类收纳盒化妆品首饰文具整理盒. 支持退换品质保障闪电发货. ￥44.00 · 三维工匠田园布艺桌面收纳盒化妆品收纳篮布艺收纳小筐 ...",
+      "link": "https://list.suning.com/0-161666-4-0-0-0-0-0-0-0-6327639-0_31-2403021.html",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 桌面小工具 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "抖东家商家版- Windows官方下载| 微软应用商店",
+      "snippet": "电商平台选品搬家铺货数据分析工具，是电商平台商家做抖音盒子巨量引擎、巨量千川中店铺运营、商品管理、选品分析好助手。根据供应商、电商平台商家选品、达人带货不同 ...",
+      "link": "https://apps.microsoft.com/detail/xpfp26zvf4shk3?hl=zh-CN&gl=CN",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 桌面小工具 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "日式收纳盒长条- 抖音",
+      "snippet": "... 抽拉设计拿取方便，质量不错没有变形 ... 在厨房，各种调料包、小工具都能整齐收纳，让厨房台面不再杂乱。 ... 抖音图文来了 #抖音 @DOU+小助手. ✨✨桌面杂物收纳盒 ...",
+      "link": "https://www.douyin.com/search/%E6%97%A5%E5%BC%8F%E6%94%B6%E7%BA%B3%E7%9B%92%E9%95%BF%E6%9D%A1",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 桌面小工具 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "灰豚数据- 短视频&直播电商数据分析平台",
+      "snippet": "灰豚数据是短视频和抖音直播、小红书等数据分析监测云平台,为top品牌与达人提供精准、可靠、高效的短视频、直播数据分析服务，包括热门视频广告素材、带货达人、畅销 ...",
+      "link": "https://www.huitun.com/",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 桌面小工具 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "304桌面延长抽拉- Top 1000件304桌面延长抽拉- 2026 ... - Taobao.com",
+      "snippet": "零食收纳桌面家用抽拉式多功能抽屉带轮调料架杂物储物整理收纳盒. 超级立减活动价. ￥. 28.8. 已售100+件. 收藏. 4000+评价 · 高颜值桌面置物架抽拉式中古风厨房餐桌 ...",
+      "link": "https://www.taobao.com/list/product/304%E6%A1%8C%E9%9D%A2%E5%BB%B6%E9%95%BF%E6%8A%BD%E6%8B%89.htm",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 桌面小工具 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "抖音小游戏",
+      "snippet": "抖音小游戏是基于抖音生态，即点即玩的游戏应用，依托内容生态、社交传播、多端流量等优势，实现快速获量和价值变现。",
+      "link": "https://game.open-douyin.com/",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 桌面小工具 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "抖店桌面端下载",
+      "snippet": "抖音电商商家一站式生意经营平台. 下载Mac客户端. 下载Win桌面客户端. 下载手机客户端. 飞鸽. 一键登录. 同时管理25个店铺客服处理效率更高. 电商提效.",
+      "link": "https://jinritemai.com/",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 桌面小工具",
+      "platform": "douyin_cn",
+      "title": "抖查查-直播短视频电商数据 - App Store",
+      "snippet": "查直播电商带货数据就用抖查查！ 抖音短视频直播实时数据分析工具！直播电商带货选品复盘分析助手！ 网红达人推荐，用数据助你直播带货选爆品，短视频上热门~ 主播培训 ...",
+      "link": "https://apps.apple.com/cn/app/%E6%8A%96%E6%9F%A5%E6%9F%A5-%E7%9B%B4%E6%92%AD%E7%9F%AD%E8%A7%86%E9%A2%91%E7%94%B5%E5%95%86%E6%95%B0%E6%8D%AE/id1541827270",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 桌面小工具",
+      "platform": "douyin_cn",
+      "title": "小工具在哪里找_添加桌面小工具 - 抖音",
+      "snippet": "盘点10件好用又炫酷的五金小工具，见过两件算我输～#实用好物#居家好物#好物推荐 · 几个超实用的自制小工具#生活小技巧#生活小妙招#自制工具#自制工具新发明.",
+      "link": "https://www.douyin.com/zhuanti/7149867842874230791",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 桌面小工具",
+      "platform": "douyin_cn",
+      "title": "抖音爆款分析工具与趋势发现渠道 - 花叔",
+      "snippet": "1. 蝉妈妈（chanmama.com） · 推出「蝉妈妈AI」：集成DeepSeek和豆包Seed大模型，提供AI运营数据分析、AI图片设计、智能视频剪辑、文案生成、视频拆解agent ...",
+      "link": "https://huasheng.ai/insights/douyin-trending-tools/",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 桌面小工具",
+      "platform": "douyin_cn",
+      "title": "抖音小店一键铺货软件有哪些？抖音小店一键铺货软件哪个好用？",
+      "snippet": "考拉工具箱：专注抖音生态，内置\"爆款预测模型\"，通过分析商品7天销量波动、达人带货数据等20+维度，精准推荐潜力爆款，某服饰商家使用后周销破50万。 妙手ERP： ...",
+      "link": "https://www.chanmama.com/yunyingquan/question/3984.html",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 桌面小工具",
+      "platform": "douyin_cn",
+      "title": "抖音分析工具都有哪些？短视频电商分析利器大盘点 - 帆软",
+      "snippet": "1、抖音分析工具类型及功能矩阵详解 ; 内容洞察, 热点趋势、话题分析、爆款内容挖掘, 品牌方、MCN、内容团队 ; 账号诊断, 粉丝画像、互动分析、成长路径, 达 ...",
+      "link": "https://www.fanruan.com/finepedia/article/693af5921d2aea3df6eca95c",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 桌面小工具",
+      "platform": "douyin_cn",
+      "title": "抖音电商运营必备十大工具",
+      "snippet": "您在查找“抖音电商运营必备十大工具”吗？抖音短视频，帮你找到更多更精彩视频内容！让每一个人看见并连接更大的世界，让现实生活更美好。",
+      "link": "https://www.douyin.com/zhuanti/7238346616690968636",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 桌面小工具",
+      "platform": "douyin_cn",
+      "title": "文章 - 抖音服务商平台",
+      "snippet": "... 小雪花，是抖音小程序，对于大部分的客单价高、交易周期长、只能在线下交易的行业商家来说，抖音小程序是一个更合适的转化工具。和小风车的跳转链接的功能不同，抖音小 ...",
+      "link": "https://partner.open-douyin.com/forum/share",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "Stackable Makeup Organizer - Amazon.com",
+      "snippet": "Vtopmart 3 Tier Clear Makeup Organizer with Drawer, Cosmetic Storage for Dresser Countertop and Bathroom Vanity, Beauty Holder for Lipstick Brush Skincare.",
+      "link": "https://www.amazon.com/stackable-makeup-organizer/s?k=stackable+makeup+organizer",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "SAFIGLE Makeup Organizer Storage Station Vanity Cosmetics ...",
+      "snippet": "A storage organizer for makeup, beauty tools, grooming utensils, stationery, etc vanity cosmetics organizer.",
+      "link": "https://www.amazon.com/-/zh_TW/0603352YUL/dp/B0F5F7C8LT",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "Amazon.com: Large Makeup Organizer w Drawers Beauty ...",
+      "snippet": "There are three divided drawers. Faster access to your cosmetics with our vanity organizer gives you an efficient makeup routine.",
+      "link": "https://www.amazon.com/SUNFICON-Organizer-Cosmetic-Waterproof-Countertop/dp/B07Z1HN1KG",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "Amazon Best Sellers: Best Cosmetic Display Cases",
+      "snippet": "Discover the best Cosmetic Display Cases in Best Sellers. Bins for Makeup Palettes, Cosmetics, and Beauty Supplies,Ideal for Vanity, Bathroom,Cabinet 8 ...",
+      "link": "https://us.amazon.com/Best-Sellers-Cosmetic-Display-Cases/zgbs/beauty/13861693011",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "skin care organizer,Makeup Desk Organizer With Drawers ...",
+      "snippet": "Countertop organizer for cosmetics, vanity brush with holder for lipstick, brushes, eyeshadow, and jewelry desktop finishing dresser.",
+      "link": "https://www.amazon.com/organizer-Organizer-Countertop-Cosmetics-Eyeshadow/dp/B09296M6QY",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "POFUOT skin care organizer,Makeup Desk Organizer With Drawers ...",
+      "snippet": "Keep your counter/bedroom tidy but won't take too much space.compartments for holding bottles, jars, brushes, lotions, hair spray, perfume, makeup, ...",
+      "link": "https://www.amazon.com/POFUOT-organizer-Organizer-Countertop-Cosmetics/dp/B0CTJ8YFVH",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "Booklov Makeup Organizer for Vanity, Countertop Cosmetic Display ...",
+      "snippet": "This makeup organizer measures 12.3\"D x 6.2\"W x 7.2\"H and features 2 drawers, 4 top compartments, 4 dedicated slots. It can hold 30+ brushes, 20+ big skin care ...",
+      "link": "https://www.amazon.com/Organizer-Countertop-Spacious-Cosmetic-Essential/dp/B0F9T2F52P",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "从混乱到高效  Amazon收纳神器，彻底改变了我的化妆桌！护肤博主 ...",
+      "snippet": "... Organizer Tray https://amzn.to/3R7DpBB 全部产品AMAZON直达 https://amzn.to/4cr3IMY 其他： 我的化妆桌：https://go.shopmy.us/p-15768305 后面 ...",
+      "link": "https://www.youtube.com/watch?v=XFJTEPAncbI&vl=zh",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "桌面颜值好物 - 抖音",
+      "snippet": "您在查找桌面颜值好物吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看 ...",
+      "link": "https://www.douyin.com/search/%E6%A1%8C%E9%9D%A2%E9%A2%9C%E5%80%BC%E5%A5%BD%E7%89%A9",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "高颜值又实用的小东西 - 抖音",
+      "snippet": "您在查找高颜值又实用的小东西吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线 ...",
+      "link": "https://www.douyin.com/search/%E9%AB%98%E9%A2%9C%E5%80%BC%E5%8F%88%E5%AE%9E%E7%94%A8%E7%9A%84%E5%B0%8F%E4%B8%9C%E8%A5%BF",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "放在桌面很好看的素材图 - 抖音",
+      "snippet": "... 创意diy贴材#桌面装饰贴纸#趣味手工好物 · @ 桃桃杂货铺 · 咐置光栅壁纸叩苓 ... 一套素材包简单打造一片桌面小森林多种苔藓搭配多种. 2. 00:00. 一套 ...",
+      "link": "https://www.douyin.com/shipin/7646251951407482922",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "Top 100件创意抖音工具- 2026年2月更新- Taobao",
+      "snippet": "淘宝海外为您精选了创意抖音工具相关的202个商品，你还可以按照人气、价格、销量和评价进行筛选查找。 综合排序.",
+      "link": "https://www.taobao.com/list/product/%E5%88%9B%E6%84%8F%E6%8A%96%E9%9F%B3%E5%B7%A5%E5%85%B7.htm",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "桌面摆小卡教程 - 抖音",
+      "snippet": "您在查找桌面摆小卡教程吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看 ...",
+      "link": "https://www.douyin.com/search/%E6%A1%8C%E9%9D%A2%E6%91%86%E5%B0%8F%E5%8D%A1%E6%95%99%E7%A8%8B",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "[PDF] 中国网络营销投放监测系列报告",
+      "snippet": "以高颜值产品实现自传播,提高品牌知名度. 独特的产品设计自带传播属性，是传递品牌情感的重要载体. 1）始于颜值：高颜值、高辨识度的产品包装可以为消费者带 ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202012231443005576_1.pdf",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "抖店工作台 - 腾讯软件中心",
+      "snippet": "皮肤外观模糊效果与桌面壁纸联动，支持切换为「模糊效果」外观，让你的WPS界面看上去是半透明的、能隐约看到桌面背景的效果，为你创造一个更沉浸式的良好办公体验。 立即下载 ...",
+      "link": "https://pc.qq.com/detail/19/detail_29659.html",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "防划伤展示架- 抖音 - Douyin",
+      "snippet": "全新升级防刮耐磨亚克力展示架，专为高频使用场景打造。 ... 选择这款兼具颜值与耐久性的展示 ... Yuanyc. ·2月前. | 存一下！！这个展架真的好好看！ #桌面 #桌面好物 # ...",
+      "link": "https://www.douyin.com/search/%E9%98%B2%E5%88%92%E4%BC%A4%E5%B1%95%E7%A4%BA%E6%9E%B6",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"女生宿舍\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "巨流河 - 菜鳥涅槃",
+      "snippet": "... 女生宿舍閣樓的鬥室中，仰望滿天的星鬥，在三江彙流的水聲中，爲侯姐姐罵我沒有靈魂而流淚，隻因爲我不願隨她再去讀書會，讀那些俄國階級鬥爭的書，唱那些幼稚的「東方 ...",
+      "link": "https://kazbek.rssing.com/chan-2233500/all_p9.html",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"女生宿舍\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "\"商都找小姐按摩上门服务《约小妹薇芯 ... - Twitter",
+      "snippet": "... 女生宿舍由“大姐”带领首次撞门未果。11:45，男生离开报告厅，各主任老师在宿舍安抚学生；此时女生宿舍第二次撞门成功，学生集体下楼，试图从正门离开未果，转而从后门 ...",
+      "link": "https://x.com/search?q=%E5%95%86%E9%83%BD%E6%89%BE%E5%B0%8F%E5%A7%90%E6%8C%89%E6%91%A9%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E3%80%8A%E7%BA%A6%E5%B0%8F%E5%A6%B9%E8%96%87%E8%8A%AF%E2%86%929%CD%9F9%CD%9F7%CD%9F4%CD%9F4%CD%9F2%CD%9F7%CD%9F%E5%B0%8F%E5%A7%90%E5%A6%B9%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E3%80%8B%E5%93%AA%E9%87%8C%E6%9C%89%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8%E9%A2%84%E7%BA%A6%E6%9C%8D%E5%8A%A1-%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F-%E5%A6%B9%E5%AD%90%E5%B0%8F%E5%A7%90%E5%B0%8F%E5%A6%B9%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1-%E6%89%BE%E5%B0%8F%E5%A7%90%E5%B0%8F%E5%A6%B9%E7%BE%8E%E5%A5%B3%E5%A4%A7%E4%BF%9D%E5%81%A5%E6%8C%89%E6%91%A9%E5%85%A8%E5%A5%97%E6%9C%8D%E5%8A%A1.zhw&f=live",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"女生宿舍\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "\"蚌埠淮上怎么找学生妹《约小妹薇芯→9͟9͟7͟4͟4͟2͟7͟小姐妹 ...",
+      "snippet": "... 女生宿舍由“大姐”带领首次撞门未果。11:45，男生离开报告厅，各主任老师在宿舍安抚学生；此时女生宿舍第二次撞门成功，学生集体下楼，试图从正门离开未果，转而从后门 ...",
+      "link": "https://x.com/search?q=%E8%9A%8C%E5%9F%A0%E6%B7%AE%E4%B8%8A%E6%80%8E%E4%B9%88%E6%89%BE%E5%AD%A6%E7%94%9F%E5%A6%B9%E3%80%8A%E7%BA%A6%E5%B0%8F%E5%A6%B9%E8%96%87%E8%8A%AF%E2%86%929%CD%9F9%CD%9F7%CD%9F4%CD%9F4%CD%9F2%CD%9F7%CD%9F%E5%B0%8F%E5%A7%90%E5%A6%B9%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E3%80%8B%E6%80%8E%E4%B9%88%E7%BA%A6%E9%99%84%E8%BF%91%E7%9A%84%E5%A5%B3%E7%94%9F%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8-%E5%A6%B9%E5%AD%90%E4%B8%8A%E9%97%A8-%E5%93%81%E8%8C%B6%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F-%E4%B8%8A%E9%97%A8%E5%85%A8%E5%A5%97%E6%9C%8D%E5%8A%A1.jwa&f=live",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"女生宿舍\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "\"天津津南区学生兼职全套服务《约小妹薇芯→9͟9͟7͟4͟4͟2͟7͟小 ...",
+      "snippet": "与此同时，女生宿舍由“大姐”带领首次撞门未果。11:45，男生离开报告厅，各主任老师在宿舍安抚学生；此时女生宿舍第二次撞门成功，学生集体下楼，试图从正门离开未果 ...",
+      "link": "https://x.com/search?q=%E5%A4%A9%E6%B4%A5%E6%B4%A5%E5%8D%97%E5%8C%BA%E5%AD%A6%E7%94%9F%E5%85%BC%E8%81%8C%E5%85%A8%E5%A5%97%E6%9C%8D%E5%8A%A1%E3%80%8A%E7%BA%A6%E5%B0%8F%E5%A6%B9%E8%96%87%E8%8A%AF%E2%86%929%CD%9F9%CD%9F7%CD%9F4%CD%9F4%CD%9F2%CD%9F7%CD%9F%E5%B0%8F%E5%A7%90%E5%A6%B9%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E3%80%8B%E6%89%BE%E5%B0%8F%E5%A7%90%E4%B8%80%E6%9D%A1%E9%BE%99%E6%9C%8D%E5%8A%A1-%E6%89%BE%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8%E5%85%A8%E5%A5%97%E6%9C%8D%E5%8A%A1-%E6%89%BE%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1.qyj&src=live&f=live",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon best sellers \"女生宿舍\" 抽拉 防尘",
+      "platform": "amazon_global",
+      "title": "\"佛山高明区怎么找小姐上门服务《约小妹薇芯→9͟9͟7͟4͟4͟2͟7͟ ...",
+      "snippet": "与此同时，女生宿舍由“大姐”带领首次撞门未果。11:45，男生离开报告厅，各主任老师在宿舍安抚学生；此时女生宿舍第二次撞门成功，学生集体下楼，试图从正门离开未果 ...",
+      "link": "https://x.com/search?q=%E4%BD%9B%E5%B1%B1%E9%AB%98%E6%98%8E%E5%8C%BA%E6%80%8E%E4%B9%88%E6%89%BE%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E3%80%8A%E7%BA%A6%E5%B0%8F%E5%A6%B9%E8%96%87%E8%8A%AF%E2%86%929%CD%9F9%CD%9F7%CD%9F4%CD%9F4%CD%9F2%CD%9F7%CD%9F%E5%B0%8F%E5%A7%90%E5%A6%B9%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1%E3%80%8B%E6%89%BE%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8%E6%9C%8D%E5%8A%A1-%E6%89%BE%E5%B0%8F%E5%A7%90%E5%A4%A7%E4%BF%9D%E5%81%A5%E6%8C%89%E6%91%A9%E7%89%B9%E6%AE%8A%E6%9C%8D%E5%8A%A1-%E6%89%BE%E5%B0%8F%E5%A7%90%E4%B8%8A%E9%97%A8%E5%85%A8%E5%A5%97%E6%9C%8D%E5%8A%A1-%E6%89%BE%E5%B0%8F%E5%A7%90%E5%AD%A6%E7%94%9F%E5%A6%B9%E8%BF%87%E5%A4%9C%E4%B8%8A%E9%97%A8%E6%8C%89%E6%91%A9%E6%9C%8D%E5%8A%A1.oeu&src=imger&f=live",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"女生宿舍\" organizer",
+      "platform": "amazon_global",
+      "title": "OMHOMETY 2 件組背心衣架節省空間,衣櫃收納袋的 ... - Amazon.com",
+      "snippet": "... 女生宿舍必備品,防滑懸掛式衣櫃收納器,適用於吊帶背心運動胸罩綁帶式連身裙泳裝 · TYMENSH 門窗收納架附5 個大 ...",
+      "link": "https://www.amazon.com/-/zh_TW/OMHOMETY-%E4%BB%B6%E7%B5%84%E8%83%8C%E5%BF%83%E8%A1%A3%E6%9E%B6%E7%AF%80%E7%9C%81%E7%A9%BA%E9%96%93-%E8%A1%A3%E6%AB%83%E6%94%B6%E7%B4%8D%E8%A2%8B%E7%9A%84%E8%83%B8%E7%BD%A9%E8%A1%A3%E6%9E%B6-%E6%97%8B%E8%BD%89%E9%87%91%E5%B1%AC%E6%96%87%E8%83%B8%E6%94%B6%E7%B4%8D%E7%9B%92-%E6%87%B8%E6%8E%9B%E5%BC%8F%E9%81%8B%E5%8B%95%E6%96%87%E8%83%B8%E6%9E%B6%E5%92%8C%E6%94%B6%E7%B4%8D/dp/B0CGQY2L13",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"女生宿舍\" organizer",
+      "platform": "amazon_global",
+      "title": "Besslly 褲子裙架附夾子,2 件組褲子衣架裙子衣架節省 ... - Amazon.com",
+      "snippet": "... 女生宿舍必備品,吊帶背心運動胸罩綁帶洋裝泳裝領帶,2 件組 · DOIOWN 襯衫和襯衫衣架- 防滑節省空間的不銹鋼衣櫥 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Hag-010-2-Besslly-%E8%A4%B2%E5%AD%90%E8%A3%99%E6%9E%B6%E9%99%84%E5%A4%BE%E5%AD%90-2-%E4%BB%B6%E7%B5%84%E8%A4%B2%E5%AD%90%E8%A1%A3%E6%9E%B6%E8%A3%99%E5%AD%90%E8%A1%A3%E6%9E%B6%E7%AF%80%E7%9C%81%E7%A9%BA%E9%96%93%E8%A1%A3%E6%AB%83%E8%A1%A3%E6%9E%B6%E6%94%B6%E7%B4%8D%E6%AB%83%E5%92%8C%E6%94%B6%E7%B4%8D/dp/B0BPNHJPM9",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"女生宿舍\" organizer",
+      "platform": "amazon_global",
+      "title": "Closet Organizers and Storage, College Dorm Room Essentials ...",
+      "snippet": "這款衣櫃掛架可以快速找到您想要的衣服，是女生 宿舍的必備品。 . 獨特設計的衣櫃組織系統：衣櫃掛架帶有5個開放式鉤 子，稍微向上傾斜並在末端 ...",
+      "link": "https://www.facebook.com/groups/631542554448762/posts/2118352942434375/",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"女生宿舍\" organizer",
+      "platform": "amazon_global",
+      "title": "OMHOMETY 背心衣架,2 入胸罩收納器,堅固的木質節省空間的收納櫃 ...",
+      "snippet": "... 女生宿舍必備品,防滑懸掛式衣櫃收納器,適用於吊帶背心運動胸罩綁帶式連身裙泳裝 · MEILIDY 內搭褲衣架木製衣櫃掛 ...",
+      "link": "https://www.amazon.com/-/zh_TW/OMHOMETY-%E8%83%8C%E5%BF%83%E8%A1%A3%E6%9E%B6-%E5%85%A5%E8%83%B8%E7%BD%A9%E6%94%B6%E7%B4%8D%E5%99%A8-%E5%A0%85%E5%9B%BA%E7%9A%84%E6%9C%A8%E8%B3%AA%E7%AF%80%E7%9C%81%E7%A9%BA%E9%96%93%E7%9A%84%E6%94%B6%E7%B4%8D%E6%AB%83%E5%92%8C%E6%94%B6%E7%B4%8D%E7%AE%B1-%E9%81%A9%E7%94%A8%E6%96%BC%E8%83%8C%E5%BF%83%E3%80%81%E8%83%B8%E7%BD%A9%E3%80%81%E5%90%8A%E5%B8%B6%E8%83%8C%E5%BF%83%E3%80%81%E6%B3%B3%E8%A3%9D/dp/B0CCMRNQ53",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"女生宿舍\" organizer",
+      "platform": "amazon_global",
+      "title": "Amazon.com: OMHOMETY 背心衣架,4 件組胸罩收納器,適用於衣櫥",
+      "snippet": "Bra Organizer 4.1. Tank Top Organizer 5.1 ... 女生宿舍必備品,防滑懸掛式衣櫃收納器,適用於吊帶背心運動胸罩綁帶式連身裙泳裝.",
+      "link": "https://www.amazon.com/-/zh_TW/OMHOMETY-%E8%83%8C%E5%BF%83%E8%A1%A3%E6%9E%B6-%E4%BB%B6%E7%B5%84%E8%83%B8%E7%BD%A9%E6%94%B6%E7%B4%8D%E5%99%A8-%E9%81%A9%E7%94%A8%E6%96%BC%E8%A1%A3%E6%AB%A5%E3%80%81%E6%87%B8%E6%8E%9B%E5%BC%8F%E8%A1%A3%E6%AB%A5%E6%94%B6%E7%B4%8D%E5%92%8C%E6%94%B6%E7%B4%8D%E7%A9%BA%E9%96%93%E7%AF%80%E7%9C%81%E6%94%B6%E7%B4%8D-%E9%81%A9%E7%94%A8%E6%96%BC%E5%90%8A%E5%B8%B6%E8%83%8C%E5%BF%83%E3%80%81%E8%83%B8%E7%BD%A9%E3%80%81%E6%B3%B3%E8%A3%9D%E3%80%81%E7%B6%81%E5%B8%B6%E3%80%81%E9%8A%80%E8%89%B2/dp/B0CBZ1J72S",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"女生宿舍\" organizer",
+      "platform": "amazon_global",
+      "title": "Amazon.com: Resovo 升級背心衣架衣櫃收納和收納櫃適用於衣櫥 ...",
+      "snippet": "... 女生宿舍必備品,防滑懸掛式衣櫃收納器,適用於吊帶背心運動胸罩綁帶式連身裙泳裝 · OMHOMETY 2 件組背心衣架節省 ...",
+      "link": "https://www.amazon.com/-/zh_TW/Resovo-%E8%A1%A3%E6%AB%83%E6%94%B6%E7%B4%8D%E5%92%8C%E6%94%B6%E7%B4%8D%E6%AB%83-%E9%81%A9%E7%94%A8%E6%96%BC%E8%A1%A3%E6%AB%A5-%E8%A1%A3%E6%AB%83%E6%94%B6%E7%B4%8D%E5%92%8C%E6%94%B6%E7%B4%8D-%E9%81%A9%E7%94%A8%E6%96%BC%E8%83%8C%E5%BF%83%E3%80%81%E5%90%8A%E5%B8%B6%E8%83%8C%E5%BF%83%E3%80%81%E9%A0%98%E5%B8%B6%E7%AD%89%E3%80%82/dp/B0BVFY243X",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"女生宿舍\" organizer",
+      "platform": "amazon_global",
+      "title": "40% off with CODE ➡️ GM3OWSRX ⬅️ Grab on Amazon (Ad ...",
+      "snippet": "... 女生 宿舍的必備品。 . 獨特設計的衣櫃組織系統：衣櫃掛架帶有5個開放式鉤 子，稍微向上傾斜並在末端彎曲，使得衣櫃掛架具有防 滑性能，不易掉落。衣櫃掛架的大型 ...",
+      "link": "https://www.facebook.com/groups/thecraftysavers/posts/1628176765121735/",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "Amazon trending \"女生宿舍\" organizer",
+      "platform": "amazon_global",
+      "title": "Maximizing Space in My Attached Bathroom with Beauty Products",
+      "snippet": "Shower organizer and aesthetic trash can are Amazon ✨ They're on my ... 作品同步头条赢激励女生宿舍和男生宿舍. |. rikke-på-nytt-arrigato.",
+      "link": "https://www.tiktok.com/@peachyymaddi/video/7118388522112847150",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 女生宿舍 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "谁懂！舍友提前放假了#宿舍防尘膜 - 抖音",
+      "snippet": "谁懂！舍友提前放假了#宿舍防尘膜- 米乐奇家居旗舰店于20260102发布在抖音，已经收获了3.2万个喜欢，来抖音，记录美好生活！",
+      "link": "https://www.douyin.com/video/7590707085986385206",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 女生宿舍 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "想想都要笑出声#防尘膜#宿舍好物#放假倒计时#学生党好物推荐- 抖音",
+      "snippet": "要放假啦！宿舍最强防尘已就位！ 你准备好放假了没，想想都要笑出声#防尘膜#宿舍好物#放假倒计时#学生党好物推荐- 京薇百货于20251219发布在抖音， ...",
+      "link": "https://www.douyin.com/video/7585267859669142826",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 女生宿舍 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "女生宿舍2排行榜- 京东 - JD.com",
+      "snippet": "我之前跟抖音上对比过，抖音买过同品牌的，然后就发现还是京东的这个质量更好。然后就把抖音的那个退货退了，然后这个就留着了，这个棉很厚，然后呢，也没啥异味，摸着很柔软。",
+      "link": "https://www.jd.com/phb/key_1713051e1a120a08e499.html",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 女生宿舍 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "衣服放密封袋子里会发霉吗 - 抖音",
+      "snippet": "常年不穿的衣服，放衣柜里时间久了，难免会串味，发霉，落灰尘，一定要罩起来，特别是贵点的外套，几块钱就能解决的问题，不要错过哦#防尘罩#衣服收纳#一次性 ...",
+      "link": "https://www.douyin.com/shipin/7364325194971777075",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 女生宿舍 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "抖音短视频电商选品带货平台- 达多多数据",
+      "snippet": "提供全网最全的抖音选品库，海量商品多维筛选排行与分析，精准去重提供抖音销量和商品转化率数据，提供抖音爆款商品历史佣金与价格查询等数据，助力达人轻松选品， ...",
+      "link": "https://m.daduoduo.com/product/products?keyword=",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 女生宿舍 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "[PDF] 研究综述- 01. 统计周期",
+      "snippet": "“民以食为天”，中国人最重要的春节期间，食品酒水更是作为主要热卖在抖音焕发消费活力。 ... 家庭防尘用具. 车载收纳. 1月抖音收纳整理细分品类分布. 同.",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202502181643208238_1.pdf",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 女生宿舍 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "学生宿舍收纳架抽屉式 - 抖音",
+      "snippet": "2月前. 桌面整理收纳盒抽屉式宿舍防尘书桌家用大容量梳妆台化妆品收纳盒 ... #收纳整理 #宿舍好物 #置物架 #桌下抽屉 #抽拉式收纳盒. 绝了，这个桌下 ...",
+      "link": "https://www.douyin.com/search/%E5%AD%A6%E7%94%9F%E5%AE%BF%E8%88%8D%E6%94%B6%E7%BA%B3%E6%9E%B6%E6%8A%BD%E5%B1%89%E5%BC%8F",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 热卖榜 女生宿舍 抽拉 防尘",
+      "platform": "douyin_cn",
+      "title": "蝉妈妈注册入口- 蝉妈妈数据",
+      "snippet": "蝉妈妈是厦门蝉羽网络科技有限公司旗下短视频内容营销与直播电商洞察平台，为品牌、商家、达人、MCN机构等提供全方位电商视角。助力从业者用好内容触达亿万客户， ...",
+      "link": "https://www.chanmama.com/SPUrank/",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 女生宿舍",
+      "platform": "douyin_cn",
+      "title": "抖音电商双11大促：超10万商家直播销售额同比翻倍 - 新华网",
+      "snippet": "报告显示，10月9日至11月11日，全域兴趣电商模式有效拉动实体经济新增量，平台上有6.7万个品牌销售额同比翻倍，超过10万商家直播销售额同比翻倍。此外，中小达 ...",
+      "link": "http://www.news.cn/tech/20251113/06430e8531d14b4088a61121cf473888/c.html",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 女生宿舍",
+      "platform": "douyin_cn",
+      "title": "单款一年卖出两百多万件，“抖音618好物节”助新锐国货品牌再出圈",
+      "snippet": "在钟静宜看来，相较于传统电商渠道，抖音电商起量很快，一个短视频爆了就能吸引大量用户通过搜索进入到货架场景中下单。更难得的是压货少。",
+      "link": "https://news.sina.cn/sx/2023-06-19/detail-imyxviah9097329.d.html",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 女生宿舍",
+      "platform": "douyin_cn",
+      "title": "女装带货指南 - 抖音电商学习中心",
+      "snippet": "第一章分析：女装高价值人群画像. 1. 女装高价值人群画像. 视频4分钟. 第二章文案：女装短视频打造. 1. 女装脚本模型之秀产品. 视频5分钟 · 2. 女装脚本模型之晒过程.",
+      "link": "https://school.jinritemai.com/doudian/wap/course-series/cHHAoYUaxavw?from=shop_zhuanqu_fushi",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 女生宿舍",
+      "platform": "douyin_cn",
+      "title": "8月抖音电商营销观察：老酒竞品新玩法，宿舍场景获增量 - 广告门",
+      "snippet": "以「雅鹿」为例，品牌旗下自播号@雅鹿家纺（学生宿舍）床品，8月份上架45+个针对学生宿舍场景的SKU，涵盖床品套件、床垫、蚊帐等多个细分类目。 △ 飞瓜数据- 达 ...",
+      "link": "https://www.adquan.com/article/335833",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 女生宿舍",
+      "platform": "douyin_cn",
+      "title": "谁是女生宿舍最受欢迎的两个APP？ - 华尔街见闻",
+      "snippet": "... 电商几个阶段，认为传统电商模式在落伍。其实并不是电商模式落伍，而是不同品类有各自适合的电商方式。 标品适合货架电商，非标品适合内容电商，没有 ...",
+      "link": "https://wallstreetcn.com/articles/3696830",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 女生宿舍",
+      "platform": "douyin_cn",
+      "title": "[PDF] 抖音电商食品饮料",
+      "snippet": "爆款大颗袋装BDT. 良品铺子官方旗舰店. 15. 【爆!3袋19.9元】云南富硒茶树菇原汁原味纯干货高. 钙高蛋白30g/袋. 马记特产. 6. 乡愁沈丹有机水煮笋干新鲜免切免泡脆笋农家清 ...",
+      "link": "https://aigc.idigital.com.cn/djyanbao/%E3%80%90%E6%9C%89%E7%B1%B3%E6%9C%89%E6%95%B0%E3%80%912024%E6%8A%96%E9%9F%B3%E7%94%B5%E5%95%86%E9%A3%9F%E5%93%81%E9%A5%AE%E6%96%99%E8%B6%8B%E5%8A%BF%E6%B4%9E%E5%AF%9F%E6%8A%A5%E5%91%8A-2024-07-19.pdf",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 女生宿舍",
+      "platform": "douyin_cn",
+      "title": "超3000款新品成交破百万，抖音电商“夏上新”找到了增长新解法- 知乎",
+      "snippet": "抖音电商持续领跑，春夏上新成为服饰与彩妆新品业绩突破的关键节点。30% 的爆款商品仅需4.8 天即可实现出爆，百万级销售额新品数量同比激增169%，相关 ...",
+      "link": "https://zhuanlan.zhihu.com/p/1921250241031669012",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 电商 爆款 女生宿舍",
+      "platform": "douyin_cn",
+      "title": "女生宿舍系列博主 - 抖音",
+      "snippet": "您在查找女生宿舍系列博主吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看 ...",
+      "link": "https://www.douyin.com/search/%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E7%B3%BB%E5%88%97%E5%8D%9A%E4%B8%BB",
+      "position": 8,
+      "source": ""
+    },
+    {
+      "query": "抖音 女生宿舍 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "颜值宿舍女 - 抖音",
+      "snippet": "您在查找颜值宿舍女吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看需求。",
+      "link": "https://www.douyin.com/search/%E9%A2%9C%E5%80%BC%E5%AE%BF%E8%88%8D%E5%A5%B3",
+      "position": 1,
+      "source": ""
+    },
+    {
+      "query": "抖音 女生宿舍 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "颜值最高女生宿舍图片 - 抖音",
+      "snippet": "您在查找颜值最高女生宿舍图片吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看需求。",
+      "link": "https://www.douyin.com/search/%E9%A2%9C%E5%80%BC%E6%9C%80%E9%AB%98%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E5%9B%BE%E7%89%87",
+      "position": 2,
+      "source": ""
+    },
+    {
+      "query": "抖音 女生宿舍 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "女生宿舍直播作品 - 抖音",
+      "snippet": "女生宿舍直播作品 · 1.直播风格：主播以清纯形象亮相，穿着水手服，声音嗲嗲，营造出青春甜美的氛围。 · 2.开场互动：直播开始，主播感谢观众的礼物，展现亲和力。",
+      "link": "https://www.douyin.com/search/%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E7%9B%B4%E6%92%AD%E4%BD%9C%E5%93%81",
+      "position": 3,
+      "source": ""
+    },
+    {
+      "query": "抖音 女生宿舍 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "郑州男生宿舍床头神器，免打孔超省空间！",
+      "snippet": "#宿舍床头收纳架. 学生党高频刚需，兼顾颜值与实用性. 墙上置物架宿舍好物学生寝室床上床头墙面壁挂零食收纳架神器挂篮.",
+      "link": "https://guangtao.taobao.com/topic-167611603.html",
+      "position": 4,
+      "source": ""
+    },
+    {
+      "query": "抖音 女生宿舍 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "女生宿舍高颜值氛围感 - 抖音",
+      "snippet": "·4月前. 大一新生必看❗敲全宿舍保姆级改造攻略2平米的宿舍也能改造成豪华公主套房收纳和颜值全部在线躺在被窝里都不想起床了✨ #宿舍改造 #宿舍上床下桌 #大学宿舍 #宿舍 ...",
+      "link": "https://www.douyin.com/search/%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E9%AB%98%E9%A2%9C%E5%80%BC%E6%B0%9B%E5%9B%B4%E6%84%9F",
+      "position": 5,
+      "source": ""
+    },
+    {
+      "query": "抖音 女生宿舍 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "[PDF] 巨量引擎大众业务美妆数码行业总经理",
+      "snippet": "高颜值耳夹耳机和舒适挂耳耳机增势强劲. 耳夹式耳机突破式增长，挂耳耳机在抖音平台备受欢迎，两类耳机分别向高颜值和高舒适度进阶。无痛、不闷不堵的挂耳式. 耳机具备更高 ...",
+      "link": "https://pdf.dfcfw.com/pdf/H3_AP202501241642523724_1.pdf",
+      "position": 6,
+      "source": ""
+    },
+    {
+      "query": "抖音 女生宿舍 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "大促氛围拉满！抖音618好物节招商大会核心玩法全拆解 - 新浪新闻",
+      "snippet": "年年都在追求创意、变化和精进的电商节活动——抖音618好物节，已经逐步构建起由平台福利、特色玩法、排位赛为主要元素的活动玩法体系。除了红包等常规动作， ...",
+      "link": "https://news.sina.cn/sx/2022-04-27/detail-imcwiwst4292347.d.html?vt=4",
+      "position": 7,
+      "source": ""
+    },
+    {
+      "query": "抖音 女生宿舍 高频取放 颜值陈列 创意 好物",
+      "platform": "douyin_cn",
+      "title": "女生宿舍日常亲脸 - 抖音",
+      "snippet": "您在查找女生宿舍日常亲脸吗？抖音综合搜索帮你找到更多相关视频、图文、直播内容，支持在线观看。更有海量高清视频、相关直播、用户，满足您的在线观看 ...",
+      "link": "https://www.douyin.com/search/%E5%A5%B3%E7%94%9F%E5%AE%BF%E8%88%8D%E6%97%A5%E5%B8%B8%E4%BA%B2%E8%84%B8",
+      "position": 8,
+      "source": ""
+    }
+  ],
+  "logs": [
+    "SERPER fallback OK: Amazon best sellers \"美妆收纳\" 抽拉 防尘",
+    "SERPER fallback OK: Amazon trending \"美妆收纳\" organizer",
+    "SERPER fallback OK: 抖音 热卖榜 美妆收纳 抽拉 防尘",
+    "SERPER fallback OK: 抖音 电商 爆款 美妆收纳",
+    "SERPER fallback OK: Amazon \"美妆收纳\" vanity beauty organizer 抽拉 防尘",
+    "SERPER fallback OK: 抖音 美妆收纳 高频取放 颜值陈列 创意 好物",
+    "SERPER fallback OK: Amazon best sellers \"桌面小工具\" 抽拉 防尘",
+    "SERPER fallback OK: Amazon trending \"桌面小工具\" organizer",
+    "SERPER fallback OK: 抖音 热卖榜 桌面小工具 抽拉 防尘",
+    "SERPER fallback OK: 抖音 电商 爆款 桌面小工具",
+    "SERPER fallback OK: Amazon \"桌面小工具\" vanity beauty organizer 抽拉 防尘",
+    "SERPER fallback OK: 抖音 桌面小工具 高频取放 颜值陈列 创意 好物",
+    "SERPER fallback OK: Amazon best sellers \"女生宿舍\" 抽拉 防尘",
+    "SERPER fallback OK: Amazon trending \"女生宿舍\" organizer",
+    "SERPER fallback OK: 抖音 热卖榜 女生宿舍 抽拉 防尘",
+    "SERPER fallback OK: 抖音 电商 爆款 女生宿舍",
+    "SERPER fallback OK: Amazon \"女生宿舍\" vanity beauty organizer 抽拉 防尘",
+    "SERPER fallback OK: 抖音 女生宿舍 高频取放 颜值陈列 创意 好物"
+  ]
+}

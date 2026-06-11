@@ -1,0 +1,86 @@
+{
+  "agent": "feature_transfer_engine",
+  "feature_matches": [
+    {
+      "match_id": "MAT-001",
+      "source_problem": "宠物家庭清洁过程中，宠物毛发缠绕、清洁工具难以存储和使用不便的问题。",
+      "abstracted_features": [
+        "防缠绕",
+        "快拆",
+        "壁挂",
+        "分仓"
+      ],
+      "selected_features": [
+        "防缠绕",
+        "快拆",
+        "壁挂"
+      ],
+      "rejected_features": [
+        "分仓"
+      ],
+      "feature_selection_reason": [
+        "防缠绕特性可以减少清洁工具的维护时间",
+        "快拆设计便于清洁和更换配件",
+        "壁挂设计节省空间并便于收纳"
+      ],
+      "candidate_product_concepts": [
+        {
+          "concept_name": "宠物毛发防缠绕清洁套装",
+          "concept_definition": "一套专为宠物家庭设计的清洁工具，包含防缠绕刷头和快拆式手柄，配有壁挂收纳架。",
+          "structural_points": [
+            "防缠绕刷头设计",
+            "快拆式手柄",
+            "壁挂收纳架"
+          ],
+          "interaction_points": [
+            "刷头可快速拆卸更换",
+            "手柄与刷头的磁吸连接",
+            "壁挂架可固定在墙面"
+          ],
+          "accessory_matrix_options": [
+            "多种刷头选择",
+            "可扩展手柄长度",
+            "附加清洁液瓶"
+          ],
+          "cost_risk_notes": [
+            "材料成本需控制在15%以内",
+            "避免复杂的电子元件"
+          ],
+          "compliance_risk_notes": [
+            "确保材料符合宠物安全标准",
+            "避免使用专利密集的设计"
+          ]
+        },
+        {
+          "concept_name": "宠物清洁壁挂站",
+          "concept_definition": "一个集成多种清洁功能的壁挂站，适用于宠物家庭的日常清洁需求，包含快拆模块和防缠绕设计。",
+          "structural_points": [
+            "模块化壁挂设计",
+            "防缠绕刷头",
+            "快拆清洁模块"
+          ],
+          "interaction_points": [
+            "模块化设计便于用户根据需求调整",
+            "壁挂设计节省地面空间",
+            "快拆模块便于清洗"
+          ],
+          "accessory_matrix_options": [
+            "可选配件如不同材质的刷头",
+            "附加的清洁液储存模块"
+          ],
+          "cost_risk_notes": [
+            "需控制模块化设计的生产成本",
+            "避免使用高成本材料"
+          ],
+          "compliance_risk_notes": [
+            "确保壁挂系统的安全性",
+            "符合家用产品的安装标准"
+          ]
+        }
+      ]
+    }
+  ],
+  "summary": [
+    "通过结合防缠绕、快拆和壁挂特性，设计出适合宠物家庭的清洁工具，能够有效解决宠物毛发缠绕和清洁工具存储不便的问题。"
+  ]
+}

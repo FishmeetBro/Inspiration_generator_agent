@@ -1,0 +1,36 @@
+{
+  "cost_logistics_validations": [
+    {
+      "idea_name": "宠物毛发防缠绕清洁套装",
+      "product_profile_estimate": {
+        "length_in": 11.0,
+        "width_in": 6.0,
+        "height_in": 2.5,
+        "weight_lb": 1.1,
+        "target_sale_price_usd": 19.99,
+        "base_product_cost_usd": 3.2,
+        "confidence": "estimated"
+      },
+      "fba_cost_estimate": {
+        "size_tier": "large_standard",
+        "chargeable_weight_kg": 0.499,
+        "headhaul_est_usd": 3.24,
+        "tail_fulfillment_est_usd": 4.94,
+        "monthly_storage_est_usd": 0.11,
+        "referral_fee_est_usd": 3.0,
+        "base_product_cost_usd": 3.2,
+        "target_sale_price_usd": 19.99,
+        "gross_margin_rate": 0.2753
+      },
+      "small_parcel_friendly": true,
+      "meets_crossborder_margin": false,
+      "priority": "low",
+      "recommendations": [
+        "优先压缩尺寸或减重。",
+        "优先降低主体物料成本或减少配件数。",
+        "若目标售价无法提升，建议降为低优先级。"
+      ],
+      "notes": "本结果为本地估算值，建议结合真实包装尺寸和采购价复核。"
+    }
+  ]
+}

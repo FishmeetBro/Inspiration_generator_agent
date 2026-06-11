@@ -1,0 +1,57 @@
+{
+  "request_id": "REQ-20260611-143529",
+  "workflow_type": "workflow_1",
+  "market": [
+    "douyin_cn",
+    "amazon_global"
+  ],
+  "top_candidates": [],
+  "dropped_candidates": [
+    {
+      "idea_name": "Compact Foldable Wall-Mounted Organizer",
+      "drop_reason": [
+        "Consider alternative mounting solutions for non-drillable walls",
+        "Ensure materials are resistant to indoor humidity variations",
+        "Simplify folding mechanism to reduce production costs"
+      ]
+    }
+  ],
+  "auto_generation": {
+    "enabled": true,
+    "workflow_source": "auto_rotation",
+    "goal_source": "auto_profile_rotation",
+    "categories_source": "auto_profile_rotation",
+    "seed_source": "auto_profile_rotation",
+    "profile_label": "space_efficiency",
+    "search_modifiers": [
+      "small space",
+      "apartment",
+      "dorm room"
+    ],
+    "exploration_focus": [
+      "空间压缩",
+      "低安装门槛",
+      "轻量小体积"
+    ],
+    "negative_anchors": [
+      "磁吸模块化桌面盒",
+      "常规理线器",
+      "普通U型收纳架"
+    ]
+  },
+  "orchestration_notes": [
+    "任务识别为 workflow_1，目标是对现有爆款进行微创新。",
+    "调度了全网爆款溯源挖掘 Agent、全域特征库提取与跨域迁移 Agent、用户全场景拆解 Agent 和专利竞品前置预警 Agent。",
+    "在终审阶段，候选方案因安装限制、材料耐用性和专利风险被淘汰。",
+    "建议下一轮优化时，探索无需打孔的安装方式，并确保材料适应多种室内环境。",
+    "Loaded prompts: 7",
+    "Route: agent_trend -> agent_feature_transfer -> agent_scenario -> agent_ip_guard -> main_agent_final_review -> agent_doc_beautifier",
+    "OpenAI model: gpt-4o",
+    "Batch cleaner: DeepSeek primary, Groq fallback",
+    "Search layer: SERPAPI if configured, otherwise SERPER fallback",
+    "Auto diversification: space_efficiency",
+    "Post-generation validation added: patent risk screen",
+    "Post-generation validation added: cost and logistics screen"
+  ],
+  "report_output_path": "C:\\Users\\Administrator\\Desktop\\产品调研\\files-mentioned-by-the-user-codex\\outputs\\Codex爆款产品灵感智能体资产包\\outputs\\灵感报告_20260611.md"
+}

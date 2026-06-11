@@ -1,0 +1,373 @@
+{
+  "agent": "trend_reverse_engineering",
+  "market_signals": [
+    {
+      "signal_id": "pic_001",
+      "product_name": "防尘抽屉式美妆收纳盒（带化妆镜）",
+      "platform": "amazon_global",
+      "category": "美妆收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "功能创新",
+      "target_users": [
+        "女性化妆品使用者",
+        "桌面整理爱好者",
+        "美妆博主"
+      ],
+      "user_pain_points": [
+        "化妆品易落灰",
+        "收纳空间杂乱",
+        "取用不便"
+      ],
+      "review_complaints": [
+        "抽屉卡顿",
+        "镜子安装不稳",
+        "尺寸偏小"
+      ],
+      "premium_drivers": [
+        "防尘设计",
+        "便捷把手抽拉",
+        "自带化妆镜"
+      ],
+      "structure_highlights": [
+        "抽屉式结构",
+        "分区收纳",
+        "把手设计"
+      ],
+      "appearance_highlights": [
+        "透明亚克力",
+        "清新配色",
+        "现代简约风格"
+      ],
+      "extractable_features": [
+        "可拆卸镜面",
+        "可叠加模块"
+      ],
+      "risks": [
+        "同质化严重",
+        "低价竞争"
+      ]
+    },
+    {
+      "signal_id": "pic_002",
+      "product_name": "防尘旋转化妆刷收纳桶（PP+PET材质）",
+      "platform": "amazon_global",
+      "category": "美妆收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "材质升级",
+      "target_users": [
+        "化妆刷具使用者",
+        "追求整洁桌面者",
+        "颜值优先用户"
+      ],
+      "user_pain_points": [
+        "化妆刷乱放易脏",
+        "桌面空间有限",
+        "刷具易受潮"
+      ],
+      "review_complaints": [
+        "旋转不顺畅",
+        "筒身易划痕",
+        "收纳数量有限"
+      ],
+      "premium_drivers": [
+        "防尘盖设计",
+        "360度旋转",
+        "高质感PP+PET材质"
+      ],
+      "structure_highlights": [
+        "旋转底座",
+        "筒状结构",
+        "可分离式防尘盖"
+      ],
+      "appearance_highlights": [
+        "透明筒身",
+        "清新配色",
+        "简洁造型"
+      ],
+      "extractable_features": [
+        "可旋转展示",
+        "可单独取出清洗"
+      ],
+      "risks": [
+        "功能单一",
+        "市场饱和"
+      ]
+    },
+    {
+      "signal_id": "SIG-001",
+      "product_name": "雾面拉门桌上防尘收纳柜",
+      "platform": "amazon_global",
+      "category": "美妆收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "功能升级+场景匹配",
+      "target_users": [
+        "美妆爱好者",
+        "桌面整洁追求者",
+        "女性白领"
+      ],
+      "user_pain_points": [
+        "化妆品长期暴露易积灰",
+        "桌面杂乱不美观",
+        "取用频繁需要随手拿取"
+      ],
+      "review_complaints": [
+        "推拉门阻尼感不足",
+        "容量偏小装不下高瓶",
+        "雾面材质易留指纹"
+      ],
+      "premium_drivers": [
+        "防尘雾面拉门设计",
+        "透明视窗便于寻找",
+        "模块化可堆叠"
+      ],
+      "structure_highlights": [
+        "顶部开放/拉门封闭结合",
+        "内部可调隔板"
+      ],
+      "appearance_highlights": [
+        "极简雾面",
+        "透明亚克力质感"
+      ],
+      "extractable_features": [
+        "防尘盖",
+        "抽拉式抽屉",
+        "分类格"
+      ],
+      "risks": [
+        "与普通桌面收纳盒差异不够大",
+        "门结构增加成本"
+      ]
+    },
+    {
+      "signal_id": "SIG-002",
+      "product_name": "抽拉式化妆品落地收纳柜",
+      "platform": "douyin_cn",
+      "category": "美妆收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "大容量+空间利用",
+      "target_users": [
+        "化妆品多的女性",
+        "租房族",
+        "美妆博主"
+      ],
+      "user_pain_points": [
+        "桌面放不下大量化妆品",
+        "拿取麻烦需弯腰",
+        "落地式占空间但收纳强"
+      ],
+      "review_complaints": [
+        "抽屉抽拉不顺畅",
+        "落地不稳容易倾倒",
+        "防尘效果一般"
+      ],
+      "premium_drivers": [
+        "多层抽拉大容量",
+        "带轮可移动",
+        "防尘玻璃门"
+      ],
+      "structure_highlights": [
+        "多抽屉分层",
+        "透明面板防尘可视"
+      ],
+      "appearance_highlights": [
+        "简约白色或木纹",
+        "窄高设计省空间"
+      ],
+      "extractable_features": [
+        "抽拉式抽屉",
+        "分格收纳",
+        "可移动脚轮"
+      ],
+      "risks": [
+        "落地式占用地面空间",
+        "适合固定位置使用"
+      ]
+    },
+    {
+      "signal_id": "SIG-003",
+      "product_name": "化妆收纳架置物架防尘带灯镜子",
+      "platform": "douyin_cn",
+      "category": "美妆收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "照明+防尘一体化",
+      "target_users": [
+        "化妆新手",
+        "夜间化妆者",
+        "注重细节妆效的用户"
+      ],
+      "user_pain_points": [
+        "化妆时光线不足",
+        "镜子与收纳分离不便",
+        "桌面杂物多"
+      ],
+      "review_complaints": [
+        "灯光色温不可调",
+        "镜子尺寸偏小",
+        "灯带容易发热"
+      ],
+      "premium_drivers": [
+        "LED补光灯",
+        "防尘罩设计",
+        "收纳与镜子一体"
+      ],
+      "structure_highlights": [
+        "镜面可旋转",
+        "底部收纳盘带防尘盖"
+      ],
+      "appearance_highlights": [
+        "镜面带发光环",
+        "极简底座"
+      ],
+      "extractable_features": [
+        "LED灯条",
+        "防尘罩",
+        "分区收纳槽"
+      ],
+      "risks": [
+        "灯带寿命问题",
+        "高度固定使用局限"
+      ]
+    },
+    {
+      "signal_id": "SIG-004",
+      "product_name": "实木大容量化妆盒（顶部开盖）",
+      "platform": "douyin_cn",
+      "category": "美妆收纳",
+      "growth_window": "30d",
+      "growth_reason_type": "材质升级+便捷取物",
+      "target_users": [
+        "喜欢实木质感的用户",
+        "资深美妆爱好者",
+        "送礼需求"
+      ],
+      "user_pain_points": [
+        "塑料收纳盒显廉价",
+        "普通翻盖占用空间",
+        "取物需拉开整体"
+      ],
+      "review_complaints": [
+        "实木较重要注意承重",
+        "顶部开盖后空间有限",
+        "价格偏高"
+      ],
+      "premium_drivers": [
+        "实木材质提升品质",
+        "两种开盖方式",
+        "防掉设计"
+      ],
+      "structure_highlights": [
+        "顶部开盖不拉手",
+        "内部可分隔"
+      ],
+      "appearance_highlights": [
+        "实木纹理自然",
+        "复古或北欧风"
+      ],
+      "extractable_features": [
+        "顶部翻盖防尘",
+        "内置隔板可调"
+      ],
+      "risks": [
+        "实木成本高导致高售价",
+        "与主流塑料收纳竞争"
+      ]
+    },
+    {
+      "signal_id": "SIG-005",
+      "product_name": "美妆镜柜（带抽拉龙头）",
+      "platform": "douyin_cn",
+      "category": "美妆收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "功能集成+场景延伸",
+      "target_users": [
+        "家居装修人群",
+        "卫生间化妆用户",
+        "注重效率用户"
+      ],
+      "user_pain_points": [
+        "卫生间收纳不足",
+        "镜柜与洗手台分离",
+        "水龙头冲洗不便"
+      ],
+      "review_complaints": [
+        "镜柜容易受潮",
+        "抽拉龙头耐用性",
+        "安装要求高"
+      ],
+      "premium_drivers": [
+        "镜柜+抽拉龙头一体",
+        "多层收纳空间",
+        "防雾镜面"
+      ],
+      "structure_highlights": [
+        "镜后储物格",
+        "抽拉水龙头"
+      ],
+      "appearance_highlights": [
+        "现代简约镜柜",
+        "不锈钢拉丝"
+      ],
+      "extractable_features": [
+        "镜柜照明",
+        "抽拉龙头",
+        "储物分层"
+      ],
+      "risks": [
+        "安装复杂",
+        "需预留水电位置"
+      ]
+    },
+    {
+      "signal_id": "sig_001",
+      "product_name": "桌面防尘家用化妆品收纳盒",
+      "platform": "douyin_cn",
+      "category": "美妆收纳",
+      "growth_window": "7d",
+      "growth_reason_type": "功能差异化",
+      "target_users": [
+        "年轻女性",
+        "化妆爱好者",
+        "桌面整理需求者"
+      ],
+      "user_pain_points": [
+        "化妆品积灰",
+        "桌面杂乱",
+        "取用不便"
+      ],
+      "review_complaints": [
+        "无防尘盖的收纳盒容易落灰",
+        "普通收纳盒取用不便"
+      ],
+      "premium_drivers": [
+        "防尘盖设计",
+        "双向打开结构",
+        "多功能分区"
+      ],
+      "structure_highlights": [
+        "双向开合的防尘盖",
+        "抽屉式抽拉结构"
+      ],
+      "appearance_highlights": [
+        "透明或简约设计",
+        "可叠放节省空间"
+      ],
+      "extractable_features": [
+        "可抽拉抽屉",
+        "防尘盖可180度翻开",
+        "内部可调节隔板"
+      ],
+      "risks": [
+        "低价竞争激烈",
+        "塑料材质异味",
+        "抽拉轨道易损坏"
+      ]
+    }
+  ],
+  "summary": [
+    "美妆收纳趋势聚焦防尘、抽拉、带灯、大容量和材质升级。",
+    "桌面级防水防尘门/盖设计成为刚需，落地式柜体满足囤货型用户。",
+    "照明一体化解决暗处化妆痛点，实木材质提升溢价空间。",
+    "镜柜结合水龙头创新产品切入卫浴场景但需注意安装门槛。",
+    "各信号均面临同质化竞争，建议在差异化外观和功能细节上突破。"
+  ]
+}

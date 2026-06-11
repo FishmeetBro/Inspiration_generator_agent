@@ -1,0 +1,40 @@
+{
+  "patent_validations": [
+    {
+      "idea_name": "磁吸模块化桌面收纳系统",
+      "public_search_url": "https://patents.google.com/?q=%E7%A3%81%E5%90%B8%E6%A8%A1%E5%9D%97%E5%8C%96%E6%A1%8C%E9%9D%A2%E6%94%B6%E7%BA%B3%E7%B3%BB%E7%BB%9F+%E7%A3%81%E5%90%B8%E6%A8%A1%E5%9D%97%E5%8C%96+%E5%8F%AF%E6%8B%86%E5%8D%B8%E9%9A%94%E6%9D%BF+design+patent",
+      "infringement_risk_level": "low",
+      "validation_status": "pass",
+      "top_similarity_score": 0.0,
+      "similar_patent_signals": [],
+      "patent_gap_analysis": [
+        "当前公开检索结果中对特征 `磁吸模块化` 的直接覆盖较少，可优先从该结构差异切入。",
+        "当前公开检索结果中对特征 `可拆卸隔板` 的直接覆盖较少，可优先从该结构差异切入。"
+      ],
+      "avoidance_suggestions": [
+        "避免直接复用热门主体轮廓和开孔布局。",
+        "优先修改接口位置、模块拼接关系和配件连接方式。",
+        "优先将专利布局放在主体外观 + 可拆分配件矩阵上。"
+      ],
+      "notes": "本结果仅为公开检索初筛，不构成法律意见。"
+    },
+    {
+      "idea_name": "滑轨磁吸小物收纳盒",
+      "public_search_url": "https://patents.google.com/?q=%E6%BB%91%E8%BD%A8%E7%A3%81%E5%90%B8%E5%B0%8F%E7%89%A9%E6%94%B6%E7%BA%B3%E7%9B%92+%E7%A3%81%E5%90%B8%E5%BA%95%E5%BA%A7+%E6%BB%91%E8%BD%A8%E6%8B%89%E9%97%A8+design+patent",
+      "infringement_risk_level": "low",
+      "validation_status": "pass",
+      "top_similarity_score": 0.0,
+      "similar_patent_signals": [],
+      "patent_gap_analysis": [
+        "当前公开检索结果中对特征 `磁吸底座` 的直接覆盖较少，可优先从该结构差异切入。",
+        "当前公开检索结果中对特征 `滑轨拉门` 的直接覆盖较少，可优先从该结构差异切入。"
+      ],
+      "avoidance_suggestions": [
+        "避免直接复用热门主体轮廓和开孔布局。",
+        "优先修改接口位置、模块拼接关系和配件连接方式。",
+        "优先将专利布局放在主体外观 + 可拆分配件矩阵上。"
+      ],
+      "notes": "本结果仅为公开检索初筛，不构成法律意见。"
+    }
+  ]
+}
